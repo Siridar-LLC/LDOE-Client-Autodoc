@@ -1,0 +1,5 @@
+var RequestedCraftModel_8cs =
+[
+    [ "LDOE.Features.Mechanics.Manufacturing.Models.RequestedCraftModel", "structLDOE_1_1Features_1_1Mechanics_1_1Manufacturing_1_1Models_1_1RequestedCraftModel.html", "structLDOE_1_1Features_1_1Mechanics_1_1Manufacturing_1_1Models_1_1RequestedCraftModel" ],
+    [ "LDOE.Features.Mechanics.Manufacturing.Models.RequestedCraftModel.IngredientCraftModel", "structLDOE_1_1Features_1_1Mechanics_1_1Manufacturing_1_1Models_1_1RequestedCraftModel_1_1IngredientCraftModel.html", "structLDOE_1_1Features_1_1Mechanics_1_1Manufacturing_1_1Models_1_1RequestedCraftModel_1_1IngredientCraftModel" ]
+];

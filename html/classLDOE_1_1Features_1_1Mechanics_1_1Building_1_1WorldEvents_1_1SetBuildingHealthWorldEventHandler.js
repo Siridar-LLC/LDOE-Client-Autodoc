@@ -1,0 +1,5 @@
+var classLDOE_1_1Features_1_1Mechanics_1_1Building_1_1WorldEvents_1_1SetBuildingHealthWorldEventHandler =
+[
+    [ "SetBuildingHealthWorldEventHandler", "classLDOE_1_1Features_1_1Mechanics_1_1Building_1_1WorldEvents_1_1SetBuildingHealthWorldEventHandler.html#ab7451158e7d9f28fefe0fe6c5244d0c0", null ],
+    [ "Handle", "classLDOE_1_1Features_1_1Mechanics_1_1Building_1_1WorldEvents_1_1SetBuildingHealthWorldEventHandler.html#a58bda142371cd86954f0a170d2564770", null ]
+];

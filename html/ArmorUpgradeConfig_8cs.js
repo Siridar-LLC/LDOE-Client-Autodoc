@@ -1,0 +1,5 @@
+var ArmorUpgradeConfig_8cs =
+[
+    [ "LDOE.Features.Mechanics.Items.Features.Upgrade.Scriptable.ArmorUpgradeConfig", "classLDOE_1_1Features_1_1Mechanics_1_1Items_1_1Features_1_1Upgrade_1_1Scriptable_1_1ArmorUpgradeConfig.html", "classLDOE_1_1Features_1_1Mechanics_1_1Items_1_1Features_1_1Upgrade_1_1Scriptable_1_1ArmorUpgradeConfig" ],
+    [ "LDOE.Features.Mechanics.Items.Features.Upgrade.Scriptable.ArmorUpgradeConfig.ArmorUpgradeTableRow", "classLDOE_1_1Features_1_1Mechanics_1_1Items_1_1Features_1_1Upgrade_1_1Scriptable_1_1ArmorUpgradeConfig_1_1ArmorUpgradeTableRow.html", "classLDOE_1_1Features_1_1Mechanics_1_1Items_1_1Features_1_1Upgrade_1_1Scriptable_1_1ArmorUpgradeConfig_1_1ArmorUpgradeTableRow" ]
+];

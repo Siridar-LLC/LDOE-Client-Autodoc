@@ -1,0 +1,5 @@
+var structLDOE_1_1UI_1_1Windows_1_1WorkbenchGunsmith_1_1Components_1_1ItemPanels_1_1ImproveItemPanel0d57cb883f95626c28fd9558c761bf71 =
+[
+    [ "count", "structLDOE_1_1UI_1_1Windows_1_1WorkbenchGunsmith_1_1Components_1_1ItemPanels_1_1ImproveItemPanel0d57cb883f95626c28fd9558c761bf71.html#a2df0f7dc4f063496632583c04dc15b9b", null ],
+    [ "dataId", "structLDOE_1_1UI_1_1Windows_1_1WorkbenchGunsmith_1_1Components_1_1ItemPanels_1_1ImproveItemPanel0d57cb883f95626c28fd9558c761bf71.html#a0278f36e84230f78bf2c7e00998fc923", null ]
+];

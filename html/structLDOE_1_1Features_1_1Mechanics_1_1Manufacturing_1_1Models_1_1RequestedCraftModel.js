@@ -1,0 +1,6 @@
+var structLDOE_1_1Features_1_1Mechanics_1_1Manufacturing_1_1Models_1_1RequestedCraftModel =
+[
+    [ "IngredientCraftModel", "structLDOE_1_1Features_1_1Mechanics_1_1Manufacturing_1_1Models_1_1RequestedCraftModel_1_1IngredientCraftModel.html", "structLDOE_1_1Features_1_1Mechanics_1_1Manufacturing_1_1Models_1_1RequestedCraftModel_1_1IngredientCraftModel" ],
+    [ "ingredientCraftModels", "structLDOE_1_1Features_1_1Mechanics_1_1Manufacturing_1_1Models_1_1RequestedCraftModel.html#a0f2f5953c6d6bd53dddfafde5447ca26", null ],
+    [ "possibleCraftsCount", "structLDOE_1_1Features_1_1Mechanics_1_1Manufacturing_1_1Models_1_1RequestedCraftModel.html#a368b8e808012120ff2661021e89e35b3", null ]
+];

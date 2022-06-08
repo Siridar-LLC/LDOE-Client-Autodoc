@@ -1,0 +1,4 @@
+var namespaceLDOE_1_1Features_1_1Mechanics_1_1Manufacturing_1_1Models =
+[
+    [ "RequestedCraftModel", "structLDOE_1_1Features_1_1Mechanics_1_1Manufacturing_1_1Models_1_1RequestedCraftModel.html", "structLDOE_1_1Features_1_1Mechanics_1_1Manufacturing_1_1Models_1_1RequestedCraftModel" ]
+];

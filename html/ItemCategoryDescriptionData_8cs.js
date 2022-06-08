@@ -1,0 +1,4 @@
+var ItemCategoryDescriptionData_8cs =
+[
+    [ "LDOE.Features.Mechanics.Inventory.Components.Configs.ItemCategoryDescriptionData", "classLDOE_1_1Features_1_1Mechanics_1_1Inventory_1_1Components_1_1Configs_1_1ItemCategoryDescriptionData.html", "classLDOE_1_1Features_1_1Mechanics_1_1Inventory_1_1Components_1_1Configs_1_1ItemCategoryDescriptionData" ]
+];

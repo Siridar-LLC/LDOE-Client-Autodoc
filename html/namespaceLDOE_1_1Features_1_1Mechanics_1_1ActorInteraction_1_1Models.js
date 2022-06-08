@@ -1,0 +1,35 @@
+var namespaceLDOE_1_1Features_1_1Mechanics_1_1ActorInteraction_1_1Models =
+[
+    [ "ActionRejectReason", "structLDOE_1_1Features_1_1Mechanics_1_1ActorInteraction_1_1Models_1_1ActionRejectReason.html", "structLDOE_1_1Features_1_1Mechanics_1_1ActorInteraction_1_1Models_1_1ActionRejectReason" ],
+    [ "ActionRejectType", "namespaceLDOE_1_1Features_1_1Mechanics_1_1ActorInteraction_1_1Models.html#ad6a9622f0f0a9b928ef7749aa980a39d", [
+      [ "None", "namespaceLDOE_1_1Features_1_1Mechanics_1_1ActorInteraction_1_1Models.html#ad6a9622f0f0a9b928ef7749aa980a39da6adf97f83acf6453d4a6a4b1070f3754", null ],
+      [ "SkillsInternalError", "namespaceLDOE_1_1Features_1_1Mechanics_1_1ActorInteraction_1_1Models.html#ad6a9622f0f0a9b928ef7749aa980a39da408106cbc56300b7ae5560602507a1ed", null ],
+      [ "CharacterOverweight", "namespaceLDOE_1_1Features_1_1Mechanics_1_1ActorInteraction_1_1Models.html#ad6a9622f0f0a9b928ef7749aa980a39dad5028d0830c3d10df3a7097945ca7dce", null ],
+      [ "NoEmptySlotsInInventory", "namespaceLDOE_1_1Features_1_1Mechanics_1_1ActorInteraction_1_1Models.html#ad6a9622f0f0a9b928ef7749aa980a39dae691dcde8c03b79cc78d574bafe427f5", null ],
+      [ "NotEnoughPlaceInWorkbench", "namespaceLDOE_1_1Features_1_1Mechanics_1_1ActorInteraction_1_1Models.html#ad6a9622f0f0a9b928ef7749aa980a39da3f5051ceab07735c6e67716807fa2959", null ],
+      [ "HasNotEnoughSuitableSlotsInInventory", "namespaceLDOE_1_1Features_1_1Mechanics_1_1ActorInteraction_1_1Models.html#ad6a9622f0f0a9b928ef7749aa980a39da7e00fbe5261c2792ac7b1e7d158f580a", null ],
+      [ "TargetIsInteractableOnlyForOwner", "namespaceLDOE_1_1Features_1_1Mechanics_1_1ActorInteraction_1_1Models.html#ad6a9622f0f0a9b928ef7749aa980a39dad3d5675a2201407516c36e42db014a02", null ],
+      [ "NoSuitableInstrument", "namespaceLDOE_1_1Features_1_1Mechanics_1_1ActorInteraction_1_1Models.html#ad6a9622f0f0a9b928ef7749aa980a39da89dbe5979cfe913304c2f9efe38165ad", null ],
+      [ "RequiresAnotherPlayer", "namespaceLDOE_1_1Features_1_1Mechanics_1_1ActorInteraction_1_1Models.html#ad6a9622f0f0a9b928ef7749aa980a39da581f76d64f8dbc6edc3f1c4b3a5d89fa", null ],
+      [ "AnotherBuildingRequiresThisBasement", "namespaceLDOE_1_1Features_1_1Mechanics_1_1ActorInteraction_1_1Models.html#ad6a9622f0f0a9b928ef7749aa980a39dae5f48131bd7b32ae3170ba0f16d6bf85", null ],
+      [ "TargetIsBusy", "namespaceLDOE_1_1Features_1_1Mechanics_1_1ActorInteraction_1_1Models.html#ad6a9622f0f0a9b928ef7749aa980a39daa451e1fcb6876ad3c57b4891e55a04ca", null ],
+      [ "TargetIsNotWorkbench", "namespaceLDOE_1_1Features_1_1Mechanics_1_1ActorInteraction_1_1Models.html#ad6a9622f0f0a9b928ef7749aa980a39da3593bf318b17b8be67e80212ddbb2e96", null ],
+      [ "TargetIsNotDoor", "namespaceLDOE_1_1Features_1_1Mechanics_1_1ActorInteraction_1_1Models.html#ad6a9622f0f0a9b928ef7749aa980a39da47e6bc6e895401ad9bb973da7d6f50b8", null ],
+      [ "DoorIsOpened", "namespaceLDOE_1_1Features_1_1Mechanics_1_1ActorInteraction_1_1Models.html#ad6a9622f0f0a9b928ef7749aa980a39da942160a643842b78939bd192794d815a", null ],
+      [ "LockedByAspect", "namespaceLDOE_1_1Features_1_1Mechanics_1_1ActorInteraction_1_1Models.html#ad6a9622f0f0a9b928ef7749aa980a39daaab0948a58692f7403e1e19f9ec1eab5", null ],
+      [ "CantSplit", "namespaceLDOE_1_1Features_1_1Mechanics_1_1ActorInteraction_1_1Models.html#ad6a9622f0f0a9b928ef7749aa980a39da8de208989e8c9b6e5f08efb8edb297c4", null ],
+      [ "NoItemSelected", "namespaceLDOE_1_1Features_1_1Mechanics_1_1ActorInteraction_1_1Models.html#ad6a9622f0f0a9b928ef7749aa980a39da22ce3f58bbb85bae79d2d4722175a98e", null ],
+      [ "CantUseInInventory", "namespaceLDOE_1_1Features_1_1Mechanics_1_1ActorInteraction_1_1Models.html#ad6a9622f0f0a9b928ef7749aa980a39da9b28506e5f02225a6f07b6bd5272e48b", null ],
+      [ "ItemCantBeCrafted", "namespaceLDOE_1_1Features_1_1Mechanics_1_1ActorInteraction_1_1Models.html#ad6a9622f0f0a9b928ef7749aa980a39da353aa4a0e80e9aa18489754cc4eb250c", null ],
+      [ "CantCraftMore", "namespaceLDOE_1_1Features_1_1Mechanics_1_1ActorInteraction_1_1Models.html#ad6a9622f0f0a9b928ef7749aa980a39da8fd6e1f6de1d3ccd0bbb9c8be76b04f7", null ],
+      [ "CantCraftLess", "namespaceLDOE_1_1Features_1_1Mechanics_1_1ActorInteraction_1_1Models.html#ad6a9622f0f0a9b928ef7749aa980a39da0b0a4e9324cdbf891075b424ccde6f39", null ],
+      [ "NotEnoughPoints", "namespaceLDOE_1_1Features_1_1Mechanics_1_1ActorInteraction_1_1Models.html#ad6a9622f0f0a9b928ef7749aa980a39daa60a4f63590c007b4db2442ee70af459", null ],
+      [ "FullyUpgraded", "namespaceLDOE_1_1Features_1_1Mechanics_1_1ActorInteraction_1_1Models.html#ad6a9622f0f0a9b928ef7749aa980a39da153448844ae8dda18ee7a1e668b2e6e2", null ],
+      [ "SpecializationIsSelected", "namespaceLDOE_1_1Features_1_1Mechanics_1_1ActorInteraction_1_1Models.html#ad6a9622f0f0a9b928ef7749aa980a39dad4e9773b81c27d288e771eedc7864c4c", null ],
+      [ "SpecializationNotSelected", "namespaceLDOE_1_1Features_1_1Mechanics_1_1ActorInteraction_1_1Models.html#ad6a9622f0f0a9b928ef7749aa980a39da6d62ede253d0bb04ac3d9c49cb4c52f5", null ],
+      [ "SpecializationIsLocked", "namespaceLDOE_1_1Features_1_1Mechanics_1_1ActorInteraction_1_1Models.html#ad6a9622f0f0a9b928ef7749aa980a39da31cb802a79e4d7403e0f3de6f2288980", null ],
+      [ "SkillNotSelected", "namespaceLDOE_1_1Features_1_1Mechanics_1_1ActorInteraction_1_1Models.html#ad6a9622f0f0a9b928ef7749aa980a39da15bb3ac439c0167cb5d3099030ac3c12", null ],
+      [ "QuestHasUncompletedSteps", "namespaceLDOE_1_1Features_1_1Mechanics_1_1ActorInteraction_1_1Models.html#ad6a9622f0f0a9b928ef7749aa980a39da8a091a362a13461f4b384a1db6fae94a", null ],
+      [ "QuestNotInProcess", "namespaceLDOE_1_1Features_1_1Mechanics_1_1ActorInteraction_1_1Models.html#ad6a9622f0f0a9b928ef7749aa980a39dae169859a56a93afe1607e371732345ba", null ]
+    ] ]
+];

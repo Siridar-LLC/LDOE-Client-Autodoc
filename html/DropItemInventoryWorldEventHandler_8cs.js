@@ -1,0 +1,4 @@
+var DropItemInventoryWorldEventHandler_8cs =
+[
+    [ "LDOE.Features.Mechanics.Inventory.WorldEvents.DropItemInventoryWorldEventHandler", "classLDOE_1_1Features_1_1Mechanics_1_1Inventory_1_1WorldEvents_1_1DropItemInventoryWorldEventHandler.html", "classLDOE_1_1Features_1_1Mechanics_1_1Inventory_1_1WorldEvents_1_1DropItemInventoryWorldEventHandler" ]
+];

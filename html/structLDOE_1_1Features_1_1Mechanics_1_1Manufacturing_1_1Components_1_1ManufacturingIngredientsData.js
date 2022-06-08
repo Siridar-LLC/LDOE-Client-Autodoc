@@ -1,0 +1,5 @@
+var structLDOE_1_1Features_1_1Mechanics_1_1Manufacturing_1_1Components_1_1ManufacturingIngredientsData =
+[
+    [ "Ingredient", "structLDOE_1_1Features_1_1Mechanics_1_1Manufacturing_1_1Components_1_1ManufacturingIngredientsData_1_1Ingredient.html", "structLDOE_1_1Features_1_1Mechanics_1_1Manufacturing_1_1Components_1_1ManufacturingIngredientsData_1_1Ingredient" ],
+    [ "list", "structLDOE_1_1Features_1_1Mechanics_1_1Manufacturing_1_1Components_1_1ManufacturingIngredientsData.html#a769af79489d98f962aa66b46ace548c9", null ]
+];

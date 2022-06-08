@@ -1,0 +1,6 @@
+var SpawnData_8cs =
+[
+    [ "LDOE.Features.Mechanics.GameScene.EnvironmentGeneration.Data.SpawnData", "classLDOE_1_1Features_1_1Mechanics_1_1GameScene_1_1EnvironmentGeneration_1_1Data_1_1SpawnData.html", "classLDOE_1_1Features_1_1Mechanics_1_1GameScene_1_1EnvironmentGeneration_1_1Data_1_1SpawnData" ],
+    [ "LDOE.Features.Mechanics.GameScene.EnvironmentGeneration.Data.SpawnPrefabData", "classLDOE_1_1Features_1_1Mechanics_1_1GameScene_1_1EnvironmentGeneration_1_1Data_1_1SpawnPrefabData.html", "classLDOE_1_1Features_1_1Mechanics_1_1GameScene_1_1EnvironmentGeneration_1_1Data_1_1SpawnPrefabData" ],
+    [ "LDOE.Features.Mechanics.GameScene.EnvironmentGeneration.Data.SpawnConfigData", "classLDOE_1_1Features_1_1Mechanics_1_1GameScene_1_1EnvironmentGeneration_1_1Data_1_1SpawnConfigData.html", "classLDOE_1_1Features_1_1Mechanics_1_1GameScene_1_1EnvironmentGeneration_1_1Data_1_1SpawnConfigData" ]
+];

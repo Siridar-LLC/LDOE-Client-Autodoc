@@ -1,0 +1,7 @@
+var structLDOE_1_1UI_1_1Windows_1_1WorkbenchGunsmith_1_1Components_1_1ItemPanels_1_1DisassembleItemP599a0b5789466a4d6cff3bb21c45af14 =
+[
+    [ "disassembleModsList", "structLDOE_1_1UI_1_1Windows_1_1WorkbenchGunsmith_1_1Components_1_1ItemPanels_1_1DisassembleItemP599a0b5789466a4d6cff3bb21c45af14.html#a76807bcdcb5b982ac58056c6d96b15ba", null ],
+    [ "disassemblingItem", "structLDOE_1_1UI_1_1Windows_1_1WorkbenchGunsmith_1_1Components_1_1ItemPanels_1_1DisassembleItemP599a0b5789466a4d6cff3bb21c45af14.html#a8b05103d0f12dc37a7252891c5f6795e", null ],
+    [ "resource", "structLDOE_1_1UI_1_1Windows_1_1WorkbenchGunsmith_1_1Components_1_1ItemPanels_1_1DisassembleItemP599a0b5789466a4d6cff3bb21c45af14.html#a1003648790c572314d025fa7c11079b2", null ],
+    [ "index", "structLDOE_1_1UI_1_1Windows_1_1WorkbenchGunsmith_1_1Components_1_1ItemPanels_1_1DisassembleItemP599a0b5789466a4d6cff3bb21c45af14.html#ad565cc82644b792d1e5f40744395904f", null ]
+];

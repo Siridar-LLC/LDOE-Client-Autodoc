@@ -1,0 +1,4 @@
+var ServerConnectionSettingsConfigScriptableObject_8cs =
+[
+    [ "LDOE.Network.Connection.Settings.ServerConnectionSettingsConfigScriptableObject", "classLDOE_1_1Network_1_1Connection_1_1Settings_1_1ServerConnectionSettingsConfigScriptableObject.html", "classLDOE_1_1Network_1_1Connection_1_1Settings_1_1ServerConnectionSettingsConfigScriptableObject" ]
+];

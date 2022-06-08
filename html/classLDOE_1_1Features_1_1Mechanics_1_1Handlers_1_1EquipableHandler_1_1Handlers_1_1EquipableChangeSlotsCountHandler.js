@@ -1,0 +1,7 @@
+var classLDOE_1_1Features_1_1Mechanics_1_1Handlers_1_1EquipableHandler_1_1Handlers_1_1EquipableChangeSlotsCountHandler =
+[
+    [ "CanUnequip", "classLDOE_1_1Features_1_1Mechanics_1_1Handlers_1_1EquipableHandler_1_1Handlers_1_1EquipableChangeSlotsCountHandler.html#abfae69cd90efe968c7ffb311a2076904", null ],
+    [ "Equip", "classLDOE_1_1Features_1_1Mechanics_1_1Handlers_1_1EquipableHandler_1_1Handlers_1_1EquipableChangeSlotsCountHandler.html#a2e57668455ce56dbcae25d7993562001", null ],
+    [ "Unequip", "classLDOE_1_1Features_1_1Mechanics_1_1Handlers_1_1EquipableHandler_1_1Handlers_1_1EquipableChangeSlotsCountHandler.html#a29646af42f7c7b9e028d1571b0f8e6a3", null ],
+    [ "inventorySlotsCountChange", "classLDOE_1_1Features_1_1Mechanics_1_1Handlers_1_1EquipableHandler_1_1Handlers_1_1EquipableChangeSlotsCountHandler.html#ab86fb176aeb924eea3f84e7a7f369f98", null ]
+];

@@ -1,0 +1,5 @@
+var ManufacturingIngredientsData_8cs =
+[
+    [ "LDOE.Features.Mechanics.Manufacturing.Components.ManufacturingIngredientsData", "structLDOE_1_1Features_1_1Mechanics_1_1Manufacturing_1_1Components_1_1ManufacturingIngredientsData.html", "structLDOE_1_1Features_1_1Mechanics_1_1Manufacturing_1_1Components_1_1ManufacturingIngredientsData" ],
+    [ "LDOE.Features.Mechanics.Manufacturing.Components.ManufacturingIngredientsData.Ingredient", "structLDOE_1_1Features_1_1Mechanics_1_1Manufacturing_1_1Components_1_1ManufacturingIngredientsData_1_1Ingredient.html", "structLDOE_1_1Features_1_1Mechanics_1_1Manufacturing_1_1Components_1_1ManufacturingIngredientsData_1_1Ingredient" ]
+];

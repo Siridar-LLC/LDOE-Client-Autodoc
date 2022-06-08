@@ -1,0 +1,4 @@
+var classLDOE_1_1UI_1_1Windows_1_1Buildings_1_1Upgrade_1_1Components_1_1UpgradeBuildingScreenHeader =
+[
+    [ "SetBuildingName", "classLDOE_1_1UI_1_1Windows_1_1Buildings_1_1Upgrade_1_1Components_1_1UpgradeBuildingScreenHeader.html#a2e3a6dfc8ab26650b14ba1c33e7d8634", null ]
+];

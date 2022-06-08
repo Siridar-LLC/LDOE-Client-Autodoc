@@ -1,0 +1,4 @@
+var WorkbenchUpgradePanelComponent_8cs =
+[
+    [ "LDOE.UI.Windows.WorkbenchCrafting.Components.Panels.WorkbenchUpgradePanelComponent", "classLDOE_1_1UI_1_1Windows_1_1WorkbenchCrafting_1_1Components_1_1Panels_1_1WorkbenchUpgradePanelComponent.html", "classLDOE_1_1UI_1_1Windows_1_1WorkbenchCrafting_1_1Components_1_1Panels_1_1WorkbenchUpgradePanelComponent" ]
+];

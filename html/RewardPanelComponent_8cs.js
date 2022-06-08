@@ -1,0 +1,4 @@
+var RewardPanelComponent_8cs =
+[
+    [ "LDOE.UI.Windows.GlobalMap.Windows.GlobalMapBossLocationInfo.Components.RewardPanelComponent", "classLDOE_1_1UI_1_1Windows_1_1GlobalMap_1_1Windows_1_1GlobalMapBossLocationInfo_1_1Components_1_1RewardPanelComponent.html", "classLDOE_1_1UI_1_1Windows_1_1GlobalMap_1_1Windows_1_1GlobalMapBossLocationInfo_1_1Components_1_1RewardPanelComponent" ]
+];

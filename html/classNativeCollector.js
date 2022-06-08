@@ -1,0 +1,28 @@
+var classNativeCollector =
+[
+    [ "NativeCollector", "classNativeCollector.html#a8b04e47ffe7a53b2468cc068dee03294", null ],
+    [ "NativeCollector", "classNativeCollector.html#a393337e484e9c8e8dbf301076786374f", null ],
+    [ "Disable", "classNativeCollector.html#a759344c18481026fa2db545caf962c80", null ],
+    [ "Disable", "classNativeCollector.html#a759344c18481026fa2db545caf962c80", null ],
+    [ "DisposeStaticData", "classNativeCollector.html#a3e5ac4e603f739e06171ff3c6263f473", null ],
+    [ "DisposeStaticData", "classNativeCollector.html#a3e5ac4e603f739e06171ff3c6263f473", null ],
+    [ "Enable", "classNativeCollector.html#a0fb94823933a60262be4db679bbc5237", null ],
+    [ "Enable", "classNativeCollector.html#a0fb94823933a60262be4db679bbc5237", null ],
+    [ "GetData", "classNativeCollector.html#aa40e886b276ba15a2c9928b86f4c86cc", null ],
+    [ "GetData0", "classNativeCollector.html#ad1aeec9a88ff34d7400f782e47d573cb", null ],
+    [ "GetData2", "classNativeCollector.html#a781eb1f70a07aa87dd5e79e53e97b7e2", null ],
+    [ "LazyInitializeStaticData", "classNativeCollector.html#a8a72def1e2467ecfa92361088db5c698", null ],
+    [ "LazyInitializeStaticData", "classNativeCollector.html#a8a72def1e2467ecfa92361088db5c698", null ],
+    [ "SetData", "classNativeCollector.html#a13f687f80a6406a4ab014fd2c0472943", null ],
+    [ "SetData0", "classNativeCollector.html#a05646f36ef73f41ac20e9f05394dce2b", null ],
+    [ "SetData1", "classNativeCollector.html#ae5e5c207a72a0e3ebf0df945bddb3b55", null ],
+    [ "Data0List", "classNativeCollector.html#a6f8c47abdd7a8632e02b626b5b0ebf65", null ],
+    [ "Data1List", "classNativeCollector.html#afafb52d14844234aa2b36caae17528ff", null ],
+    [ "DataList", "classNativeCollector.html#a96934050ebacc6247e887911f31a4364", null ],
+    [ "ObjectList", "classNativeCollector.html#a51ad7f2d4b0d53dbcd932a4a73f4f00a", null ],
+    [ "ObjectList", "classNativeCollector.html#a4e0402fcfe316be79228d99f0d6257b1", null ],
+    [ "data", "classNativeCollector.html#a37a7508874bb76092de2f167478087cd", null ],
+    [ "data0", "classNativeCollector.html#aea3ff8dde39ed878c448b7e228138b8b", null ],
+    [ "data1", "classNativeCollector.html#a0cae6ba5f8b753c1eadc2ada99152579", null ],
+    [ "exists", "classNativeCollector.html#abf3faf4ebff516f0109ddc0daf747d83", null ]
+];

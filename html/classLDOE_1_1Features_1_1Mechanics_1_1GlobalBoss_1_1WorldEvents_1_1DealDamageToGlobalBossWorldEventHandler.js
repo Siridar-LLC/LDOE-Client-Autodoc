@@ -1,0 +1,4 @@
+var classLDOE_1_1Features_1_1Mechanics_1_1GlobalBoss_1_1WorldEvents_1_1DealDamageToGlobalBossWorldEventHandler =
+[
+    [ "Handle", "classLDOE_1_1Features_1_1Mechanics_1_1GlobalBoss_1_1WorldEvents_1_1DealDamageToGlobalBossWorldEventHandler.html#a1c72a565ac287e0b53ef8a2557c7c736", null ]
+];

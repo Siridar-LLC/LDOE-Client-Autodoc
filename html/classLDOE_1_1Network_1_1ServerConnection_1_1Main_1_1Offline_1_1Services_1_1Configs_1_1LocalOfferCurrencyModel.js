@@ -1,0 +1,5 @@
+var classLDOE_1_1Network_1_1ServerConnection_1_1Main_1_1Offline_1_1Services_1_1Configs_1_1LocalOfferCurrencyModel =
+[
+    [ "Amount", "classLDOE_1_1Network_1_1ServerConnection_1_1Main_1_1Offline_1_1Services_1_1Configs_1_1LocalOfferCurrencyModel.html#ad377ab35ad35f38c11f5a1947507e660", null ],
+    [ "Currency", "classLDOE_1_1Network_1_1ServerConnection_1_1Main_1_1Offline_1_1Services_1_1Configs_1_1LocalOfferCurrencyModel.html#a638fd877decdcfbc3b5a21a7d42b26a0", null ]
+];

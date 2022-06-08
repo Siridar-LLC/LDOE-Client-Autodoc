@@ -1,0 +1,5 @@
+var interfaceLDOE_1_1Features_1_1Mechanics_1_1Items_1_1Features_1_1Upgrade_1_1Scriptable_1_1IItemUpgradeTableRow =
+[
+    [ "ParameterValue", "interfaceLDOE_1_1Features_1_1Mechanics_1_1Items_1_1Features_1_1Upgrade_1_1Scriptable_1_1IItemUpgradeTableRow.html#a1bf01244a9bc101975830b49b4f32c79", null ],
+    [ "ResourceCountToUpgrade", "interfaceLDOE_1_1Features_1_1Mechanics_1_1Items_1_1Features_1_1Upgrade_1_1Scriptable_1_1IItemUpgradeTableRow.html#af93ba1b97eb741de71b9583d9dc9b726", null ]
+];

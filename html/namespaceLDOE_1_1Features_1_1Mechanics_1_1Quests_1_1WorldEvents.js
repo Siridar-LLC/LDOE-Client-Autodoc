@@ -1,0 +1,7 @@
+var namespaceLDOE_1_1Features_1_1Mechanics_1_1Quests_1_1WorldEvents =
+[
+    [ "QuestWorldEvent", "structLDOE_1_1Features_1_1Mechanics_1_1Quests_1_1WorldEvents_1_1QuestWorldEvent.html", "structLDOE_1_1Features_1_1Mechanics_1_1Quests_1_1WorldEvents_1_1QuestWorldEvent" ],
+    [ "QuestWorldEventHandler", "classLDOE_1_1Features_1_1Mechanics_1_1Quests_1_1WorldEvents_1_1QuestWorldEventHandler.html", "classLDOE_1_1Features_1_1Mechanics_1_1Quests_1_1WorldEvents_1_1QuestWorldEventHandler" ],
+    [ "UnlockNewQuestWorldEvent", "structLDOE_1_1Features_1_1Mechanics_1_1Quests_1_1WorldEvents_1_1UnlockNewQuestWorldEvent.html", "structLDOE_1_1Features_1_1Mechanics_1_1Quests_1_1WorldEvents_1_1UnlockNewQuestWorldEvent" ],
+    [ "UnlockNewQuestWorldEventHandler", "classLDOE_1_1Features_1_1Mechanics_1_1Quests_1_1WorldEvents_1_1UnlockNewQuestWorldEventHandler.html", "classLDOE_1_1Features_1_1Mechanics_1_1Quests_1_1WorldEvents_1_1UnlockNewQuestWorldEventHandler" ]
+];

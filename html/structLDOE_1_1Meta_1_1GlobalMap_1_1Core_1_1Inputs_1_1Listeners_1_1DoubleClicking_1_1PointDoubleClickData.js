@@ -1,0 +1,5 @@
+var structLDOE_1_1Meta_1_1GlobalMap_1_1Core_1_1Inputs_1_1Listeners_1_1DoubleClicking_1_1PointDoubleClickData =
+[
+    [ "PointDoubleClickData", "structLDOE_1_1Meta_1_1GlobalMap_1_1Core_1_1Inputs_1_1Listeners_1_1DoubleClicking_1_1PointDoubleClickData.html#a3f51c8cee43de65ba87107845bc7434e", null ],
+    [ "secondClick", "structLDOE_1_1Meta_1_1GlobalMap_1_1Core_1_1Inputs_1_1Listeners_1_1DoubleClicking_1_1PointDoubleClickData.html#a5d20da23624bf0154cd81db09b28e577", null ]
+];

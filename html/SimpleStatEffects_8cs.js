@@ -1,0 +1,8 @@
+var SimpleStatEffects_8cs =
+[
+    [ "LDOE.Features.Mechanics.Effects.Common.StatEffects.StatEffects", "classLDOE_1_1Features_1_1Mechanics_1_1Effects_1_1Common_1_1StatEffects_1_1StatEffects.html", "classLDOE_1_1Features_1_1Mechanics_1_1Effects_1_1Common_1_1StatEffects_1_1StatEffects" ],
+    [ "LDOE.Features.Mechanics.Effects.Common.StatEffects.StatEffects.ChangeHealthEffect", "classLDOE_1_1Features_1_1Mechanics_1_1Effects_1_1Common_1_1StatEffects_1_1StatEffects_1_1ChangeHealthEffect.html", "classLDOE_1_1Features_1_1Mechanics_1_1Effects_1_1Common_1_1StatEffects_1_1StatEffects_1_1ChangeHealthEffect" ],
+    [ "LDOE.Features.Mechanics.Effects.Common.StatEffects.StatEffects.ChangeManaEffect", "classLDOE_1_1Features_1_1Mechanics_1_1Effects_1_1Common_1_1StatEffects_1_1StatEffects_1_1ChangeManaEffect.html", "classLDOE_1_1Features_1_1Mechanics_1_1Effects_1_1Common_1_1StatEffects_1_1StatEffects_1_1ChangeManaEffect" ],
+    [ "LDOE.Features.Mechanics.Effects.Common.StatEffects.StatEffects.ChangeFoodEffect", "classLDOE_1_1Features_1_1Mechanics_1_1Effects_1_1Common_1_1StatEffects_1_1StatEffects_1_1ChangeFoodEffect.html", "classLDOE_1_1Features_1_1Mechanics_1_1Effects_1_1Common_1_1StatEffects_1_1StatEffects_1_1ChangeFoodEffect" ],
+    [ "LDOE.Features.Mechanics.Effects.Common.StatEffects.StatEffects.ChangeWaterEffect", "classLDOE_1_1Features_1_1Mechanics_1_1Effects_1_1Common_1_1StatEffects_1_1StatEffects_1_1ChangeWaterEffect.html", "classLDOE_1_1Features_1_1Mechanics_1_1Effects_1_1Common_1_1StatEffects_1_1StatEffects_1_1ChangeWaterEffect" ]
+];

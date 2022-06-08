@@ -1,0 +1,5 @@
+var UnresearchModWorldEvent_8cs =
+[
+    [ "LDOE.Features.Mechanics.EquipmentMods.WorldEvents.UnresearchModWorldEvent", "structLDOE_1_1Features_1_1Mechanics_1_1EquipmentMods_1_1WorldEvents_1_1UnresearchModWorldEvent.html", "structLDOE_1_1Features_1_1Mechanics_1_1EquipmentMods_1_1WorldEvents_1_1UnresearchModWorldEvent" ],
+    [ "LDOE.Features.Mechanics.EquipmentMods.WorldEvents.UnresearchModWorldEventHandler", "classLDOE_1_1Features_1_1Mechanics_1_1EquipmentMods_1_1WorldEvents_1_1UnresearchModWorldEventHandler.html", "classLDOE_1_1Features_1_1Mechanics_1_1EquipmentMods_1_1WorldEvents_1_1UnresearchModWorldEventHandler" ]
+];

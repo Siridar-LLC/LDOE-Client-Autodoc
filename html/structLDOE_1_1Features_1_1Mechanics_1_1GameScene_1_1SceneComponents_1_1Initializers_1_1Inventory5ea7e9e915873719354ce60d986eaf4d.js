@@ -1,0 +1,5 @@
+var structLDOE_1_1Features_1_1Mechanics_1_1GameScene_1_1SceneComponents_1_1Initializers_1_1Inventory5ea7e9e915873719354ce60d986eaf4d =
+[
+    [ "itemConfig", "structLDOE_1_1Features_1_1Mechanics_1_1GameScene_1_1SceneComponents_1_1Initializers_1_1Inventory5ea7e9e915873719354ce60d986eaf4d.html#a9a6b1a972551afc6e42fa3436661a00b", null ],
+    [ "itemCountValue", "structLDOE_1_1Features_1_1Mechanics_1_1GameScene_1_1SceneComponents_1_1Initializers_1_1Inventory5ea7e9e915873719354ce60d986eaf4d.html#a4ad791421f9f27d6a10449c4bc565d3b", null ]
+];

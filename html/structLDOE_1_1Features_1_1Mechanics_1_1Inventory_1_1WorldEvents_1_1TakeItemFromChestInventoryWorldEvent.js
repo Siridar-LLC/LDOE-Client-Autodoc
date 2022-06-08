@@ -1,0 +1,5 @@
+var structLDOE_1_1Features_1_1Mechanics_1_1Inventory_1_1WorldEvents_1_1TakeItemFromChestInventoryWorldEvent =
+[
+    [ "playerId", "structLDOE_1_1Features_1_1Mechanics_1_1Inventory_1_1WorldEvents_1_1TakeItemFromChestInventoryWorldEvent.html#a16c48f83d15729ae13af0b52aa2da3f1", null ],
+    [ "takeItemFromChestDto", "structLDOE_1_1Features_1_1Mechanics_1_1Inventory_1_1WorldEvents_1_1TakeItemFromChestInventoryWorldEvent.html#ad304da8e1c8614afe943505776931dc7", null ]
+];

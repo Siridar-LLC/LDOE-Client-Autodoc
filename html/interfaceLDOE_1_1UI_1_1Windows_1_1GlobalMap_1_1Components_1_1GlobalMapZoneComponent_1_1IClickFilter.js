@@ -1,0 +1,4 @@
+var interfaceLDOE_1_1UI_1_1Windows_1_1GlobalMap_1_1Components_1_1GlobalMapZoneComponent_1_1IClickFilter =
+[
+    [ "CanProcessClick", "interfaceLDOE_1_1UI_1_1Windows_1_1GlobalMap_1_1Components_1_1GlobalMapZoneComponent_1_1IClickFilter.html#a4afe1d36da8c0080aa40382411cc1739", null ]
+];

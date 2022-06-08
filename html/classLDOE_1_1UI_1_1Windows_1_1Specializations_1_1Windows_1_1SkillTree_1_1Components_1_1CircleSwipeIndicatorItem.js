@@ -1,0 +1,5 @@
+var classLDOE_1_1UI_1_1Windows_1_1Specializations_1_1Windows_1_1SkillTree_1_1Components_1_1CircleSwipeIndicatorItem =
+[
+    [ "SetInfo", "classLDOE_1_1UI_1_1Windows_1_1Specializations_1_1Windows_1_1SkillTree_1_1Components_1_1CircleSwipeIndicatorItem.html#a6a7b7a12499c4fa05eb340900bbd833e", null ],
+    [ "nameText", "classLDOE_1_1UI_1_1Windows_1_1Specializations_1_1Windows_1_1SkillTree_1_1Components_1_1CircleSwipeIndicatorItem.html#a6febae6f6511a1091b35a54e4e872180", null ]
+];

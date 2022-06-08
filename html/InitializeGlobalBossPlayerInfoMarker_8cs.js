@@ -1,0 +1,4 @@
+var InitializeGlobalBossPlayerInfoMarker_8cs =
+[
+    [ "LDOE.Features.Mechanics.GlobalBoss.Markers.InitializeGlobalBossPlayerInfoMarker", "structLDOE_1_1Features_1_1Mechanics_1_1GlobalBoss_1_1Markers_1_1InitializeGlobalBossPlayerInfoMarker.html", "structLDOE_1_1Features_1_1Mechanics_1_1GlobalBoss_1_1Markers_1_1InitializeGlobalBossPlayerInfoMarker" ]
+];

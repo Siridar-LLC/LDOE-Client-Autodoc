@@ -1,0 +1,9 @@
+var namespaceLDOE_1_1Features_1_1Mechanics_1_1Building_1_1Markers =
+[
+    [ "CreateBuildingFromItemInput", "structLDOE_1_1Features_1_1Mechanics_1_1Building_1_1Markers_1_1CreateBuildingFromItemInput.html", "structLDOE_1_1Features_1_1Mechanics_1_1Building_1_1Markers_1_1CreateBuildingFromItemInput" ],
+    [ "CreateBuildingFromRecipeInput", "structLDOE_1_1Features_1_1Mechanics_1_1Building_1_1Markers_1_1CreateBuildingFromRecipeInput.html", "structLDOE_1_1Features_1_1Mechanics_1_1Building_1_1Markers_1_1CreateBuildingFromRecipeInput" ],
+    [ "DestroyBuildingInput", "structLDOE_1_1Features_1_1Mechanics_1_1Building_1_1Markers_1_1DestroyBuildingInput.html", "structLDOE_1_1Features_1_1Mechanics_1_1Building_1_1Markers_1_1DestroyBuildingInput" ],
+    [ "MoveBuildingInput", "structLDOE_1_1Features_1_1Mechanics_1_1Building_1_1Markers_1_1MoveBuildingInput.html", "structLDOE_1_1Features_1_1Mechanics_1_1Building_1_1Markers_1_1MoveBuildingInput" ],
+    [ "RepairBuildingInput", "structLDOE_1_1Features_1_1Mechanics_1_1Building_1_1Markers_1_1RepairBuildingInput.html", "structLDOE_1_1Features_1_1Mechanics_1_1Building_1_1Markers_1_1RepairBuildingInput" ],
+    [ "UpgradeBuildingInput", "structLDOE_1_1Features_1_1Mechanics_1_1Building_1_1Markers_1_1UpgradeBuildingInput.html", "structLDOE_1_1Features_1_1Mechanics_1_1Building_1_1Markers_1_1UpgradeBuildingInput" ]
+];

@@ -1,0 +1,5 @@
+var classLDOE_1_1Features_1_1Mechanics_1_1Items_1_1Features_1_1Upgrade_1_1Scriptable_1_1ArmorUpgradeConfig_1_1ArmorUpgradeTableRow =
+[
+    [ "defense", "classLDOE_1_1Features_1_1Mechanics_1_1Items_1_1Features_1_1Upgrade_1_1Scriptable_1_1ArmorUpgradeConfig_1_1ArmorUpgradeTableRow.html#a58c5bd5383659a1cf8a9320fcb49300d", null ],
+    [ "ParameterValue", "classLDOE_1_1Features_1_1Mechanics_1_1Items_1_1Features_1_1Upgrade_1_1Scriptable_1_1ArmorUpgradeConfig_1_1ArmorUpgradeTableRow.html#a61547617d03ecd222ee0a26e5b38dcab", null ]
+];

@@ -1,0 +1,5 @@
+var DealDamageToGlobalBossWorldEvent_8cs =
+[
+    [ "LDOE.Features.Mechanics.GlobalBoss.WorldEvents.DealDamageToGlobalBossWorldEvent", "structLDOE_1_1Features_1_1Mechanics_1_1GlobalBoss_1_1WorldEvents_1_1DealDamageToGlobalBossWorldEvent.html", "structLDOE_1_1Features_1_1Mechanics_1_1GlobalBoss_1_1WorldEvents_1_1DealDamageToGlobalBossWorldEvent" ],
+    [ "LDOE.Features.Mechanics.GlobalBoss.WorldEvents.DealDamageToGlobalBossWorldEventHandler", "classLDOE_1_1Features_1_1Mechanics_1_1GlobalBoss_1_1WorldEvents_1_1DealDamageToGlobalBossWorldEventHandler.html", "classLDOE_1_1Features_1_1Mechanics_1_1GlobalBoss_1_1WorldEvents_1_1DealDamageToGlobalBossWorldEventHandler" ]
+];

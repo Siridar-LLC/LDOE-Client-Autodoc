@@ -1,0 +1,5 @@
+var classLDOE_1_1Features_1_1Mechanics_1_1StorableLocation_1_1WorldEvents_1_1StorableWorldEventHandlerBase =
+[
+    [ "StorableWorldEventHandlerBase", "classLDOE_1_1Features_1_1Mechanics_1_1StorableLocation_1_1WorldEvents_1_1StorableWorldEventHandlerBase.html#a0654c3f7bc6e00c8fc3280720cc18cfa", null ],
+    [ "_serviceProvider", "classLDOE_1_1Features_1_1Mechanics_1_1StorableLocation_1_1WorldEvents_1_1StorableWorldEventHandlerBase.html#a8d5bb6c656066af9c06ffd75e107f597", null ]
+];

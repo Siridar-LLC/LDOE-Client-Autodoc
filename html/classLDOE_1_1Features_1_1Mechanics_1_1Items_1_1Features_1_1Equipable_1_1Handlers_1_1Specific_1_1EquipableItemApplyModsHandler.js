@@ -1,0 +1,5 @@
+var classLDOE_1_1Features_1_1Mechanics_1_1Items_1_1Features_1_1Equipable_1_1Handlers_1_1Specific_1_1EquipableItemApplyModsHandler =
+[
+    [ "Equip", "classLDOE_1_1Features_1_1Mechanics_1_1Items_1_1Features_1_1Equipable_1_1Handlers_1_1Specific_1_1EquipableItemApplyModsHandler.html#a0866da9f100b58e01e6ab6356dfcbc4a", null ],
+    [ "Unequip", "classLDOE_1_1Features_1_1Mechanics_1_1Items_1_1Features_1_1Equipable_1_1Handlers_1_1Specific_1_1EquipableItemApplyModsHandler.html#af05244c21abb03dabcfaff6311d02146", null ]
+];

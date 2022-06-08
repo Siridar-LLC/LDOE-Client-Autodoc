@@ -1,0 +1,4 @@
+var structLDOE_1_1Features_1_1Mechanics_1_1Manufacturing_1_1Components_1_1ManufacturingDurationData =
+[
+    [ "duration", "structLDOE_1_1Features_1_1Mechanics_1_1Manufacturing_1_1Components_1_1ManufacturingDurationData.html#a759541011c0669c87c4032954e426b69", null ]
+];

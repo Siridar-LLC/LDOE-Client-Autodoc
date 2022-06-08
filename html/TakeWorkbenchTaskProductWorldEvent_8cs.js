@@ -1,0 +1,4 @@
+var TakeWorkbenchTaskProductWorldEvent_8cs =
+[
+    [ "LDOE.Features.Mechanics.Workbenches.WorldEvents.TakeWorkbenchTaskProductWorldEvent", "structLDOE_1_1Features_1_1Mechanics_1_1Workbenches_1_1WorldEvents_1_1TakeWorkbenchTaskProductWorldEvent.html", "structLDOE_1_1Features_1_1Mechanics_1_1Workbenches_1_1WorldEvents_1_1TakeWorkbenchTaskProductWorldEvent" ]
+];

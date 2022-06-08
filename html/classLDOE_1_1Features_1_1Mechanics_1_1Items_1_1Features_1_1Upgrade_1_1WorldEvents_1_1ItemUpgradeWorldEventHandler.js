@@ -1,0 +1,5 @@
+var classLDOE_1_1Features_1_1Mechanics_1_1Items_1_1Features_1_1Upgrade_1_1WorldEvents_1_1ItemUpgradeWorldEventHandler =
+[
+    [ "ItemUpgradeWorldEventHandler", "classLDOE_1_1Features_1_1Mechanics_1_1Items_1_1Features_1_1Upgrade_1_1WorldEvents_1_1ItemUpgradeWorldEventHandler.html#a5b852c555ab2050af19788b809b6e7fa", null ],
+    [ "Handle", "classLDOE_1_1Features_1_1Mechanics_1_1Items_1_1Features_1_1Upgrade_1_1WorldEvents_1_1ItemUpgradeWorldEventHandler.html#a91bc02c6aa26f7d78739e83fc0880771", null ]
+];

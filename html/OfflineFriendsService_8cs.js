@@ -1,0 +1,4 @@
+var OfflineFriendsService_8cs =
+[
+    [ "LDOE.Network.ServerConnection.Communication.Offline.Services.OfflineFriendsService", "classLDOE_1_1Network_1_1ServerConnection_1_1Communication_1_1Offline_1_1Services_1_1OfflineFriendsService.html", "classLDOE_1_1Network_1_1ServerConnection_1_1Communication_1_1Offline_1_1Services_1_1OfflineFriendsService" ]
+];

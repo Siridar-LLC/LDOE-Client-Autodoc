@@ -1,0 +1,4 @@
+var ModificationSlotsInfoItemComponent_8cs =
+[
+    [ "LDOE.UI.Windows.Inventory.Windows.ItemPopup.Components.ModificationSlotsInfoItemComponent", "classLDOE_1_1UI_1_1Windows_1_1Inventory_1_1Windows_1_1ItemPopup_1_1Components_1_1ModificationSlotsInfoItemComponent.html", "classLDOE_1_1UI_1_1Windows_1_1Inventory_1_1Windows_1_1ItemPopup_1_1Components_1_1ModificationSlotsInfoItemComponent" ]
+];

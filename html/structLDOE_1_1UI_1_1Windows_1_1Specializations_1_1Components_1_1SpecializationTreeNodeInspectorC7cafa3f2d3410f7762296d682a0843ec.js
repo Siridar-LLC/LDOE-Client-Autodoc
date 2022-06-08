@@ -1,0 +1,5 @@
+var structLDOE_1_1UI_1_1Windows_1_1Specializations_1_1Components_1_1SpecializationTreeNodeInspectorC7cafa3f2d3410f7762296d682a0843ec =
+[
+    [ "levelDatas", "structLDOE_1_1UI_1_1Windows_1_1Specializations_1_1Components_1_1SpecializationTreeNodeInspectorC7cafa3f2d3410f7762296d682a0843ec.html#a8394487471b496a6b1c3d42ecf44e236", null ],
+    [ "index", "structLDOE_1_1UI_1_1Windows_1_1Specializations_1_1Components_1_1SpecializationTreeNodeInspectorC7cafa3f2d3410f7762296d682a0843ec.html#a2565aef3fb46026a9fc8ed28fe8f8ff6", null ]
+];

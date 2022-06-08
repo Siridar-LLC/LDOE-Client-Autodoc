@@ -1,0 +1,6 @@
+var ItemUpgradeConfigGeneric_8cs =
+[
+    [ "LDOE.Features.Mechanics.Items.Features.Upgrade.Scriptable.IItemUpgradeTableRow", "interfaceLDOE_1_1Features_1_1Mechanics_1_1Items_1_1Features_1_1Upgrade_1_1Scriptable_1_1IItemUpgradeTableRow.html", "interfaceLDOE_1_1Features_1_1Mechanics_1_1Items_1_1Features_1_1Upgrade_1_1Scriptable_1_1IItemUpgradeTableRow" ],
+    [ "LDOE.Features.Mechanics.Items.Features.Upgrade.Scriptable.ItemUpgradeTableRow", "classLDOE_1_1Features_1_1Mechanics_1_1Items_1_1Features_1_1Upgrade_1_1Scriptable_1_1ItemUpgradeTableRow.html", "classLDOE_1_1Features_1_1Mechanics_1_1Items_1_1Features_1_1Upgrade_1_1Scriptable_1_1ItemUpgradeTableRow" ],
+    [ "LDOE.Features.Mechanics.Items.Features.Upgrade.Scriptable.ItemUpgradeConfigGeneric< T >", "classLDOE_1_1Features_1_1Mechanics_1_1Items_1_1Features_1_1Upgrade_1_1Scriptable_1_1ItemUpgradeConfigGeneric.html", "classLDOE_1_1Features_1_1Mechanics_1_1Items_1_1Features_1_1Upgrade_1_1Scriptable_1_1ItemUpgradeConfigGeneric" ]
+];

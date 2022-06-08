@@ -1,0 +1,4 @@
+var SceneObjectGeneratorConfigBase_8cs =
+[
+    [ "LDOE.Features.Mechanics.GameScene.GeneratorConfigs.SceneObjectGeneratorConfigBase", "classLDOE_1_1Features_1_1Mechanics_1_1GameScene_1_1GeneratorConfigs_1_1SceneObjectGeneratorConfigBase.html", "classLDOE_1_1Features_1_1Mechanics_1_1GameScene_1_1GeneratorConfigs_1_1SceneObjectGeneratorConfigBase" ]
+];

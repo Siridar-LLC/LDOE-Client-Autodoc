@@ -1,0 +1,4 @@
+var classLDOE_1_1Features_1_1Mechanics_1_1GlobalBoss_1_1Systems_1_1GlobalBossPlayerInitializationSystem =
+[
+    [ "world", "classLDOE_1_1Features_1_1Mechanics_1_1GlobalBoss_1_1Systems_1_1GlobalBossPlayerInitializationSystem.html#a260c447d00727d07a8467d23ccf32763", null ]
+];

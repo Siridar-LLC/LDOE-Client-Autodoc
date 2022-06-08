@@ -1,0 +1,4 @@
+var BuffCharacterBase_8cs =
+[
+    [ "LDOE.Features.Mechanics.LocationTasks.SceneComponents.Actions.BuffCharacterBase", "classLDOE_1_1Features_1_1Mechanics_1_1LocationTasks_1_1SceneComponents_1_1Actions_1_1BuffCharacterBase.html", "classLDOE_1_1Features_1_1Mechanics_1_1LocationTasks_1_1SceneComponents_1_1Actions_1_1BuffCharacterBase" ]
+];

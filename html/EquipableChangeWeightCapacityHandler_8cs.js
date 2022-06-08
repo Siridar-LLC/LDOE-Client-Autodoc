@@ -1,0 +1,4 @@
+var EquipableChangeWeightCapacityHandler_8cs =
+[
+    [ "LDOE.Features.Mechanics.Handlers.EquipableHandler.Handlers.EquipableChangeWeightCapacityHandler", "classLDOE_1_1Features_1_1Mechanics_1_1Handlers_1_1EquipableHandler_1_1Handlers_1_1EquipableChangeWeightCapacityHandler.html", "classLDOE_1_1Features_1_1Mechanics_1_1Handlers_1_1EquipableHandler_1_1Handlers_1_1EquipableChangeWeightCapacityHandler" ]
+];

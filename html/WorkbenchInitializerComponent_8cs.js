@@ -1,0 +1,4 @@
+var WorkbenchInitializerComponent_8cs =
+[
+    [ "LDOE.Features.Mechanics.Workbenches.Components.WorkbenchInitializerComponent", "structLDOE_1_1Features_1_1Mechanics_1_1Workbenches_1_1Components_1_1WorkbenchInitializerComponent.html", "structLDOE_1_1Features_1_1Mechanics_1_1Workbenches_1_1Components_1_1WorkbenchInitializerComponent" ]
+];

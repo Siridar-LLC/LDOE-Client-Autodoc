@@ -1,0 +1,6 @@
+var namespaceLDOE_1_1Features_1_1Mechanics_1_1Manufacturing_1_1WorldEvents =
+[
+    [ "CraftItemWorldEvent", "structLDOE_1_1Features_1_1Mechanics_1_1Manufacturing_1_1WorldEvents_1_1CraftItemWorldEvent.html", "structLDOE_1_1Features_1_1Mechanics_1_1Manufacturing_1_1WorldEvents_1_1CraftItemWorldEvent" ],
+    [ "CraftItemWorldEventHandler", "classLDOE_1_1Features_1_1Mechanics_1_1Manufacturing_1_1WorldEvents_1_1CraftItemWorldEventHandler.html", "classLDOE_1_1Features_1_1Mechanics_1_1Manufacturing_1_1WorldEvents_1_1CraftItemWorldEventHandler" ],
+    [ "CraftWorldEventHandlerBase", "classLDOE_1_1Features_1_1Mechanics_1_1Manufacturing_1_1WorldEvents_1_1CraftWorldEventHandlerBase.html", "classLDOE_1_1Features_1_1Mechanics_1_1Manufacturing_1_1WorldEvents_1_1CraftWorldEventHandlerBase" ]
+];

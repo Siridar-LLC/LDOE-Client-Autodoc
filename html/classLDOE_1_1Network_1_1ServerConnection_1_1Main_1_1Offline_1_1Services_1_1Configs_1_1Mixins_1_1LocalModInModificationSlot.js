@@ -1,0 +1,5 @@
+var classLDOE_1_1Network_1_1ServerConnection_1_1Main_1_1Offline_1_1Services_1_1Configs_1_1Mixins_1_1LocalModInModificationSlot =
+[
+    [ "ModificationId", "classLDOE_1_1Network_1_1ServerConnection_1_1Main_1_1Offline_1_1Services_1_1Configs_1_1Mixins_1_1LocalModInModificationSlot.html#a303af49653a1bf926d04cd325dbf80a6", null ],
+    [ "ModificationSlotIndex", "classLDOE_1_1Network_1_1ServerConnection_1_1Main_1_1Offline_1_1Services_1_1Configs_1_1Mixins_1_1LocalModInModificationSlot.html#a8a64c6190b423a96f68e6134c9449f9d", null ]
+];

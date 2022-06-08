@@ -1,0 +1,5 @@
+var ResearchModWorldEvent_8cs =
+[
+    [ "LDOE.Features.Mechanics.EquipmentMods.WorldEvents.ResearchModWorldEvent", "structLDOE_1_1Features_1_1Mechanics_1_1EquipmentMods_1_1WorldEvents_1_1ResearchModWorldEvent.html", "structLDOE_1_1Features_1_1Mechanics_1_1EquipmentMods_1_1WorldEvents_1_1ResearchModWorldEvent" ],
+    [ "LDOE.Features.Mechanics.EquipmentMods.WorldEvents.ResearchModWorldEventHandler", "classLDOE_1_1Features_1_1Mechanics_1_1EquipmentMods_1_1WorldEvents_1_1ResearchModWorldEventHandler.html", "classLDOE_1_1Features_1_1Mechanics_1_1EquipmentMods_1_1WorldEvents_1_1ResearchModWorldEventHandler" ]
+];

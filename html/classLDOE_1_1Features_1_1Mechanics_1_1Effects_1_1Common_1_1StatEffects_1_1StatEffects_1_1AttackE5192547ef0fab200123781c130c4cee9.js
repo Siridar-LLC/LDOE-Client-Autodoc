@@ -1,0 +1,7 @@
+var classLDOE_1_1Features_1_1Mechanics_1_1Effects_1_1Common_1_1StatEffects_1_1StatEffects_1_1AttackE5192547ef0fab200123781c130c4cee9 =
+[
+    [ "Apply", "classLDOE_1_1Features_1_1Mechanics_1_1Effects_1_1Common_1_1StatEffects_1_1StatEffects_1_1AttackE5192547ef0fab200123781c130c4cee9.html#a6d116bc082c61350d7d7644baf7f15cd", null ],
+    [ "Cancel", "classLDOE_1_1Features_1_1Mechanics_1_1Effects_1_1Common_1_1StatEffects_1_1StatEffects_1_1AttackE5192547ef0fab200123781c130c4cee9.html#aae0b1512cbd0eefb8cf4e7ec707fbe16", null ],
+    [ "GetAffectedParameterDelta", "classLDOE_1_1Features_1_1Mechanics_1_1Effects_1_1Common_1_1StatEffects_1_1StatEffects_1_1AttackE5192547ef0fab200123781c130c4cee9.html#ab39c6e1555137474303c29ff3375f476", null ],
+    [ "changeValue", "classLDOE_1_1Features_1_1Mechanics_1_1Effects_1_1Common_1_1StatEffects_1_1StatEffects_1_1AttackE5192547ef0fab200123781c130c4cee9.html#a7aee31c52e8221c48f15e779e9d5764d", null ]
+];

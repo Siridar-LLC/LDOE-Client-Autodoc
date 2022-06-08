@@ -1,0 +1,5 @@
+var ApplyBuffOnMeleeHitComponent_8cs =
+[
+    [ "LDOE.Features.Mechanics.Attack.Components.Effects.ApplyBuffOnHitData", "structLDOE_1_1Features_1_1Mechanics_1_1Attack_1_1Components_1_1Effects_1_1ApplyBuffOnHitData.html", "structLDOE_1_1Features_1_1Mechanics_1_1Attack_1_1Components_1_1Effects_1_1ApplyBuffOnHitData" ],
+    [ "LDOE.Features.Mechanics.Attack.Components.Effects.ApplyBuffOnMeleeHitComponent", "structLDOE_1_1Features_1_1Mechanics_1_1Attack_1_1Components_1_1Effects_1_1ApplyBuffOnMeleeHitComponent.html", "structLDOE_1_1Features_1_1Mechanics_1_1Attack_1_1Components_1_1Effects_1_1ApplyBuffOnMeleeHitComponent" ]
+];

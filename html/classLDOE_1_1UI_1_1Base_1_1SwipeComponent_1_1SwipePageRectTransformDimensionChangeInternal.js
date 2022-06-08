@@ -1,0 +1,4 @@
+var classLDOE_1_1UI_1_1Base_1_1SwipeComponent_1_1SwipePageRectTransformDimensionChangeInternal =
+[
+    [ "OnRectTransformDimensionsChange", "classLDOE_1_1UI_1_1Base_1_1SwipeComponent_1_1SwipePageRectTransformDimensionChangeInternal.html#a2cbde2917e0e3d253e412a904cff34f6", null ]
+];

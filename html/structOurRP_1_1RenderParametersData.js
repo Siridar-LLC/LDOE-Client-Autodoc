@@ -1,0 +1,25 @@
+var structOurRP_1_1RenderParametersData =
+[
+    [ "GetParams", "structOurRP_1_1RenderParametersData.html#a80cc90dde737c9932ec41022b37e9575", null ],
+    [ "GetParams", "structOurRP_1_1RenderParametersData.html#ad8e2ba35d26437505ceb8af6d857dda1", null ],
+    [ "Validate", "structOurRP_1_1RenderParametersData.html#ad032404f596fd29f18d9ad1f1ed63e5b", null ],
+    [ "WriteToBuffer", "structOurRP_1_1RenderParametersData.html#ac14f11034979a22ce015736dd576be56", null ],
+    [ "ambientColor", "structOurRP_1_1RenderParametersData.html#a5cca3e4bc62fe49408d9a1109f9a7e5c", null ],
+    [ "angle", "structOurRP_1_1RenderParametersData.html#a69247862ce336561e6ee6ac4facf6e7c", null ],
+    [ "brightness", "structOurRP_1_1RenderParametersData.html#a17d76fa45cfc6a75a6c5b20867f10d23", null ],
+    [ "centerSize", "structOurRP_1_1RenderParametersData.html#a767d87772098487fd6dcae396b860718", null ],
+    [ "characterLightCenter", "structOurRP_1_1RenderParametersData.html#a4d2e22ad77cdd6d349487a95eb09c6c8", null ],
+    [ "characterLightEdge", "structOurRP_1_1RenderParametersData.html#a3d30eb1e227d70232a5b4d35de4c92d0", null ],
+    [ "color", "structOurRP_1_1RenderParametersData.html#aeca487eac875d92f5b035eab3f3c905b", null ],
+    [ "contrast", "structOurRP_1_1RenderParametersData.html#abe1e613fcf5743b29876f1591d54fe49", null ],
+    [ "Default", "structOurRP_1_1RenderParametersData.html#a31528a4d20c5676c8212f4927a7502be", null ],
+    [ "fogController", "structOurRP_1_1RenderParametersData.html#a3540086ad9c1e3b09606fde52967bb22", null ],
+    [ "intensity", "structOurRP_1_1RenderParametersData.html#a18365d136fbd3c2b9e1745313b15e815", null ],
+    [ "mask", "structOurRP_1_1RenderParametersData.html#a8c6ba785ee1b31049f34e4b76796f15e", null ],
+    [ "shadowColorizer", "structOurRP_1_1RenderParametersData.html#a91f09fdfc0fb87b9d6e6d405d970222e", null ],
+    [ "shakingIntencity", "structOurRP_1_1RenderParametersData.html#a40647896ef6471a13483af0360e315a6", null ],
+    [ "sphericalHarmonics", "structOurRP_1_1RenderParametersData.html#a45ed434d9c7324007e15d22125a71ce0", null ],
+    [ "tint", "structOurRP_1_1RenderParametersData.html#a1a972b61e11e8fe52603df7e882ff2af", null ],
+    [ "Utilitary", "structOurRP_1_1RenderParametersData.html#ae06b6e8becf5aa7f42b835d99b60bb17", null ],
+    [ "vignette", "structOurRP_1_1RenderParametersData.html#a88bf97406b54826a3a27c9b02eb5b4e5", null ]
+];

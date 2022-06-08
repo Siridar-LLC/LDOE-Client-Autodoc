@@ -1,0 +1,4 @@
+var OfflinePlayerInfoClient_8cs =
+[
+    [ "LDOE.Network.OfflineMain.OfflinePlayerInfoClient", "classLDOE_1_1Network_1_1OfflineMain_1_1OfflinePlayerInfoClient.html", "classLDOE_1_1Network_1_1OfflineMain_1_1OfflinePlayerInfoClient" ]
+];

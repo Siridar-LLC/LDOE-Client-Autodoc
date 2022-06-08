@@ -1,0 +1,4 @@
+var classLDOE_1_1UI_1_1Windows_1_1Inventory_1_1Windows_1_1ItemPopup_1_1Components_1_1ModificationSlotsInfoListComponent =
+[
+    [ "SetInfo", "classLDOE_1_1UI_1_1Windows_1_1Inventory_1_1Windows_1_1ItemPopup_1_1Components_1_1ModificationSlotsInfoListComponent.html#a9f07e6d380932a2389d0c7bc99bf7be7", null ]
+];

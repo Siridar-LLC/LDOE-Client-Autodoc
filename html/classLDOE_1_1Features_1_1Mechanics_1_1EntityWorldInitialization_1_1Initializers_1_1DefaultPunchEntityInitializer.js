@@ -1,0 +1,4 @@
+var classLDOE_1_1Features_1_1Mechanics_1_1EntityWorldInitialization_1_1Initializers_1_1DefaultPunchEntityInitializer =
+[
+    [ "Initialize", "classLDOE_1_1Features_1_1Mechanics_1_1EntityWorldInitialization_1_1Initializers_1_1DefaultPunchEntityInitializer.html#ab721765518ffcf650abba1bfc1747138", null ]
+];

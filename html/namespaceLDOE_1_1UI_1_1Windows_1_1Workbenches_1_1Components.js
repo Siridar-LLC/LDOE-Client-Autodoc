@@ -1,0 +1,11 @@
+var namespaceLDOE_1_1UI_1_1Windows_1_1Workbenches_1_1Components =
+[
+    [ "BenchesListComponent", "classLDOE_1_1UI_1_1Windows_1_1Workbenches_1_1Components_1_1BenchesListComponent.html", "classLDOE_1_1UI_1_1Windows_1_1Workbenches_1_1Components_1_1BenchesListComponent" ],
+    [ "BenchListItemComponent", "classLDOE_1_1UI_1_1Windows_1_1Workbenches_1_1Components_1_1BenchListItemComponent.html", "classLDOE_1_1UI_1_1Windows_1_1Workbenches_1_1Components_1_1BenchListItemComponent" ],
+    [ "BenchSelectionPanelComponent", "classLDOE_1_1UI_1_1Windows_1_1Workbenches_1_1Components_1_1BenchSelectionPanelComponent.html", "classLDOE_1_1UI_1_1Windows_1_1Workbenches_1_1Components_1_1BenchSelectionPanelComponent" ],
+    [ "MenuButtonsPanelComponent", "classLDOE_1_1UI_1_1Windows_1_1Workbenches_1_1Components_1_1MenuButtonsPanelComponent.html", "classLDOE_1_1UI_1_1Windows_1_1Workbenches_1_1Components_1_1MenuButtonsPanelComponent" ],
+    [ "ProductionQueueListComponent", "classLDOE_1_1UI_1_1Windows_1_1Workbenches_1_1Components_1_1ProductionQueueListComponent.html", "classLDOE_1_1UI_1_1Windows_1_1Workbenches_1_1Components_1_1ProductionQueueListComponent" ],
+    [ "ProductionQueueListItemComponent", "classLDOE_1_1UI_1_1Windows_1_1Workbenches_1_1Components_1_1ProductionQueueListItemComponent.html", "classLDOE_1_1UI_1_1Windows_1_1Workbenches_1_1Components_1_1ProductionQueueListItemComponent" ],
+    [ "WorkbenchRecipesListComponent", "classLDOE_1_1UI_1_1Windows_1_1Workbenches_1_1Components_1_1WorkbenchRecipesListComponent.html", "classLDOE_1_1UI_1_1Windows_1_1Workbenches_1_1Components_1_1WorkbenchRecipesListComponent" ],
+    [ "WorkbenchRecipesListItemComponent", "classLDOE_1_1UI_1_1Windows_1_1Workbenches_1_1Components_1_1WorkbenchRecipesListItemComponent.html", "classLDOE_1_1UI_1_1Windows_1_1Workbenches_1_1Components_1_1WorkbenchRecipesListItemComponent" ]
+];

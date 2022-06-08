@@ -1,0 +1,8 @@
+var structLDOE_1_1Features_1_1Mechanics_1_1Manufacturing_1_1Models_1_1RequestedCraftModel_1_1IngredientCraftModel =
+[
+    [ "itemDataConfig", "structLDOE_1_1Features_1_1Mechanics_1_1Manufacturing_1_1Models_1_1RequestedCraftModel_1_1IngredientCraftModel.html#ae38ae57a89d752ff0dcb81b6431d605c", null ],
+    [ "possibleCraftsCount", "structLDOE_1_1Features_1_1Mechanics_1_1Manufacturing_1_1Models_1_1RequestedCraftModel_1_1IngredientCraftModel.html#af833556af8b6814289bb2d5187765fa0", null ],
+    [ "singleCraftResourcesCount", "structLDOE_1_1Features_1_1Mechanics_1_1Manufacturing_1_1Models_1_1RequestedCraftModel_1_1IngredientCraftModel.html#a1dc2e68d8bd84dd6d9bdc87d5abbe1ab", null ],
+    [ "totalRequiredResourcesCount", "structLDOE_1_1Features_1_1Mechanics_1_1Manufacturing_1_1Models_1_1RequestedCraftModel_1_1IngredientCraftModel.html#a7cd918c326f359235f9507c120270729", null ],
+    [ "totalResourcesCount", "structLDOE_1_1Features_1_1Mechanics_1_1Manufacturing_1_1Models_1_1RequestedCraftModel_1_1IngredientCraftModel.html#a315ee846983709ad4ad8dd6323b88732", null ]
+];

@@ -1,0 +1,5 @@
+var classLDOE_1_1Features_1_1Mechanics_1_1StorableLocation_1_1WorldEvents_1_1StorableObjectHealthChangedWorldEventHandler =
+[
+    [ "StorableObjectHealthChangedWorldEventHandler", "classLDOE_1_1Features_1_1Mechanics_1_1StorableLocation_1_1WorldEvents_1_1StorableObjectHealthChangedWorldEventHandler.html#aa1f23760031805b350e8016a66c270c3", null ],
+    [ "Handle", "classLDOE_1_1Features_1_1Mechanics_1_1StorableLocation_1_1WorldEvents_1_1StorableObjectHealthChangedWorldEventHandler.html#a21c1e9a29ced37e251606f1f857783c0", null ]
+];

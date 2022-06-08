@@ -1,0 +1,7 @@
+var classLDOE_1_1Features_1_1Mechanics_1_1Effects_1_1Common_1_1StatEffects_1_1StatEffects_1_1WeightEffects_1_1WeightCapacityEffect =
+[
+    [ "Apply", "classLDOE_1_1Features_1_1Mechanics_1_1Effects_1_1Common_1_1StatEffects_1_1StatEffects_1_1WeightEffects_1_1WeightCapacityEffect.html#aa483294b8533e41a5cda1f0f266ca0c5", null ],
+    [ "Cancel", "classLDOE_1_1Features_1_1Mechanics_1_1Effects_1_1Common_1_1StatEffects_1_1StatEffects_1_1WeightEffects_1_1WeightCapacityEffect.html#a76f8c4638dfc3c059704047a08012b18", null ],
+    [ "GetAffectedParameterDelta", "classLDOE_1_1Features_1_1Mechanics_1_1Effects_1_1Common_1_1StatEffects_1_1StatEffects_1_1WeightEffects_1_1WeightCapacityEffect.html#a3d287617245f1f6aa318ea52bed69dad", null ],
+    [ "changeValue", "classLDOE_1_1Features_1_1Mechanics_1_1Effects_1_1Common_1_1StatEffects_1_1StatEffects_1_1WeightEffects_1_1WeightCapacityEffect.html#a942fd6bca932e9741e1a94cd2f221edb", null ]
+];

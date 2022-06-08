@@ -1,0 +1,11 @@
+var namespaceLDOE_1_1Features_1_1Mechanics_1_1Attack_1_1Components_1_1Effects =
+[
+    [ "ApplyBuffOnHitData", "structLDOE_1_1Features_1_1Mechanics_1_1Attack_1_1Components_1_1Effects_1_1ApplyBuffOnHitData.html", "structLDOE_1_1Features_1_1Mechanics_1_1Attack_1_1Components_1_1Effects_1_1ApplyBuffOnHitData" ],
+    [ "ApplyBuffOnMeleeHitComponent", "structLDOE_1_1Features_1_1Mechanics_1_1Attack_1_1Components_1_1Effects_1_1ApplyBuffOnMeleeHitComponent.html", "structLDOE_1_1Features_1_1Mechanics_1_1Attack_1_1Components_1_1Effects_1_1ApplyBuffOnMeleeHitComponent" ],
+    [ "AutoCritStats", "structLDOE_1_1Features_1_1Mechanics_1_1Attack_1_1Components_1_1Effects_1_1AutoCritStats.html", "structLDOE_1_1Features_1_1Mechanics_1_1Attack_1_1Components_1_1Effects_1_1AutoCritStats" ],
+    [ "BlockComponent", "structLDOE_1_1Features_1_1Mechanics_1_1Attack_1_1Components_1_1Effects_1_1BlockComponent.html", "structLDOE_1_1Features_1_1Mechanics_1_1Attack_1_1Components_1_1Effects_1_1BlockComponent" ],
+    [ "CheapshotComponent", "structLDOE_1_1Features_1_1Mechanics_1_1Attack_1_1Components_1_1Effects_1_1CheapshotComponent.html", "structLDOE_1_1Features_1_1Mechanics_1_1Attack_1_1Components_1_1Effects_1_1CheapshotComponent" ],
+    [ "MeleeVampirismComponent", "structLDOE_1_1Features_1_1Mechanics_1_1Attack_1_1Components_1_1Effects_1_1MeleeVampirismComponent.html", "structLDOE_1_1Features_1_1Mechanics_1_1Attack_1_1Components_1_1Effects_1_1MeleeVampirismComponent" ],
+    [ "RangeAutoCritComponent", "structLDOE_1_1Features_1_1Mechanics_1_1Attack_1_1Components_1_1Effects_1_1RangeAutoCritComponent.html", "structLDOE_1_1Features_1_1Mechanics_1_1Attack_1_1Components_1_1Effects_1_1RangeAutoCritComponent" ],
+    [ "VampirismStats", "structLDOE_1_1Features_1_1Mechanics_1_1Attack_1_1Components_1_1Effects_1_1VampirismStats.html", "structLDOE_1_1Features_1_1Mechanics_1_1Attack_1_1Components_1_1Effects_1_1VampirismStats" ]
+];

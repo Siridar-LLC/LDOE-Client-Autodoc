@@ -1,0 +1,4 @@
+var classLDOE_1_1Features_1_1Mechanics_1_1GameScene_1_1SceneComponents_1_1Initializers_1_1Editor_1_1PresetColliderInitializerEditor =
+[
+    [ "OnInspectorGUI", "classLDOE_1_1Features_1_1Mechanics_1_1GameScene_1_1SceneComponents_1_1Initializers_1_1Editor_1_1PresetColliderInitializerEditor.html#ad7ab1c0b9696aec927d7dbb476f127c5", null ]
+];

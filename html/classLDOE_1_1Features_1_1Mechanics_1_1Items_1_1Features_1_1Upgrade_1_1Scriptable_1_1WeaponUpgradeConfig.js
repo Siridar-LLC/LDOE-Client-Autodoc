@@ -1,0 +1,4 @@
+var classLDOE_1_1Features_1_1Mechanics_1_1Items_1_1Features_1_1Upgrade_1_1Scriptable_1_1WeaponUpgradeConfig =
+[
+    [ "WeaponUpgradeTableRow", "classLDOE_1_1Features_1_1Mechanics_1_1Items_1_1Features_1_1Upgrade_1_1Scriptable_1_1WeaponUpgradda3780b2681dd9e6be927f1f437c277a.html", "classLDOE_1_1Features_1_1Mechanics_1_1Items_1_1Features_1_1Upgrade_1_1Scriptable_1_1WeaponUpgradda3780b2681dd9e6be927f1f437c277a" ]
+];

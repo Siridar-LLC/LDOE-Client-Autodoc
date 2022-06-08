@@ -1,0 +1,7 @@
+var classLDOE_1_1Features_1_1Mechanics_1_1Effects_1_1Common_1_1StatEffects_1_1StatEffects_1_1PrimeEffects_1_1MaxManaEffect =
+[
+    [ "Apply", "classLDOE_1_1Features_1_1Mechanics_1_1Effects_1_1Common_1_1StatEffects_1_1StatEffects_1_1PrimeEffects_1_1MaxManaEffect.html#a7d179ac6896fd84fa92319ef314d3546", null ],
+    [ "Cancel", "classLDOE_1_1Features_1_1Mechanics_1_1Effects_1_1Common_1_1StatEffects_1_1StatEffects_1_1PrimeEffects_1_1MaxManaEffect.html#a40aaeae9509f2ee75bacae5f20afe369", null ],
+    [ "GetAffectedParameterDelta", "classLDOE_1_1Features_1_1Mechanics_1_1Effects_1_1Common_1_1StatEffects_1_1StatEffects_1_1PrimeEffects_1_1MaxManaEffect.html#a29d248f2dbbfa6688bccdcf8bd8cfc6b", null ],
+    [ "changeValue", "classLDOE_1_1Features_1_1Mechanics_1_1Effects_1_1Common_1_1StatEffects_1_1StatEffects_1_1PrimeEffects_1_1MaxManaEffect.html#a34092afd9a69b0997db58900ce35810f", null ]
+];

@@ -1,0 +1,4 @@
+var CharacterStateEntityInitializer_8cs =
+[
+    [ "LDOE.Features.Mechanics.EntityWorldInitialization.Initializers.CharacterStateEntityInitializer", "classLDOE_1_1Features_1_1Mechanics_1_1EntityWorldInitialization_1_1Initializers_1_1CharacterStateEntityInitializer.html", "classLDOE_1_1Features_1_1Mechanics_1_1EntityWorldInitialization_1_1Initializers_1_1CharacterStateEntityInitializer" ]
+];

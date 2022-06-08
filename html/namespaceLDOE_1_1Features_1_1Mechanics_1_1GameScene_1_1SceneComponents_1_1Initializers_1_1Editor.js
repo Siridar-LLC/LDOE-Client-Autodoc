@@ -1,0 +1,4 @@
+var namespaceLDOE_1_1Features_1_1Mechanics_1_1GameScene_1_1SceneComponents_1_1Initializers_1_1Editor =
+[
+    [ "PresetColliderInitializerEditor", "classLDOE_1_1Features_1_1Mechanics_1_1GameScene_1_1SceneComponents_1_1Initializers_1_1Editor_1_1PresetColliderInitializerEditor.html", "classLDOE_1_1Features_1_1Mechanics_1_1GameScene_1_1SceneComponents_1_1Initializers_1_1Editor_1_1PresetColliderInitializerEditor" ]
+];

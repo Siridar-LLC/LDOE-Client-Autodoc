@@ -1,0 +1,7 @@
+var structLDOE_1_1UI_1_1Windows_1_1WorkbenchModification_1_1Components_1_1ModificationInfoListItemComponent_1_1EquipTypeListClosure =
+[
+    [ "supportedArmor", "structLDOE_1_1UI_1_1Windows_1_1WorkbenchModification_1_1Components_1_1ModificationInfoListItemComponent_1_1EquipTypeListClosure.html#a9519446645c661dd64235cb9707b63e5", null ],
+    [ "supportedMeleeWeapons", "structLDOE_1_1UI_1_1Windows_1_1WorkbenchModification_1_1Components_1_1ModificationInfoListItemComponent_1_1EquipTypeListClosure.html#a09688e318f6307c8d4673f518119a04d", null ],
+    [ "supportedRangeWeapons", "structLDOE_1_1UI_1_1Windows_1_1WorkbenchModification_1_1Components_1_1ModificationInfoListItemComponent_1_1EquipTypeListClosure.html#af17b6c7a1e689cf63a53328987839aad", null ],
+    [ "index", "structLDOE_1_1UI_1_1Windows_1_1WorkbenchModification_1_1Components_1_1ModificationInfoListItemComponent_1_1EquipTypeListClosure.html#adcc1e258adb854465b292a6b389450f1", null ]
+];

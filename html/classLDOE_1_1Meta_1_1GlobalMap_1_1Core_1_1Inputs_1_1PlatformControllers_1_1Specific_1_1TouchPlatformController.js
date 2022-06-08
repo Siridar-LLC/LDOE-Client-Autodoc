@@ -1,0 +1,7 @@
+var classLDOE_1_1Meta_1_1GlobalMap_1_1Core_1_1Inputs_1_1PlatformControllers_1_1Specific_1_1TouchPlatformController =
+[
+    [ "TouchPlatformController", "classLDOE_1_1Meta_1_1GlobalMap_1_1Core_1_1Inputs_1_1PlatformControllers_1_1Specific_1_1TouchPlatformController.html#abc0c46631130572bceddf2fea5916f02", null ],
+    [ "IsPositionInputOverUi", "classLDOE_1_1Meta_1_1GlobalMap_1_1Core_1_1Inputs_1_1PlatformControllers_1_1Specific_1_1TouchPlatformController.html#aff034248ed5d4cdfb1f82f9a29c0db5f", null ],
+    [ "SetDeadZone", "classLDOE_1_1Meta_1_1GlobalMap_1_1Core_1_1Inputs_1_1PlatformControllers_1_1Specific_1_1TouchPlatformController.html#a399fa6c0967d512fb1a12c1cb5650c18", null ],
+    [ "UpdateInput", "classLDOE_1_1Meta_1_1GlobalMap_1_1Core_1_1Inputs_1_1PlatformControllers_1_1Specific_1_1TouchPlatformController.html#a1a438f2c8b8ea482ade82764238e9d07", null ]
+];

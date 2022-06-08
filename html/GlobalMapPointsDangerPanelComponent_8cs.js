@@ -1,0 +1,4 @@
+var GlobalMapPointsDangerPanelComponent_8cs =
+[
+    [ "LDOE.UI.Windows.GlobalMap.PointsInfo.Components.GlobalMapPointsDangerPanelComponent", "classLDOE_1_1UI_1_1Windows_1_1GlobalMap_1_1PointsInfo_1_1Components_1_1GlobalMapPointsDangerPanelComponent.html", "classLDOE_1_1UI_1_1Windows_1_1GlobalMap_1_1PointsInfo_1_1Components_1_1GlobalMapPointsDangerPanelComponent" ]
+];

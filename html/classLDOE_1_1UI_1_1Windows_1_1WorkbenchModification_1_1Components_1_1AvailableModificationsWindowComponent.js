@@ -1,0 +1,7 @@
+var classLDOE_1_1UI_1_1Windows_1_1WorkbenchModification_1_1Components_1_1AvailableModificationsWindowComponent =
+[
+    [ "SetInfo", "classLDOE_1_1UI_1_1Windows_1_1WorkbenchModification_1_1Components_1_1AvailableModificationsWindowComponent.html#a06ed6743543b995094149054a6c91c95", null ],
+    [ "lockedModificationsList", "classLDOE_1_1UI_1_1Windows_1_1WorkbenchModification_1_1Components_1_1AvailableModificationsWindowComponent.html#ac4954f57d29c1a70d6d916e7d440b06b", null ],
+    [ "noUnlockedRecipesWarningContainer", "classLDOE_1_1UI_1_1Windows_1_1WorkbenchModification_1_1Components_1_1AvailableModificationsWindowComponent.html#a34ee85b4efd9ef76de0c8682103d5dc5", null ],
+    [ "unlockedModificationsList", "classLDOE_1_1UI_1_1Windows_1_1WorkbenchModification_1_1Components_1_1AvailableModificationsWindowComponent.html#aef2cb835795c87d195a3d004c46a03cb", null ]
+];

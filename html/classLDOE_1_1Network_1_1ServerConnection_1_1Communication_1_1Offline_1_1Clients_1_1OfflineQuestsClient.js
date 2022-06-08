@@ -1,0 +1,5 @@
+var classLDOE_1_1Network_1_1ServerConnection_1_1Communication_1_1Offline_1_1Clients_1_1OfflineQuestsClient =
+[
+    [ "OnQuestCompleted", "classLDOE_1_1Network_1_1ServerConnection_1_1Communication_1_1Offline_1_1Clients_1_1OfflineQuestsClient.html#a18cb03aaecbe77f6c1a186d0f11a01e5", null ],
+    [ "OnQuestsUnlocked", "classLDOE_1_1Network_1_1ServerConnection_1_1Communication_1_1Offline_1_1Clients_1_1OfflineQuestsClient.html#a270da16e249ab4e7cfaa3a19d72ea0db", null ]
+];

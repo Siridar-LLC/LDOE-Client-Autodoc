@@ -1,0 +1,4 @@
+var structLDOE_1_1Features_1_1Mechanics_1_1CharacterState_1_1WorldEvents_1_1CharacterPropertyUpdateEvent =
+[
+    [ "propertyData", "structLDOE_1_1Features_1_1Mechanics_1_1CharacterState_1_1WorldEvents_1_1CharacterPropertyUpdateEvent.html#a26a7fd5fd5675253fadfeb8a1e8cfe7e", null ]
+];

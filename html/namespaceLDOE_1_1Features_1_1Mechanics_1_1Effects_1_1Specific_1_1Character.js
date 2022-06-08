@@ -1,0 +1,7 @@
+var namespaceLDOE_1_1Features_1_1Mechanics_1_1Effects_1_1Specific_1_1Character =
+[
+    [ "CharacterCancelableEffectContainer", "classLDOE_1_1Features_1_1Mechanics_1_1Effects_1_1Specific_1_1Character_1_1CharacterCancelableEffectContainer.html", "classLDOE_1_1Features_1_1Mechanics_1_1Effects_1_1Specific_1_1Character_1_1CharacterCancelableEffectContainer" ],
+    [ "CharacterSimpleEffectContainer", "classLDOE_1_1Features_1_1Mechanics_1_1Effects_1_1Specific_1_1Character_1_1CharacterSimpleEffectContainer.html", "classLDOE_1_1Features_1_1Mechanics_1_1Effects_1_1Specific_1_1Character_1_1CharacterSimpleEffectContainer" ],
+    [ "ICharacterCancelableEffect", "interfaceLDOE_1_1Features_1_1Mechanics_1_1Effects_1_1Specific_1_1Character_1_1ICharacterCancelableEffect.html", null ],
+    [ "ICharacterSimpleEffect", "interfaceLDOE_1_1Features_1_1Mechanics_1_1Effects_1_1Specific_1_1Character_1_1ICharacterSimpleEffect.html", null ]
+];

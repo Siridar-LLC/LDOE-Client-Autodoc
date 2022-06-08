@@ -1,0 +1,4 @@
+var namespaceLDOE_1_1Features_1_1Mechanics_1_1CharacterParts_1_1Components =
+[
+    [ "CharacterPartViewSettingsSource", "structLDOE_1_1Features_1_1Mechanics_1_1CharacterParts_1_1Components_1_1CharacterPartViewSettingsSource.html", "structLDOE_1_1Features_1_1Mechanics_1_1CharacterParts_1_1Components_1_1CharacterPartViewSettingsSource" ]
+];

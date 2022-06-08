@@ -1,0 +1,5 @@
+var classLDOE_1_1Features_1_1Mechanics_1_1LocationTasks_1_1SceneComponents_1_1LocationTask_1_1TaskRunParametersBase =
+[
+    [ "AutoRun", "classLDOE_1_1Features_1_1Mechanics_1_1LocationTasks_1_1SceneComponents_1_1LocationTask_1_1TaskRunParametersBase.html#a99f08010ad12f4b4510625ac0cc60c50", null ],
+    [ "IsPersonalized", "classLDOE_1_1Features_1_1Mechanics_1_1LocationTasks_1_1SceneComponents_1_1LocationTask_1_1TaskRunParametersBase.html#a7d95328a674b43e121a045ad2fbb82b5", null ]
+];

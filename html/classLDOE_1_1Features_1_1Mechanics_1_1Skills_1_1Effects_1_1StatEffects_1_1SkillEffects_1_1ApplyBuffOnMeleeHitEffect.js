@@ -1,0 +1,7 @@
+var classLDOE_1_1Features_1_1Mechanics_1_1Skills_1_1Effects_1_1StatEffects_1_1SkillEffects_1_1ApplyBuffOnMeleeHitEffect =
+[
+    [ "Apply", "classLDOE_1_1Features_1_1Mechanics_1_1Skills_1_1Effects_1_1StatEffects_1_1SkillEffects_1_1ApplyBuffOnMeleeHitEffect.html#adf1f0a9fcd851a5369cca900fa2361c1", null ],
+    [ "Cancel", "classLDOE_1_1Features_1_1Mechanics_1_1Skills_1_1Effects_1_1StatEffects_1_1SkillEffects_1_1ApplyBuffOnMeleeHitEffect.html#acc5c4a5078bbb478b77af15a1dcbbf8f", null ],
+    [ "GetAffectedParameterDelta", "classLDOE_1_1Features_1_1Mechanics_1_1Skills_1_1Effects_1_1StatEffects_1_1SkillEffects_1_1ApplyBuffOnMeleeHitEffect.html#a9054045a99b7ad736c30b780ea75b34a", null ],
+    [ "buff", "classLDOE_1_1Features_1_1Mechanics_1_1Skills_1_1Effects_1_1StatEffects_1_1SkillEffects_1_1ApplyBuffOnMeleeHitEffect.html#ade80372d9885f3d31e2a671f42276a17", null ]
+];

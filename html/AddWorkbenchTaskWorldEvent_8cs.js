@@ -1,0 +1,4 @@
+var AddWorkbenchTaskWorldEvent_8cs =
+[
+    [ "LDOE.Features.Mechanics.Workbenches.WorldEvents.AddWorkbenchTaskWorldEvent", "structLDOE_1_1Features_1_1Mechanics_1_1Workbenches_1_1WorldEvents_1_1AddWorkbenchTaskWorldEvent.html", "structLDOE_1_1Features_1_1Mechanics_1_1Workbenches_1_1WorldEvents_1_1AddWorkbenchTaskWorldEvent" ]
+];

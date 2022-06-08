@@ -1,0 +1,4 @@
+var CharacterInventoryHighlightSlotGlobalEvent_8cs =
+[
+    [ "LDOE.Features.Mechanics.Inventory.Events.CharacterInventoryHighlightSlotGlobalEvent", "classLDOE_1_1Features_1_1Mechanics_1_1Inventory_1_1Events_1_1CharacterInventoryHighlightSlotGlobalEvent.html", "classLDOE_1_1Features_1_1Mechanics_1_1Inventory_1_1Events_1_1CharacterInventoryHighlightSlotGlobalEvent" ]
+];

@@ -1,0 +1,5 @@
+var structLDOE_1_1Features_1_1Mechanics_1_1GlobalBoss_1_1Markers_1_1InitializeGlobalBossPlayerInfoMarker =
+[
+    [ "InitializeGlobalBossPlayerInfoMarker", "structLDOE_1_1Features_1_1Mechanics_1_1GlobalBoss_1_1Markers_1_1InitializeGlobalBossPlayerInfoMarker.html#a334421a20ac8ef70ffb46c61a15bd04a", null ],
+    [ "globalBossPlayerInfoDto", "structLDOE_1_1Features_1_1Mechanics_1_1GlobalBoss_1_1Markers_1_1InitializeGlobalBossPlayerInfoMarker.html#a1943ae3d642d8c50104317871d2bdbb4", null ]
+];

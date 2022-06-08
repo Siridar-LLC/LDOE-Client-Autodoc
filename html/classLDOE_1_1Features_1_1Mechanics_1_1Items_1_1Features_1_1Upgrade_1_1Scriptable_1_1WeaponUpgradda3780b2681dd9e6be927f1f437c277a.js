@@ -1,0 +1,5 @@
+var classLDOE_1_1Features_1_1Mechanics_1_1Items_1_1Features_1_1Upgrade_1_1Scriptable_1_1WeaponUpgradda3780b2681dd9e6be927f1f437c277a =
+[
+    [ "damage", "classLDOE_1_1Features_1_1Mechanics_1_1Items_1_1Features_1_1Upgrade_1_1Scriptable_1_1WeaponUpgradda3780b2681dd9e6be927f1f437c277a.html#a98e4d7b46bfc425739b38fa1d146138d", null ],
+    [ "ParameterValue", "classLDOE_1_1Features_1_1Mechanics_1_1Items_1_1Features_1_1Upgrade_1_1Scriptable_1_1WeaponUpgradda3780b2681dd9e6be927f1f437c277a.html#a632026e96920db3bce18d472b7fb949a", null ]
+];

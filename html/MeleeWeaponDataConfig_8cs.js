@@ -1,0 +1,7 @@
+var MeleeWeaponDataConfig_8cs =
+[
+    [ "LDOE.Features.Mechanics.Attack.Configs.MeleeWeaponDataConfig", "classLDOE_1_1Features_1_1Mechanics_1_1Attack_1_1Configs_1_1MeleeWeaponDataConfig.html", "classLDOE_1_1Features_1_1Mechanics_1_1Attack_1_1Configs_1_1MeleeWeaponDataConfig" ],
+    [ "LDOE.Features.Mechanics.Attack.Configs.MeleeWeaponDataConfig.DamageArea", "classLDOE_1_1Features_1_1Mechanics_1_1Attack_1_1Configs_1_1MeleeWeaponDataConfig_1_1DamageArea.html", "classLDOE_1_1Features_1_1Mechanics_1_1Attack_1_1Configs_1_1MeleeWeaponDataConfig_1_1DamageArea" ],
+    [ "LDOE.Features.Mechanics.Attack.Configs.MeleeWeaponDataConfig.AnimationsFullBodyState", "classLDOE_1_1Features_1_1Mechanics_1_1Attack_1_1Configs_1_1MeleeWeaponDataConfig_1_1AnimationsFullBodyState.html", "classLDOE_1_1Features_1_1Mechanics_1_1Attack_1_1Configs_1_1MeleeWeaponDataConfig_1_1AnimationsFullBodyState" ],
+    [ "LDOE.Features.Mechanics.Attack.Configs.MeleeWeaponDataConfig.ConeDamageArea", "classLDOE_1_1Features_1_1Mechanics_1_1Attack_1_1Configs_1_1MeleeWeaponDataConfig_1_1ConeDamageArea.html", "classLDOE_1_1Features_1_1Mechanics_1_1Attack_1_1Configs_1_1MeleeWeaponDataConfig_1_1ConeDamageArea" ]
+];

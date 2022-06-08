@@ -1,0 +1,4 @@
+var SwipePageRectTransformDimensionChangeInternal_8cs =
+[
+    [ "LDOE.UI.Base.SwipeComponent.SwipePageRectTransformDimensionChangeInternal", "classLDOE_1_1UI_1_1Base_1_1SwipeComponent_1_1SwipePageRectTransformDimensionChangeInternal.html", "classLDOE_1_1UI_1_1Base_1_1SwipeComponent_1_1SwipePageRectTransformDimensionChangeInternal" ]
+];

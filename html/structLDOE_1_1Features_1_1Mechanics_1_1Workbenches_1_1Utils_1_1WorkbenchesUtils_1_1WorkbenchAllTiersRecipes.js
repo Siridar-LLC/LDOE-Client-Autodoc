@@ -1,0 +1,5 @@
+var structLDOE_1_1Features_1_1Mechanics_1_1Workbenches_1_1Utils_1_1WorkbenchesUtils_1_1WorkbenchAllTiersRecipes =
+[
+    [ "recipesCount", "structLDOE_1_1Features_1_1Mechanics_1_1Workbenches_1_1Utils_1_1WorkbenchesUtils_1_1WorkbenchAllTiersRecipes.html#a50871c27b31ca3e573dd528e4c7da55b", null ],
+    [ "workbenchTierRecipes", "structLDOE_1_1Features_1_1Mechanics_1_1Workbenches_1_1Utils_1_1WorkbenchesUtils_1_1WorkbenchAllTiersRecipes.html#afa66672d29d308ef9838a379333dfdbc", null ]
+];

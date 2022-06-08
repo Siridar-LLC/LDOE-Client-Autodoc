@@ -1,0 +1,4 @@
+var structLDOE_1_1Features_1_1Mechanics_1_1Inventory_1_1Components_1_1Configs_1_1ItemCategoryData =
+[
+    [ "categoryDescription", "structLDOE_1_1Features_1_1Mechanics_1_1Inventory_1_1Components_1_1Configs_1_1ItemCategoryData.html#a3705df06db561a47ce84d1ba77aa0794", null ]
+];

@@ -1,0 +1,7 @@
+var structLDOE_1_1Network_1_1ServerConnection_1_1Room_1_1Offline_1_1Services_1_1OfflinePublicRoomService_1_1RoomParameters =
+[
+    [ "RoomParameters", "structLDOE_1_1Network_1_1ServerConnection_1_1Room_1_1Offline_1_1Services_1_1OfflinePublicRoomService_1_1RoomParameters.html#a0678b0e6f354053b0a42ff06a95c6597", null ],
+    [ "playerId", "structLDOE_1_1Network_1_1ServerConnection_1_1Room_1_1Offline_1_1Services_1_1OfflinePublicRoomService_1_1RoomParameters.html#a0ec3f6c8a7766ed9b02269e939048ade", null ],
+    [ "replayData", "structLDOE_1_1Network_1_1ServerConnection_1_1Room_1_1Offline_1_1Services_1_1OfflinePublicRoomService_1_1RoomParameters.html#a9b43c16ab9894d54e64f71ce4869bdd7", null ],
+    [ "sceneName", "structLDOE_1_1Network_1_1ServerConnection_1_1Room_1_1Offline_1_1Services_1_1OfflinePublicRoomService_1_1RoomParameters.html#ac284e275d40a32524faaed40c06d03ae", null ]
+];

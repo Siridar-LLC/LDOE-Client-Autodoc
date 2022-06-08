@@ -1,0 +1,4 @@
+var EquipableChangeSlotsCountHandler_8cs =
+[
+    [ "LDOE.Features.Mechanics.Handlers.EquipableHandler.Handlers.EquipableChangeSlotsCountHandler", "classLDOE_1_1Features_1_1Mechanics_1_1Handlers_1_1EquipableHandler_1_1Handlers_1_1EquipableChangeSlotsCountHandler.html", "classLDOE_1_1Features_1_1Mechanics_1_1Handlers_1_1EquipableHandler_1_1Handlers_1_1EquipableChangeSlotsCountHandler" ]
+];

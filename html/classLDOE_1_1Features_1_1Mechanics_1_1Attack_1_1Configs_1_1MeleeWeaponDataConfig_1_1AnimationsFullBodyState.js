@@ -1,0 +1,4 @@
+var classLDOE_1_1Features_1_1Mechanics_1_1Attack_1_1Configs_1_1MeleeWeaponDataConfig_1_1AnimationsFullBodyState =
+[
+    [ "attack", "classLDOE_1_1Features_1_1Mechanics_1_1Attack_1_1Configs_1_1MeleeWeaponDataConfig_1_1AnimationsFullBodyState.html#a58a057cb57d8979fc2486c8dc8f7aa70", null ]
+];

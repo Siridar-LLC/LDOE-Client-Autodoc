@@ -1,0 +1,4 @@
+var UpgradeItemPanelComponent_8cs =
+[
+    [ "LDOE.UI.Windows.WorkbenchGunsmith.Components.ItemPanels.UpgradeItemPanelComponent", "classLDOE_1_1UI_1_1Windows_1_1WorkbenchGunsmith_1_1Components_1_1ItemPanels_1_1UpgradeItemPanelComponent.html", "classLDOE_1_1UI_1_1Windows_1_1WorkbenchGunsmith_1_1Components_1_1ItemPanels_1_1UpgradeItemPanelComponent" ]
+];

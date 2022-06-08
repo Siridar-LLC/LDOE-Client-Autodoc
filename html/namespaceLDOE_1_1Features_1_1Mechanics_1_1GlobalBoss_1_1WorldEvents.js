@@ -1,0 +1,5 @@
+var namespaceLDOE_1_1Features_1_1Mechanics_1_1GlobalBoss_1_1WorldEvents =
+[
+    [ "DealDamageToGlobalBossWorldEvent", "structLDOE_1_1Features_1_1Mechanics_1_1GlobalBoss_1_1WorldEvents_1_1DealDamageToGlobalBossWorldEvent.html", "structLDOE_1_1Features_1_1Mechanics_1_1GlobalBoss_1_1WorldEvents_1_1DealDamageToGlobalBossWorldEvent" ],
+    [ "DealDamageToGlobalBossWorldEventHandler", "classLDOE_1_1Features_1_1Mechanics_1_1GlobalBoss_1_1WorldEvents_1_1DealDamageToGlobalBossWorldEventHandler.html", "classLDOE_1_1Features_1_1Mechanics_1_1GlobalBoss_1_1WorldEvents_1_1DealDamageToGlobalBossWorldEventHandler" ]
+];

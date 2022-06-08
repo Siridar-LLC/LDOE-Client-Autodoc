@@ -1,0 +1,5 @@
+var structLDOE_1_1Features_1_1Mechanics_1_1Items_1_1Features_1_1Upgrade_1_1WorldEvents_1_1ItemUpgradeWorldEvent =
+[
+    [ "itemToUpgradeItemDto", "structLDOE_1_1Features_1_1Mechanics_1_1Items_1_1Features_1_1Upgrade_1_1WorldEvents_1_1ItemUpgradeWorldEvent.html#a3915fd9d2261de9d04feae6c29a23435", null ],
+    [ "resourceItemDto", "structLDOE_1_1Features_1_1Mechanics_1_1Items_1_1Features_1_1Upgrade_1_1WorldEvents_1_1ItemUpgradeWorldEvent.html#ae2a7767ec6a44c3e621d5fec72184617", null ]
+];

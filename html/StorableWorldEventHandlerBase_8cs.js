@@ -1,0 +1,4 @@
+var StorableWorldEventHandlerBase_8cs =
+[
+    [ "LDOE.Features.Mechanics.StorableLocation.WorldEvents.StorableWorldEventHandlerBase", "classLDOE_1_1Features_1_1Mechanics_1_1StorableLocation_1_1WorldEvents_1_1StorableWorldEventHandlerBase.html", "classLDOE_1_1Features_1_1Mechanics_1_1StorableLocation_1_1WorldEvents_1_1StorableWorldEventHandlerBase" ]
+];

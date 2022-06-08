@@ -1,0 +1,4 @@
+var structLDOE_1_1Features_1_1Mechanics_1_1Attack_1_1Components_1_1Effects_1_1MeleeVampirismComponent =
+[
+    [ "stats", "structLDOE_1_1Features_1_1Mechanics_1_1Attack_1_1Components_1_1Effects_1_1MeleeVampirismComponent.html#a8235dd0ad9c3f5e6fd75cd71ee753175", null ]
+];

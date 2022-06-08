@@ -1,0 +1,4 @@
+var classLDOE_1_1UI_1_1Windows_1_1GlobalMap_1_1PointsInfo_1_1Components_1_1GlobalMapPointsDangerPanelComponent =
+[
+    [ "SetInfo", "classLDOE_1_1UI_1_1Windows_1_1GlobalMap_1_1PointsInfo_1_1Components_1_1GlobalMapPointsDangerPanelComponent.html#ab8958e86d55c39d09afb6be560d48ea9", null ]
+];

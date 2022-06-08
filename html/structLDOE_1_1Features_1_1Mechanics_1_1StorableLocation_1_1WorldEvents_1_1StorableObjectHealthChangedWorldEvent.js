@@ -1,0 +1,5 @@
+var structLDOE_1_1Features_1_1Mechanics_1_1StorableLocation_1_1WorldEvents_1_1StorableObjectHealthChangedWorldEvent =
+[
+    [ "health", "structLDOE_1_1Features_1_1Mechanics_1_1StorableLocation_1_1WorldEvents_1_1StorableObjectHealthChangedWorldEvent.html#a832d8ae891a390619aac3d2688a8f1a4", null ],
+    [ "uniqueId", "structLDOE_1_1Features_1_1Mechanics_1_1StorableLocation_1_1WorldEvents_1_1StorableObjectHealthChangedWorldEvent.html#a98f7edea79d4e5e3c8b86c632c00bd0a", null ]
+];

@@ -1,0 +1,5 @@
+var namespaceLDOE_1_1Features_1_1Mechanics_1_1Items_1_1Features_1_1Upgrade_1_1WorldEvents =
+[
+    [ "ItemUpgradeWorldEvent", "structLDOE_1_1Features_1_1Mechanics_1_1Items_1_1Features_1_1Upgrade_1_1WorldEvents_1_1ItemUpgradeWorldEvent.html", "structLDOE_1_1Features_1_1Mechanics_1_1Items_1_1Features_1_1Upgrade_1_1WorldEvents_1_1ItemUpgradeWorldEvent" ],
+    [ "ItemUpgradeWorldEventHandler", "classLDOE_1_1Features_1_1Mechanics_1_1Items_1_1Features_1_1Upgrade_1_1WorldEvents_1_1ItemUpgradeWorldEventHandler.html", "classLDOE_1_1Features_1_1Mechanics_1_1Items_1_1Features_1_1Upgrade_1_1WorldEvents_1_1ItemUpgradeWorldEventHandler" ]
+];

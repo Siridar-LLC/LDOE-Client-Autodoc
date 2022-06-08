@@ -1,0 +1,4 @@
+var LootInventoryScreen_8cs =
+[
+    [ "LDOE.UI.Windows.LootInventoryScreen", "classLDOE_1_1UI_1_1Windows_1_1LootInventoryScreen.html", "classLDOE_1_1UI_1_1Windows_1_1LootInventoryScreen" ]
+];

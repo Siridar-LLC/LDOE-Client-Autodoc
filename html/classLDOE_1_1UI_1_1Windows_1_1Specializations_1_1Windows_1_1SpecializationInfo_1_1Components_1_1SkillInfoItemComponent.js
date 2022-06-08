@@ -1,0 +1,7 @@
+var classLDOE_1_1UI_1_1Windows_1_1Specializations_1_1Windows_1_1SpecializationInfo_1_1Components_1_1SkillInfoItemComponent =
+[
+    [ "SetInfo", "classLDOE_1_1UI_1_1Windows_1_1Specializations_1_1Windows_1_1SpecializationInfo_1_1Components_1_1SkillInfoItemComponent.html#a2dfd10c401b1296a160b476e70cd5650", null ],
+    [ "caption", "classLDOE_1_1UI_1_1Windows_1_1Specializations_1_1Windows_1_1SpecializationInfo_1_1Components_1_1SkillInfoItemComponent.html#a31d5c6e6c29eceb0a6a3273e6aed6948", null ],
+    [ "description", "classLDOE_1_1UI_1_1Windows_1_1Specializations_1_1Windows_1_1SpecializationInfo_1_1Components_1_1SkillInfoItemComponent.html#af266f2ffb9eb54fb0ddd5dbc58522b53", null ],
+    [ "levelText", "classLDOE_1_1UI_1_1Windows_1_1Specializations_1_1Windows_1_1SpecializationInfo_1_1Components_1_1SkillInfoItemComponent.html#a4784181feb44229aaf22187293aa3a2f", null ]
+];
