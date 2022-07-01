@@ -1,8 +1,8 @@
 var GridData_8cs =
 [
-    [ "Terrain.PatchBased.PatchGenerationSettings", "structTerrain_1_1PatchBased_1_1PatchGenerationSettings.html", "structTerrain_1_1PatchBased_1_1PatchGenerationSettings" ],
     [ "Terrain.PatchBased.ILayerProcessor", "interfaceTerrain_1_1PatchBased_1_1ILayerProcessor.html", "interfaceTerrain_1_1PatchBased_1_1ILayerProcessor" ],
     [ "Terrain.PatchBased.GridData", "structTerrain_1_1PatchBased_1_1GridData.html", "structTerrain_1_1PatchBased_1_1GridData" ],
+    [ "Terrain.PatchBased.AddUserData", "structTerrain_1_1PatchBased_1_1AddUserData.html", "structTerrain_1_1PatchBased_1_1AddUserData" ],
     [ "Terrain.PatchBased.AddPerlin", "structTerrain_1_1PatchBased_1_1AddPerlin.html", "structTerrain_1_1PatchBased_1_1AddPerlin" ],
     [ "Terrain.PatchBased.MixTexture", "structTerrain_1_1PatchBased_1_1MixTexture.html", "structTerrain_1_1PatchBased_1_1MixTexture" ],
     [ "Terrain.PatchBased.GridMedianFilter", "structTerrain_1_1PatchBased_1_1GridMedianFilter.html", "structTerrain_1_1PatchBased_1_1GridMedianFilter" ],

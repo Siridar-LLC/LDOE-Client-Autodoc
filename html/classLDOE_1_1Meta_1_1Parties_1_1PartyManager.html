@@ -122,8 +122,6 @@ Public Member Functions</h2></td></tr>
 <tr class="separator:a3a13aff5581ac31855c7779c3b0e1a5c"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a6ca78f92196916f74391a1c3c288f788"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classLDOE_1_1Meta_1_1Parties_1_1PartyManager.html#a6ca78f92196916f74391a1c3c288f788">TryFindPendingInviteToParty</a> (out PartyInviteDetailedDto result)</td></tr>
 <tr class="separator:a6ca78f92196916f74391a1c3c288f788"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a4b60268a550c03b792489d4515dbdd4a"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classLDOE_1_1Meta_1_1Parties_1_1PartyManager.html#a4b60268a550c03b792489d4515dbdd4a">HasPendingInvites</a> ()</td></tr>
-<tr class="separator:a4b60268a550c03b792489d4515dbdd4a"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a624cf069612cb9424b09695652f14479"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classLDOE_1_1Meta_1_1Parties_1_1PartyManager.html#a624cf069612cb9424b09695652f14479">MarkPlayerInviteAsAnswered</a> (long partyId, long playerId)</td></tr>
 <tr class="separator:a624cf069612cb9424b09695652f14479"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a914998f2ec7155439f3ea092f00bf1f0"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classLDOE_1_1Meta_1_1Parties_1_1PartyManager.html#a914998f2ec7155439f3ea092f00bf1f0">RemovePartyMember</a> (long partyId, long playerId)</td></tr>
@@ -132,6 +130,9 @@ Public Member Functions</h2></td></tr>
 <tr class="separator:a5b2ff5ddda02f2cc8e707d501fecacf3"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a57c394ace4b493c185819427510557ff"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classLDOE_1_1Meta_1_1Parties_1_1PartyManager.html#a57c394ace4b493c185819427510557ff">SendPartyInvite</a> (PlayerInfoDto playerInfo)</td></tr>
 <tr class="separator:a57c394ace4b493c185819427510557ff"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ae87699127a77f4f9b060567048fb6e42"><td class="memItemLeft" align="right" valign="top">async void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classLDOE_1_1Meta_1_1Parties_1_1PartyManager.html#ae87699127a77f4f9b060567048fb6e42">AnswerPartyInviteAsync</a> (bool isAccepted, long partyId, long playerId)</td></tr>
+<tr class="memdesc:ae87699127a77f4f9b060567048fb6e42"><td class="mdescLeft">&#160;</td><td class="mdescRight">Ответ на приглашение в пати.  <a href="classLDOE_1_1Meta_1_1Parties_1_1PartyManager.html#ae87699127a77f4f9b060567048fb6e42">More...</a><br /></td></tr>
+<tr class="separator:ae87699127a77f4f9b060567048fb6e42"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a99ee6b47b7669d91c1527089acedddaa"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classLDOE_1_1Meta_1_1Parties_1_1PartyManager.html#a99ee6b47b7669d91c1527089acedddaa">SubscribeToPartyStateChanges</a> ()</td></tr>
 <tr class="separator:a99ee6b47b7669d91c1527089acedddaa"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ad0b9bdf2e75512e3fff6459f5274978b"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classLDOE_1_1Meta_1_1Parties_1_1PartyManager.html#ad0b9bdf2e75512e3fff6459f5274978b">UnsubscribeFromPartyStateChanges</a> ()</td></tr>
@@ -292,6 +293,59 @@ Events</h2></td></tr>
 </div>
 </div>
 <h2 class="groupheader">Member Function Documentation</h2>
+<a id="ae87699127a77f4f9b060567048fb6e42" name="ae87699127a77f4f9b060567048fb6e42"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ae87699127a77f4f9b060567048fb6e42">&#9670;&nbsp;</a></span>AnswerPartyInviteAsync()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">async void LDOE.Meta.Parties.PartyManager.AnswerPartyInviteAsync </td>
+          <td>(</td>
+          <td class="paramtype">bool&#160;</td>
+          <td class="paramname"><em>isAccepted</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">long&#160;</td>
+          <td class="paramname"><em>partyId</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">long&#160;</td>
+          <td class="paramname"><em>playerId</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p>Ответ на приглашение в пати. </p>
+<p >Если ответ положительный, то на все остальные ожидающие инвайты отвечаем отрицательно. Не ожидаем ответа сервера при этом, так как он не имеет значения </p>
+<dl class="params"><dt>Parameters</dt><dd>
+  <table class="params">
+    <tr><td class="paramname">isAccepted</td><td>ответ</td></tr>
+    <tr><td class="paramname">partyId</td><td>Id пати</td></tr>
+    <tr><td class="paramname">playerId</td><td>Id игрока, который отвечает</td></tr>
+  </table>
+  </dd>
+</dl>
+
+</div>
+</div>
 <a id="a71f9203de7c0bea92382ae2f594ea1bd" name="a71f9203de7c0bea92382ae2f594ea1bd"></a>
 <h2 class="memtitle"><span class="permalink"><a href="#a71f9203de7c0bea92382ae2f594ea1bd">&#9670;&nbsp;</a></span>Destroy()</h2>
 
@@ -368,31 +422,6 @@ Events</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Implements <a class="el" href="interfaceLDOE_1_1Network_1_1Connector_1_1IMainDisconnectListener.html#a909b40e524f3af01c456f1b0e12b7732">LDOE.Network.Connector.IMainDisconnectListener</a>.</p>
-
-</div>
-</div>
-<a id="a4b60268a550c03b792489d4515dbdd4a" name="a4b60268a550c03b792489d4515dbdd4a"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a4b60268a550c03b792489d4515dbdd4a">&#9670;&nbsp;</a></span>HasPendingInvites()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">bool LDOE.Meta.Parties.PartyManager.HasPendingInvites </td>
-          <td>(</td>
-          <td class="paramname"></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
 
 </div>
 </div>
@@ -1536,7 +1565,7 @@ Events</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="namespaceLDOE.html">LDOE</a></li><li class="navelem"><a class="el" href="namespaceLDOE_1_1Meta.html">Meta</a></li><li class="navelem"><a class="el" href="namespaceLDOE_1_1Meta_1_1Parties.html">Parties</a></li><li class="navelem"><a class="el" href="classLDOE_1_1Meta_1_1Parties_1_1PartyManager.html">PartyManager</a></li>
-    <li class="footer">Generated on Wed Jun 8 2022 16:37:35 for The Last Ark by <a href="https://www.doxygen.org/index.html"><img class="footer" src="doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.4 </li>
+    <li class="footer">Generated on Fri Jul 1 2022 12:55:04 for The Last Ark by <a href="https://www.doxygen.org/index.html"><img class="footer" src="doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.4 </li>
   </ul>
 </div>
 </body>

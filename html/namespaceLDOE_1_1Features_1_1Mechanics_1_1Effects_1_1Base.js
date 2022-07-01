@@ -54,6 +54,8 @@ var namespaceLDOE_1_1Features_1_1Mechanics_1_1Effects_1_1Base =
       [ "RangeHitDamageMultiplier", "namespaceLDOE_1_1Features_1_1Mechanics_1_1Effects_1_1Base.html#ab452833b15f2b47755f072dd3d0b2ef6a4b399de192e1d5533e3766387e283f88", null ],
       [ "MovementSpeed", "namespaceLDOE_1_1Features_1_1Mechanics_1_1Effects_1_1Base.html#ab452833b15f2b47755f072dd3d0b2ef6a6ac1a7dc525ac874fef15626633a9c9c", null ],
       [ "MovementSpeedMultiplier", "namespaceLDOE_1_1Features_1_1Mechanics_1_1Effects_1_1Base.html#ab452833b15f2b47755f072dd3d0b2ef6a8391ecc08ab89656ee409ce029143858", null ],
+      [ "RotationSpeed", "namespaceLDOE_1_1Features_1_1Mechanics_1_1Effects_1_1Base.html#ab452833b15f2b47755f072dd3d0b2ef6ad95ae32784db64f6db7bd4d9859ba7e7", null ],
+      [ "RotationSpeedMultiplier", "namespaceLDOE_1_1Features_1_1Mechanics_1_1Effects_1_1Base.html#ab452833b15f2b47755f072dd3d0b2ef6a8bf1fe7949646150f7489c6d571cd886", null ],
       [ "WeightCapacity", "namespaceLDOE_1_1Features_1_1Mechanics_1_1Effects_1_1Base.html#ab452833b15f2b47755f072dd3d0b2ef6a978942ce0f56bca8f6e54ea1ad0c2376", null ],
       [ "WeightCapacityMultiplier", "namespaceLDOE_1_1Features_1_1Mechanics_1_1Effects_1_1Base.html#ab452833b15f2b47755f072dd3d0b2ef6a990a85f691c98c8984b95743d0642e72", null ],
       [ "ExperienceKillRewardMultiplier", "namespaceLDOE_1_1Features_1_1Mechanics_1_1Effects_1_1Base.html#ab452833b15f2b47755f072dd3d0b2ef6a621005d00c216ce60ab14444b42dedba", null ],

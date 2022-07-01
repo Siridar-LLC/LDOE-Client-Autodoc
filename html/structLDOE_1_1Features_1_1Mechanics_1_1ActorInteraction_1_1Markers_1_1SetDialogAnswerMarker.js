@@ -1,0 +1,4 @@
+var structLDOE_1_1Features_1_1Mechanics_1_1ActorInteraction_1_1Markers_1_1SetDialogAnswerMarker =
+[
+    [ "dialogAnswerType", "structLDOE_1_1Features_1_1Mechanics_1_1ActorInteraction_1_1Markers_1_1SetDialogAnswerMarker.html#a81cd96f1d7d7f66fb2c101f5c893f54f", null ]
+];

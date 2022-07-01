@@ -9,6 +9,7 @@ var classLDOE_1_1UI_1_1Modules_1_1DraggableItemComponentModule =
     [ "OnDrag", "classLDOE_1_1UI_1_1Modules_1_1DraggableItemComponentModule.html#a1cd6d068a0b058cd6532c9c1898e25f4", null ],
     [ "OnEndDrag", "classLDOE_1_1UI_1_1Modules_1_1DraggableItemComponentModule.html#a87b18cbbb7d38d27d0a58e3b1aa37e21", null ],
     [ "OnPointerDown", "classLDOE_1_1UI_1_1Modules_1_1DraggableItemComponentModule.html#a4872dfa7524a62e22d3e98765df1fbe0", null ],
+    [ "OnPointerUp", "classLDOE_1_1UI_1_1Modules_1_1DraggableItemComponentModule.html#a1948f5367b2f7157d71e249365d18c7c", null ],
     [ "OnShowBegin", "classLDOE_1_1UI_1_1Modules_1_1DraggableItemComponentModule.html#a07c09e36d06a817cdfe9561c65d3dfb6", null ],
     [ "RemoveAllBeginDragCallbacks", "classLDOE_1_1UI_1_1Modules_1_1DraggableItemComponentModule.html#aa4f2f8d80d3bd421986faec983c7ee6d", null ],
     [ "RemoveAllCallbacks", "classLDOE_1_1UI_1_1Modules_1_1DraggableItemComponentModule.html#a7f0373cc9162d79671f6ce20bba6ab1d", null ],

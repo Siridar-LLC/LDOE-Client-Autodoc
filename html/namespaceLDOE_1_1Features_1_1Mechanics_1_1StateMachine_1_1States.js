@@ -3,6 +3,7 @@ var namespaceLDOE_1_1Features_1_1Mechanics_1_1StateMachine_1_1States =
     [ "Attack", "namespaceLDOE_1_1Features_1_1Mechanics_1_1StateMachine_1_1States_1_1Attack.html", "namespaceLDOE_1_1Features_1_1Mechanics_1_1StateMachine_1_1States_1_1Attack" ],
     [ "Base", "namespaceLDOE_1_1Features_1_1Mechanics_1_1StateMachine_1_1States_1_1Base.html", "namespaceLDOE_1_1Features_1_1Mechanics_1_1StateMachine_1_1States_1_1Base" ],
     [ "Common", "namespaceLDOE_1_1Features_1_1Mechanics_1_1StateMachine_1_1States_1_1Common.html", "namespaceLDOE_1_1Features_1_1Mechanics_1_1StateMachine_1_1States_1_1Common" ],
+    [ "Dialog", "namespaceLDOE_1_1Features_1_1Mechanics_1_1StateMachine_1_1States_1_1Dialog.html", "namespaceLDOE_1_1Features_1_1Mechanics_1_1StateMachine_1_1States_1_1Dialog" ],
     [ "FullBodyStates", "namespaceLDOE_1_1Features_1_1Mechanics_1_1StateMachine_1_1States_1_1FullBodyStates.html", "namespaceLDOE_1_1Features_1_1Mechanics_1_1StateMachine_1_1States_1_1FullBodyStates" ],
     [ "Interaction", "namespaceLDOE_1_1Features_1_1Mechanics_1_1StateMachine_1_1States_1_1Interaction.html", "namespaceLDOE_1_1Features_1_1Mechanics_1_1StateMachine_1_1States_1_1Interaction" ],
     [ "Scriptable", "namespaceLDOE_1_1Features_1_1Mechanics_1_1StateMachine_1_1States_1_1Scriptable.html", "namespaceLDOE_1_1Features_1_1Mechanics_1_1StateMachine_1_1States_1_1Scriptable" ],

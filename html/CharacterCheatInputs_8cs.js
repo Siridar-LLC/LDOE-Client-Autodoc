@@ -1,6 +1,7 @@
 var CharacterCheatInputs_8cs =
 [
     [ "LDOE.Features.Cheats.PlayerCheats.Markers.AddItemToInventoryCheatInput", "structLDOE_1_1Features_1_1Cheats_1_1PlayerCheats_1_1Markers_1_1AddItemToInventoryCheatInput.html", "structLDOE_1_1Features_1_1Cheats_1_1PlayerCheats_1_1Markers_1_1AddItemToInventoryCheatInput" ],
+    [ "LDOE.Features.Cheats.PlayerCheats.Markers.AddItemsToInventoryCheatInput", "structLDOE_1_1Features_1_1Cheats_1_1PlayerCheats_1_1Markers_1_1AddItemsToInventoryCheatInput.html", "structLDOE_1_1Features_1_1Cheats_1_1PlayerCheats_1_1Markers_1_1AddItemsToInventoryCheatInput" ],
     [ "LDOE.Features.Cheats.PlayerCheats.Markers.AddAllWeaponsCheatInput", "structLDOE_1_1Features_1_1Cheats_1_1PlayerCheats_1_1Markers_1_1AddAllWeaponsCheatInput.html", null ],
     [ "LDOE.Features.Cheats.PlayerCheats.Markers.AddAllArmorCheatInput", "structLDOE_1_1Features_1_1Cheats_1_1PlayerCheats_1_1Markers_1_1AddAllArmorCheatInput.html", null ],
     [ "LDOE.Features.Cheats.PlayerCheats.Markers.CharacterAddInventorySlotsCheatInput", "structLDOE_1_1Features_1_1Cheats_1_1PlayerCheats_1_1Markers_1_1CharacterAddInventorySlotsCheatInput.html", "structLDOE_1_1Features_1_1Cheats_1_1PlayerCheats_1_1Markers_1_1CharacterAddInventorySlotsCheatInput" ],

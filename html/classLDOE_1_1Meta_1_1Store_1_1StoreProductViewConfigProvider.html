@@ -89,6 +89,9 @@ $(document).ready(function(){initNavTree('classLDOE_1_1Meta_1_1Store_1_1StorePro
   <div class="headertitle"><div class="title">LDOE.Meta.Store.StoreProductViewConfigProvider Class Reference</div></div>
 </div><!--header-->
 <div class="contents">
+
+<p>Провайдер визуальных конфигов для внутриигрового магазина  
+ <a href="classLDOE_1_1Meta_1_1Store_1_1StoreProductViewConfigProvider.html#details">More...</a></p>
 <div class="dynheader">
 Inheritance diagram for LDOE.Meta.Store.StoreProductViewConfigProvider:</div>
 <div class="dyncontent">
@@ -100,15 +103,18 @@ Inheritance diagram for LDOE.Meta.Store.StoreProductViewConfigProvider:</div>
 Public Member Functions</h2></td></tr>
 <tr class="memitem:a32ece70f3e93185e1409e649005dccb1"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classLDOE_1_1Meta_1_1Store_1_1StoreProductViewConfigProvider.html#a32ece70f3e93185e1409e649005dccb1">StoreProductViewConfigProvider</a> ()</td></tr>
 <tr class="separator:a32ece70f3e93185e1409e649005dccb1"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:af490325bc7db57cd9be02bc807a4a578"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classLDOE_1_1Meta_1_1Store_1_1StoreProductViewConfigProvider.html#af490325bc7db57cd9be02bc807a4a578">TryGetViewConfig</a> (long offerId, out <a class="el" href="structLDOE_1_1Meta_1_1Store_1_1Configs_1_1StoreProductViewConfig.html">StoreProductViewConfig</a> viewConfig)</td></tr>
-<tr class="separator:af490325bc7db57cd9be02bc807a4a578"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a23cd5c975862b66cbc2b57adb9e748d5"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classLDOE_1_1Meta_1_1Store_1_1StoreProductViewConfigProvider.html#a23cd5c975862b66cbc2b57adb9e748d5">TryGetViewConfig</a> (OfferBaseModel offerModel, out <a class="el" href="classLDOE_1_1Meta_1_1Store_1_1Configs_1_1StoreProductViewConfigBase.html">StoreProductViewConfigBase</a> viewConfig)</td></tr>
+<tr class="memdesc:a23cd5c975862b66cbc2b57adb9e748d5"><td class="mdescLeft">&#160;</td><td class="mdescRight">Метод получения визуального конфига для товара внутриигрового магазина.  <a href="classLDOE_1_1Meta_1_1Store_1_1StoreProductViewConfigProvider.html#a23cd5c975862b66cbc2b57adb9e748d5">More...</a><br /></td></tr>
+<tr class="separator:a23cd5c975862b66cbc2b57adb9e748d5"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pro-methods" name="pro-methods"></a>
 Protected Member Functions</h2></td></tr>
 <tr class="memitem:a30d9104a3a27f2e599ab0f6059028568"><td class="memItemLeft" align="right" valign="top">override void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classLDOE_1_1Meta_1_1Store_1_1StoreProductViewConfigProvider.html#a30d9104a3a27f2e599ab0f6059028568">Destroy</a> ()</td></tr>
 <tr class="separator:a30d9104a3a27f2e599ab0f6059028568"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
-<h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
+<a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
+<div class="textblock"><p >Провайдер визуальных конфигов для внутриигрового магазина </p>
+</div><h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
 <a id="a32ece70f3e93185e1409e649005dccb1" name="a32ece70f3e93185e1409e649005dccb1"></a>
 <h2 class="memtitle"><span class="permalink"><a href="#a32ece70f3e93185e1409e649005dccb1">&#9670;&nbsp;</a></span>StoreProductViewConfigProvider()</h2>
 
@@ -160,8 +166,8 @@ Protected Member Functions</h2></td></tr>
 
 </div>
 </div>
-<a id="af490325bc7db57cd9be02bc807a4a578" name="af490325bc7db57cd9be02bc807a4a578"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#af490325bc7db57cd9be02bc807a4a578">&#9670;&nbsp;</a></span>TryGetViewConfig()</h2>
+<a id="a23cd5c975862b66cbc2b57adb9e748d5" name="a23cd5c975862b66cbc2b57adb9e748d5"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a23cd5c975862b66cbc2b57adb9e748d5">&#9670;&nbsp;</a></span>TryGetViewConfig()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -172,13 +178,13 @@ Protected Member Functions</h2></td></tr>
         <tr>
           <td class="memname">bool LDOE.Meta.Store.StoreProductViewConfigProvider.TryGetViewConfig </td>
           <td>(</td>
-          <td class="paramtype">long&#160;</td>
-          <td class="paramname"><em>offerId</em>, </td>
+          <td class="paramtype">OfferBaseModel&#160;</td>
+          <td class="paramname"><em>offerModel</em>, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype">out <a class="el" href="structLDOE_1_1Meta_1_1Store_1_1Configs_1_1StoreProductViewConfig.html">StoreProductViewConfig</a>&#160;</td>
+          <td class="paramtype">out <a class="el" href="classLDOE_1_1Meta_1_1Store_1_1Configs_1_1StoreProductViewConfigBase.html">StoreProductViewConfigBase</a>&#160;</td>
           <td class="paramname"><em>viewConfig</em>&#160;</td>
         </tr>
         <tr>
@@ -194,6 +200,17 @@ Protected Member Functions</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
+<p>Метод получения визуального конфига для товара внутриигрового магазина. </p>
+<p >Сначала пытется найти специальный конфиг вьюшки для товара по его offerId. Если специальный конфиг не найден, то выбирается соответствующий размеру оффера. Если не найден конфиг по размеру оффера, то берется дефолтный. </p>
+<dl class="params"><dt>Parameters</dt><dd>
+  <table class="params">
+    <tr><td class="paramname">offerModel</td><td>модель оффера</td></tr>
+    <tr><td class="paramname">viewConfig</td><td>визуальный конфиг товара</td></tr>
+  </table>
+  </dd>
+</dl>
+<dl class="section return"><dt>Returns</dt><dd>true, если конфиг был найден</dd></dl>
+
 </div>
 </div>
 <hr/>The documentation for this class was generated from the following file:<ul>
@@ -205,7 +222,7 @@ Protected Member Functions</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="namespaceLDOE.html">LDOE</a></li><li class="navelem"><a class="el" href="namespaceLDOE_1_1Meta.html">Meta</a></li><li class="navelem"><a class="el" href="namespaceLDOE_1_1Meta_1_1Store.html">Store</a></li><li class="navelem"><a class="el" href="classLDOE_1_1Meta_1_1Store_1_1StoreProductViewConfigProvider.html">StoreProductViewConfigProvider</a></li>
-    <li class="footer">Generated on Wed Jun 8 2022 16:37:35 for The Last Ark by <a href="https://www.doxygen.org/index.html"><img class="footer" src="doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.4 </li>
+    <li class="footer">Generated on Fri Jul 1 2022 12:55:04 for The Last Ark by <a href="https://www.doxygen.org/index.html"><img class="footer" src="doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.4 </li>
   </ul>
 </div>
 </body>

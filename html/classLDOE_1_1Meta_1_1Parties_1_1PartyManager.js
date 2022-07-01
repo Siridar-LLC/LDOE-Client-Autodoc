@@ -1,10 +1,10 @@
 var classLDOE_1_1Meta_1_1Parties_1_1PartyManager =
 [
     [ "PartyManager", "classLDOE_1_1Meta_1_1Parties_1_1PartyManager.html#ae438d3deb7e73f916ede54adf7764bc3", null ],
+    [ "AnswerPartyInviteAsync", "classLDOE_1_1Meta_1_1Parties_1_1PartyManager.html#ae87699127a77f4f9b060567048fb6e42", null ],
     [ "Destroy", "classLDOE_1_1Meta_1_1Parties_1_1PartyManager.html#a71f9203de7c0bea92382ae2f594ea1bd", null ],
     [ "HandleConnect", "classLDOE_1_1Meta_1_1Parties_1_1PartyManager.html#aa6f85a8837ef3d04189ef4209a3e13f0", null ],
     [ "HandleDisconnect", "classLDOE_1_1Meta_1_1Parties_1_1PartyManager.html#a20be87055644f318bb6ba89e66e1eb1d", null ],
-    [ "HasPendingInvites", "classLDOE_1_1Meta_1_1Parties_1_1PartyManager.html#a4b60268a550c03b792489d4515dbdd4a", null ],
     [ "IsPlayerInParty", "classLDOE_1_1Meta_1_1Parties_1_1PartyManager.html#afd7731efbff1bb0c6f11321116c2cab1", null ],
     [ "MarkPlayerInviteAsAnswered", "classLDOE_1_1Meta_1_1Parties_1_1PartyManager.html#a624cf069612cb9424b09695652f14479", null ],
     [ "OnFriendPartyStatusChanged", "classLDOE_1_1Meta_1_1Parties_1_1PartyManager.html#aa587d5553d43afff55d23ba2c3d2027f", null ],

@@ -1,5 +1,6 @@
 var namespaceTerrain_1_1PatchBased =
 [
+    [ "Brushes", "namespaceTerrain_1_1PatchBased_1_1Brushes.html", "namespaceTerrain_1_1PatchBased_1_1Brushes" ],
     [ "Data", "namespaceTerrain_1_1PatchBased_1_1Data.html", "namespaceTerrain_1_1PatchBased_1_1Data" ],
     [ "EdgeGenerator", "namespaceTerrain_1_1PatchBased_1_1EdgeGenerator.html", "namespaceTerrain_1_1PatchBased_1_1EdgeGenerator" ],
     [ "Editor", "namespaceTerrain_1_1PatchBased_1_1Editor.html", "namespaceTerrain_1_1PatchBased_1_1Editor" ],
@@ -7,6 +8,7 @@ var namespaceTerrain_1_1PatchBased =
     [ "MapGeneration", "namespaceTerrain_1_1PatchBased_1_1MapGeneration.html", "namespaceTerrain_1_1PatchBased_1_1MapGeneration" ],
     [ "Processors", "namespaceTerrain_1_1PatchBased_1_1Processors.html", "namespaceTerrain_1_1PatchBased_1_1Processors" ],
     [ "AddPerlin", "structTerrain_1_1PatchBased_1_1AddPerlin.html", "structTerrain_1_1PatchBased_1_1AddPerlin" ],
+    [ "AddUserData", "structTerrain_1_1PatchBased_1_1AddUserData.html", "structTerrain_1_1PatchBased_1_1AddUserData" ],
     [ "DebugTex", "structTerrain_1_1PatchBased_1_1DebugTex.html", "structTerrain_1_1PatchBased_1_1DebugTex" ],
     [ "EditorTerrainGenerator", "classTerrain_1_1PatchBased_1_1EditorTerrainGenerator.html", "classTerrain_1_1PatchBased_1_1EditorTerrainGenerator" ],
     [ "FastRND", "structTerrain_1_1PatchBased_1_1FastRND.html", "structTerrain_1_1PatchBased_1_1FastRND" ],
@@ -22,7 +24,6 @@ var namespaceTerrain_1_1PatchBased =
     [ "IVertex", "interfaceTerrain_1_1PatchBased_1_1IVertex.html", "interfaceTerrain_1_1PatchBased_1_1IVertex" ],
     [ "LocationGeneratorSettings", "classTerrain_1_1PatchBased_1_1LocationGeneratorSettings.html", "classTerrain_1_1PatchBased_1_1LocationGeneratorSettings" ],
     [ "MixTexture", "structTerrain_1_1PatchBased_1_1MixTexture.html", "structTerrain_1_1PatchBased_1_1MixTexture" ],
-    [ "PatchGenerationSettings", "structTerrain_1_1PatchBased_1_1PatchGenerationSettings.html", "structTerrain_1_1PatchBased_1_1PatchGenerationSettings" ],
     [ "PerlinTable", "structTerrain_1_1PatchBased_1_1PerlinTable.html", "structTerrain_1_1PatchBased_1_1PerlinTable" ],
     [ "PointDebug", "classTerrain_1_1PatchBased_1_1PointDebug.html", "classTerrain_1_1PatchBased_1_1PointDebug" ],
     [ "PoissonQuadAsset", "classTerrain_1_1PatchBased_1_1PoissonQuadAsset.html", "classTerrain_1_1PatchBased_1_1PoissonQuadAsset" ],

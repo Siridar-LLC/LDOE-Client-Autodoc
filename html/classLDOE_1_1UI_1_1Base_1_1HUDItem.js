@@ -11,7 +11,7 @@ var classLDOE_1_1UI_1_1Base_1_1HUDItem =
     [ "SetAlignToPoint", "classLDOE_1_1UI_1_1Base_1_1HUDItem.html#a048ac598148707b311d5f67422d8b293", null ],
     [ "SetUiOffset", "classLDOE_1_1UI_1_1Base_1_1HUDItem.html#ab24ab06feddae745e4f08c07a5de6a68", null ],
     [ "SetVisible", "classLDOE_1_1UI_1_1Base_1_1HUDItem.html#ad4fdfa01771f25f31015aa149e3567fa", null ],
-    [ "alignTo", "classLDOE_1_1UI_1_1Base_1_1HUDItem.html#a1025739da14f0f334836acc2222c36bc", null ],
     [ "gameCamera", "classLDOE_1_1UI_1_1Base_1_1HUDItem.html#ab9e3e8ea66207aea8dc891942fea485a", null ],
-    [ "uiCamera", "classLDOE_1_1UI_1_1Base_1_1HUDItem.html#a2c27723efec28eee60a829b679d5f63e", null ]
+    [ "uiCamera", "classLDOE_1_1UI_1_1Base_1_1HUDItem.html#a2c27723efec28eee60a829b679d5f63e", null ],
+    [ "AlignTo", "classLDOE_1_1UI_1_1Base_1_1HUDItem.html#a9db5da168efa3fc1fd257e4de28b1dd9", null ]
 ];

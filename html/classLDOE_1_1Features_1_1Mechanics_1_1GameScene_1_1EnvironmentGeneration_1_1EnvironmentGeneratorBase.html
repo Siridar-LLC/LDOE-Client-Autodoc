@@ -89,6 +89,9 @@ $(document).ready(function(){initNavTree('classLDOE_1_1Features_1_1Mechanics_1_1
   <div class="headertitle"><div class="title">LDOE.Features.Mechanics.GameScene.EnvironmentGeneration.EnvironmentGeneratorBase Class Reference</div></div>
 </div><!--header-->
 <div class="contents">
+
+<p>Расставляет объекты и декор на сцене.  
+ <a href="classLDOE_1_1Features_1_1Mechanics_1_1GameScene_1_1EnvironmentGeneration_1_1EnvironmentGeneratorBase.html#details">More...</a></p>
 <div class="dynheader">
 Inheritance diagram for LDOE.Features.Mechanics.GameScene.EnvironmentGeneration.EnvironmentGeneratorBase:</div>
 <div class="dyncontent">
@@ -96,27 +99,32 @@ Inheritance diagram for LDOE.Features.Mechanics.GameScene.EnvironmentGeneration.
   <img src="classLDOE_1_1Features_1_1Mechanics_1_1GameScene_1_1EnvironmentGeneration_1_1EnvironmentGeneratorBase.png" usemap="#LDOE.Features.Mechanics.GameScene.EnvironmentGeneration.EnvironmentGeneratorBase_map" alt=""/>
   <map id="LDOE.Features.Mechanics.GameScene.EnvironmentGeneration.EnvironmentGeneratorBase_map" name="LDOE.Features.Mechanics.GameScene.EnvironmentGeneration.EnvironmentGeneratorBase_map">
 <area href="classTerrain_1_1PatchBased_1_1GeneratorBase.html" title="Parent of all location generators." alt="Terrain.PatchBased.GeneratorBase" shape="rect" coords="279,56,828,80"/>
-<area href="classLDOE_1_1Features_1_1Mechanics_1_1GameScene_1_1EnvironmentGeneration_1_1EditorEnvironmentGenerator.html" title="Generates location objects in editor." alt="LDOE.Features.Mechanics.GameScene.EnvironmentGeneration.EditorEnvironmentGenerator" shape="rect" coords="0,168,549,192"/>
-<area href="classLDOE_1_1Features_1_1Mechanics_1_1GameScene_1_1EnvironmentGeneration_1_1RuntimeEnvironmentGenerator.html" title="Runtime location objects generator (not working now, must be fixed)." alt="LDOE.Features.Mechanics.GameScene.EnvironmentGeneration.RuntimeEnvironmentGenerator" shape="rect" coords="559,168,1108,192"/>
+<area href="classLDOE_1_1Features_1_1Mechanics_1_1GameScene_1_1EnvironmentGeneration_1_1EditorEnvironmentGenerator.html" title="Генератор окружения локации для редактора Unity." alt="LDOE.Features.Mechanics.GameScene.EnvironmentGeneration.EditorEnvironmentGenerator" shape="rect" coords="0,168,549,192"/>
+<area href="classLDOE_1_1Features_1_1Mechanics_1_1GameScene_1_1EnvironmentGeneration_1_1RuntimeEnvironmentGenerator.html" title="Рантаймовый генератор окружения локации." alt="LDOE.Features.Mechanics.GameScene.EnvironmentGeneration.RuntimeEnvironmentGenerator" shape="rect" coords="559,168,1108,192"/>
   </map>
 </div></div>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pro-methods" name="pro-methods"></a>
 Protected Member Functions</h2></td></tr>
 <tr class="memitem:ac5c89317955b3fc57387d9007801d18d"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classLDOE_1_1Features_1_1Mechanics_1_1GameScene_1_1EnvironmentGeneration_1_1EnvironmentGeneratorBase.html#ac5c89317955b3fc57387d9007801d18d">SetBorder</a> ()</td></tr>
+<tr class="memdesc:ac5c89317955b3fc57387d9007801d18d"><td class="mdescLeft">&#160;</td><td class="mdescRight">Устанавливает отступ от края в соответствии со значением border.  <a href="classLDOE_1_1Features_1_1Mechanics_1_1GameScene_1_1EnvironmentGeneration_1_1EnvironmentGeneratorBase.html#ac5c89317955b3fc57387d9007801d18d">More...</a><br /></td></tr>
 <tr class="separator:ac5c89317955b3fc57387d9007801d18d"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a20db2a1211a2863aa4142420a91534b2"><td class="memItemLeft" align="right" valign="top">NativeList&lt; float3 &gt;[]&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classLDOE_1_1Features_1_1Mechanics_1_1GameScene_1_1EnvironmentGeneration_1_1EnvironmentGeneratorBase.html#a20db2a1211a2863aa4142420a91534b2">GetObjectsPositions</a> (<a class="el" href="classLDOE_1_1Features_1_1Mechanics_1_1GameScene_1_1EnvironmentGeneration_1_1Data_1_1ObjectsRepresentation.html">ObjectsRepresentation</a>[] objectsToSpawn, Allocator allocator)</td></tr>
+<tr class="memdesc:a20db2a1211a2863aa4142420a91534b2"><td class="mdescLeft">&#160;</td><td class="mdescRight">Генерирует позиции для объектов с учетом декор-масок с использованием <a class="el" href="structTerrain_1_1PatchBased_1_1MapGeneration_1_1MapGenerator.html">Terrain.PatchBased.MapGeneration.MapGenerator</a>.  <a href="classLDOE_1_1Features_1_1Mechanics_1_1GameScene_1_1EnvironmentGeneration_1_1EnvironmentGeneratorBase.html#a20db2a1211a2863aa4142420a91534b2">More...</a><br /></td></tr>
 <tr class="separator:a20db2a1211a2863aa4142420a91534b2"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pro-attribs" name="pro-attribs"></a>
 Protected Attributes</h2></td></tr>
 <tr class="memitem:aaa614578d6dfb31298bdba0eece2e21a"><td class="memItemLeft" align="right" valign="top"><a class="el" href="classNativeCollector.html">NativeCollector</a>&lt; <a class="el" href="structTerrain_1_1PatchBased_1_1MapGeneration_1_1RasterizeBoxesData.html">Terrain.PatchBased.MapGeneration.RasterizeBoxesData</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classLDOE_1_1Features_1_1Mechanics_1_1GameScene_1_1EnvironmentGeneration_1_1EnvironmentGeneratorBase.html#aaa614578d6dfb31298bdba0eece2e21a">borderData</a></td></tr>
+<tr class="memdesc:aaa614578d6dfb31298bdba0eece2e21a"><td class="mdescLeft">&#160;</td><td class="mdescRight">История умалчивает.  <a href="classLDOE_1_1Features_1_1Mechanics_1_1GameScene_1_1EnvironmentGeneration_1_1EnvironmentGeneratorBase.html#aaa614578d6dfb31298bdba0eece2e21a">More...</a><br /></td></tr>
 <tr class="separator:aaa614578d6dfb31298bdba0eece2e21a"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="inherit_header pro_attribs_classTerrain_1_1PatchBased_1_1GeneratorBase"><td colspan="2" onclick="javascript:toggleInherit('pro_attribs_classTerrain_1_1PatchBased_1_1GeneratorBase')"><img src="closed.png" alt="-"/>&#160;Protected Attributes inherited from <a class="el" href="classTerrain_1_1PatchBased_1_1GeneratorBase.html">Terrain.PatchBased.GeneratorBase</a></td></tr>
 <tr class="memitem:a554671cab91071465a677efbe815f275 inherit pro_attribs_classTerrain_1_1PatchBased_1_1GeneratorBase"><td class="memItemLeft" align="right" valign="top"><a class="el" href="classTerrain_1_1PatchBased_1_1LocationGeneratorSettings.html">LocationGeneratorSettings</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classTerrain_1_1PatchBased_1_1GeneratorBase.html#a554671cab91071465a677efbe815f275">generatorSettings</a></td></tr>
 <tr class="separator:a554671cab91071465a677efbe815f275 inherit pro_attribs_classTerrain_1_1PatchBased_1_1GeneratorBase"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
-<h2 class="groupheader">Member Function Documentation</h2>
+<a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
+<div class="textblock"><p >Расставляет объекты и декор на сцене. </p>
+</div><h2 class="groupheader">Member Function Documentation</h2>
 <a id="a20db2a1211a2863aa4142420a91534b2" name="a20db2a1211a2863aa4142420a91534b2"></a>
 <h2 class="memtitle"><span class="permalink"><a href="#a20db2a1211a2863aa4142420a91534b2">&#9670;&nbsp;</a></span>GetObjectsPositions()</h2>
 
@@ -151,6 +159,16 @@ Protected Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
+<p>Генерирует позиции для объектов с учетом декор-масок с использованием <a class="el" href="structTerrain_1_1PatchBased_1_1MapGeneration_1_1MapGenerator.html">Terrain.PatchBased.MapGeneration.MapGenerator</a>. </p>
+<dl class="params"><dt>Parameters</dt><dd>
+  <table class="params">
+    <tr><td class="paramname">objectsToSpawn</td><td>Объекты, которые необходимо расставить.</td></tr>
+    <tr><td class="paramname">allocator</td><td>Аллокатор для работы job'ов.</td></tr>
+  </table>
+  </dd>
+</dl>
+<dl class="section return"><dt>Returns</dt><dd>Массив позиций для категорий объектов.</dd></dl>
+
 </div>
 </div>
 <a id="ac5c89317955b3fc57387d9007801d18d" name="ac5c89317955b3fc57387d9007801d18d"></a>
@@ -176,6 +194,8 @@ Protected Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
+<p>Устанавливает отступ от края в соответствии со значением border. </p>
+
 </div>
 </div>
 <h2 class="groupheader">Member Data Documentation</h2>
@@ -199,6 +219,8 @@ Protected Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
+<p>История умалчивает. </p>
+
 </div>
 </div>
 <hr/>The documentation for this class was generated from the following file:<ul>
@@ -210,7 +232,7 @@ Protected Attributes</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="namespaceLDOE.html">LDOE</a></li><li class="navelem"><a class="el" href="namespaceLDOE_1_1Features.html">Features</a></li><li class="navelem"><a class="el" href="namespaceLDOE_1_1Features_1_1Mechanics.html">Mechanics</a></li><li class="navelem"><a class="el" href="namespaceLDOE_1_1Features_1_1Mechanics_1_1GameScene.html">GameScene</a></li><li class="navelem"><a class="el" href="namespaceLDOE_1_1Features_1_1Mechanics_1_1GameScene_1_1EnvironmentGeneration.html">EnvironmentGeneration</a></li><li class="navelem"><a class="el" href="classLDOE_1_1Features_1_1Mechanics_1_1GameScene_1_1EnvironmentGeneration_1_1EnvironmentGeneratorBase.html">EnvironmentGeneratorBase</a></li>
-    <li class="footer">Generated on Wed Jun 8 2022 16:37:32 for The Last Ark by <a href="https://www.doxygen.org/index.html"><img class="footer" src="doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.4 </li>
+    <li class="footer">Generated on Fri Jul 1 2022 12:55:00 for The Last Ark by <a href="https://www.doxygen.org/index.html"><img class="footer" src="doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.4 </li>
   </ul>
 </div>
 </body>

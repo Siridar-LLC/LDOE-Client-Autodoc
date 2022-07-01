@@ -12,6 +12,7 @@ var SerializerModule_8cs =
       [ "NativeListContainer", "SerializerModule_8cs.html#a545d3dcc37663469b434ee54eacef7fcaa3d8eb0b317f2c4ab04207364cd83a5c", null ],
       [ "ScriptableObject", "SerializerModule_8cs.html#a545d3dcc37663469b434ee54eacef7fca91ebab5d94e259dfde45b7d4f052e0a6", null ],
       [ "ICancellingEffect", "SerializerModule_8cs.html#a545d3dcc37663469b434ee54eacef7fca24b1b1d8ddeb23c76c62aef403fac5ac", null ],
-      [ "LocationTaskCondition", "SerializerModule_8cs.html#a545d3dcc37663469b434ee54eacef7fcaaec43e89b716bc6fbaf40e4fbeb0c520", null ]
+      [ "LocationTaskCondition", "SerializerModule_8cs.html#a545d3dcc37663469b434ee54eacef7fcaaec43e89b716bc6fbaf40e4fbeb0c520", null ],
+      [ "MonoBehaviour", "SerializerModule_8cs.html#a545d3dcc37663469b434ee54eacef7fca67576dd5f60e68b080b16cb85549dca7", null ]
     ] ]
 ];

@@ -70,6 +70,7 @@ var namespaceLDOE_1_1Features_1_1Mechanics =
     [ "Scan", "namespaceLDOE_1_1Features_1_1Mechanics_1_1Scan.html", "namespaceLDOE_1_1Features_1_1Mechanics_1_1Scan" ],
     [ "Skills", "namespaceLDOE_1_1Features_1_1Mechanics_1_1Skills.html", "namespaceLDOE_1_1Features_1_1Mechanics_1_1Skills" ],
     [ "Social", "namespaceLDOE_1_1Features_1_1Mechanics_1_1Social.html", "namespaceLDOE_1_1Features_1_1Mechanics_1_1Social" ],
+    [ "Sounds", "namespaceLDOE_1_1Features_1_1Mechanics_1_1Sounds.html", "namespaceLDOE_1_1Features_1_1Mechanics_1_1Sounds" ],
     [ "Spawn", "namespaceLDOE_1_1Features_1_1Mechanics_1_1Spawn.html", "namespaceLDOE_1_1Features_1_1Mechanics_1_1Spawn" ],
     [ "SpawnCharacters", "namespaceLDOE_1_1Features_1_1Mechanics_1_1SpawnCharacters.html", "namespaceLDOE_1_1Features_1_1Mechanics_1_1SpawnCharacters" ],
     [ "Specific", "namespaceLDOE_1_1Features_1_1Mechanics_1_1Specific.html", "namespaceLDOE_1_1Features_1_1Mechanics_1_1Specific" ],

@@ -12,5 +12,6 @@ var structAnimations_1_1BlendTree =
     [ "Validate", "structAnimations_1_1BlendTree.html#a0f1aa2202be10975e1581dfea3274a93", null ],
     [ "Clips", "structAnimations_1_1BlendTree.html#a153e2c3330968ea53fe9ccb110883bdd", null ],
     [ "IdleID", "structAnimations_1_1BlendTree.html#a61397ed9ab8633540bc9b36e9cbbc8ef", null ],
-    [ "TransferRootMotion", "structAnimations_1_1BlendTree.html#a074c2aedb27bb3ade06f706a4fbd8974", null ]
+    [ "TransferRootMotion", "structAnimations_1_1BlendTree.html#a074c2aedb27bb3ade06f706a4fbd8974", null ],
+    [ "SpeedMultiplier", "structAnimations_1_1BlendTree.html#ae5f4e4834ed84673129106db80bb3c77", null ]
 ];

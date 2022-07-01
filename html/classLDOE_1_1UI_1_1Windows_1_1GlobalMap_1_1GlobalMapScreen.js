@@ -1,6 +1,5 @@
 var classLDOE_1_1UI_1_1Windows_1_1GlobalMap_1_1GlobalMapScreen =
 [
-    [ "EnterLocation", "classLDOE_1_1UI_1_1Windows_1_1GlobalMap_1_1GlobalMapScreen.html#aca11618ffde3767fc39784057f760606", null ],
     [ "OnDeInit", "classLDOE_1_1UI_1_1Windows_1_1GlobalMap_1_1GlobalMapScreen.html#a9bd741fb20f1f44f0f0004c5c5ff2288", null ],
     [ "OnHideBegin", "classLDOE_1_1UI_1_1Windows_1_1GlobalMap_1_1GlobalMapScreen.html#a975fba2ca0a8674a0638eaa95ff5c3e1", null ],
     [ "OnInit", "classLDOE_1_1UI_1_1Windows_1_1GlobalMap_1_1GlobalMapScreen.html#a46754059cf676154af689e5fd02408b0", null ],

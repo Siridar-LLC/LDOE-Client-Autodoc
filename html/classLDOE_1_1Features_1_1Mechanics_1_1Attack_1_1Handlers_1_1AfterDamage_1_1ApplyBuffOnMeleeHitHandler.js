@@ -1,0 +1,4 @@
+var classLDOE_1_1Features_1_1Mechanics_1_1Attack_1_1Handlers_1_1AfterDamage_1_1ApplyBuffOnMeleeHitHandler =
+[
+    [ "Handle", "classLDOE_1_1Features_1_1Mechanics_1_1Attack_1_1Handlers_1_1AfterDamage_1_1ApplyBuffOnMeleeHitHandler.html#a50f71c51a31d6009f95d2241575dc866", null ]
+];

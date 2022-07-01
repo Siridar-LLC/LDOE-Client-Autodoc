@@ -9,6 +9,7 @@ var namespaceLDOE_1_1Features_1_1Mechanics_1_1Handlers =
     [ "BushHarvestedHandler", "classLDOE_1_1Features_1_1Mechanics_1_1Handlers_1_1BushHarvestedHandler.html", "classLDOE_1_1Features_1_1Mechanics_1_1Handlers_1_1BushHarvestedHandler" ],
     [ "DelayDestroyHandler", "classLDOE_1_1Features_1_1Mechanics_1_1Handlers_1_1DelayDestroyHandler.html", "classLDOE_1_1Features_1_1Mechanics_1_1Handlers_1_1DelayDestroyHandler" ],
     [ "DestroyAuraHandler", "classLDOE_1_1Features_1_1Mechanics_1_1Handlers_1_1DestroyAuraHandler.html", "classLDOE_1_1Features_1_1Mechanics_1_1Handlers_1_1DestroyAuraHandler" ],
+    [ "DestroyColliderHandler", "classLDOE_1_1Features_1_1Mechanics_1_1Handlers_1_1DestroyColliderHandler.html", "classLDOE_1_1Features_1_1Mechanics_1_1Handlers_1_1DestroyColliderHandler" ],
     [ "HandlersUtils", "classLDOE_1_1Features_1_1Mechanics_1_1Handlers_1_1HandlersUtils.html", "classLDOE_1_1Features_1_1Mechanics_1_1Handlers_1_1HandlersUtils" ],
     [ "IHandler", "interfaceLDOE_1_1Features_1_1Mechanics_1_1Handlers_1_1IHandler.html", "interfaceLDOE_1_1Features_1_1Mechanics_1_1Handlers_1_1IHandler" ],
     [ "IHandlerBase", "interfaceLDOE_1_1Features_1_1Mechanics_1_1Handlers_1_1IHandlerBase.html", "interfaceLDOE_1_1Features_1_1Mechanics_1_1Handlers_1_1IHandlerBase" ],

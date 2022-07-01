@@ -1,7 +1,6 @@
 var classHighlightButton =
 [
     [ "Execute", "classHighlightButton.html#ab84a7ea89f124d8641f66cab7737a372", null ],
-    [ "checkTarget", "classHighlightButton.html#abdbed3aff320f124e9c13082109aa015", null ],
     [ "listIndex", "classHighlightButton.html#a6af7762f1b7232ebb8637bb9e4e9c5b4", null ],
     [ "lockUI", "classHighlightButton.html#a01e0351aa42b6997d8cf78e176f6a01b", null ],
     [ "nextOnClick", "classHighlightButton.html#a447940d6adb4a653694037b93fa22811", null ],

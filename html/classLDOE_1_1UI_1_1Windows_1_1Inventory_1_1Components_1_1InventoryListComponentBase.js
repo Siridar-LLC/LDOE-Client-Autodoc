@@ -11,6 +11,7 @@ var classLDOE_1_1UI_1_1Windows_1_1Inventory_1_1Components_1_1InventoryListCompon
     [ "ShowPopup", "classLDOE_1_1UI_1_1Windows_1_1Inventory_1_1Components_1_1InventoryListComponentBase.html#a7be84d7ab7348d8c0bec3aa41fef126c", null ],
     [ "onItemBeginDrag", "classLDOE_1_1UI_1_1Windows_1_1Inventory_1_1Components_1_1InventoryListComponentBase.html#a574dd53afeacd89af5fc2476472718d3", null ],
     [ "onItemDoubleClicked", "classLDOE_1_1UI_1_1Windows_1_1Inventory_1_1Components_1_1InventoryListComponentBase.html#aed67f75b55b85c1269dfe3b0b31afab4", null ],
+    [ "onItemEndDrag", "classLDOE_1_1UI_1_1Windows_1_1Inventory_1_1Components_1_1InventoryListComponentBase.html#a41bc827053baa313689a9f4a9f59bf0e", null ],
     [ "onItemOnceClicked", "classLDOE_1_1UI_1_1Windows_1_1Inventory_1_1Components_1_1InventoryListComponentBase.html#aa6118cda7b61fa32074a32d7e5f8e6d0", null ],
     [ "itemsInRow", "classLDOE_1_1UI_1_1Windows_1_1Inventory_1_1Components_1_1InventoryListComponentBase.html#a67119ea65ea2ef1c7d403d8236492a9c", null ],
     [ "visibleRows", "classLDOE_1_1UI_1_1Windows_1_1Inventory_1_1Components_1_1InventoryListComponentBase.html#ac933a7c5c70c22555af54b7638e1a6bc", null ]

@@ -91,7 +91,7 @@ $(document).ready(function(){initNavTree('classLDOE_1_1Features_1_1Mechanics_1_1
 </div><!--header-->
 <div class="contents">
 
-<p>Objects set data holder for location objects generating.  
+<p>Представление категории объектов, содержащее в себе данные, необходимые для их спавна в одном из <a class="el" href="classLDOE_1_1Features_1_1Mechanics_1_1GameScene_1_1EnvironmentGeneration_1_1EnvironmentGeneratorBase.html" title="Расставляет объекты и декор на сцене.">EnvironmentGeneratorBase</a>.  
  <a href="classLDOE_1_1Features_1_1Mechanics_1_1GameScene_1_1EnvironmentGeneration_1_1Data_1_1ObjectsRepresentation.html#details">More...</a></p>
 <div class="dynheader">
 Inheritance diagram for LDOE.Features.Mechanics.GameScene.EnvironmentGeneration.Data.ObjectsRepresentation:</div>
@@ -99,42 +99,48 @@ Inheritance diagram for LDOE.Features.Mechanics.GameScene.EnvironmentGeneration.
  <div class="center">
   <img src="classLDOE_1_1Features_1_1Mechanics_1_1GameScene_1_1EnvironmentGeneration_1_1Data_1_1ObjectsRepresentation.png" usemap="#LDOE.Features.Mechanics.GameScene.EnvironmentGeneration.Data.ObjectsRepresentation_map" alt=""/>
   <map id="LDOE.Features.Mechanics.GameScene.EnvironmentGeneration.Data.ObjectsRepresentation_map" name="LDOE.Features.Mechanics.GameScene.EnvironmentGeneration.Data.ObjectsRepresentation_map">
-<area href="classLDOE_1_1Features_1_1Mechanics_1_1GameScene_1_1EnvironmentGeneration_1_1Data_1_1EditorObjectRepresentation.html" title="Objects data holder for editor objects generating." alt="LDOE.Features.Mechanics.GameScene.EnvironmentGeneration.Data.EditorObjectRepresentation" shape="rect" coords="291,56,864,80"/>
-<area href="classLDOE_1_1Features_1_1Mechanics_1_1GameScene_1_1EnvironmentGeneration_1_1Data_1_1RuntimeObjectRepresentation.html" title="Objects data holder for runtime objects generating." alt="LDOE.Features.Mechanics.GameScene.EnvironmentGeneration.Data.RuntimeObjectRepresentation" shape="rect" coords="874,56,1447,80"/>
-<area href="classLDOE_1_1Features_1_1Mechanics_1_1GameScene_1_1EnvironmentGeneration_1_1Data_1_1FromDataConfig.html" title="Objects set data for generating objects in editor from ME.ECS.DataConfigs.DataConfig." alt="LDOE.Features.Mechanics.GameScene.EnvironmentGeneration.Data.FromDataConfig" shape="rect" coords="0,112,573,136"/>
-<area href="classLDOE_1_1Features_1_1Mechanics_1_1GameScene_1_1EnvironmentGeneration_1_1Data_1_1FromPrefab.html" title="Objects set data for generating objects in editor from prefabs." alt="LDOE.Features.Mechanics.GameScene.EnvironmentGeneration.Data.FromPrefab" shape="rect" coords="583,112,1156,136"/>
+<area href="classLDOE_1_1Features_1_1Mechanics_1_1GameScene_1_1EnvironmentGeneration_1_1Data_1_1EditorObjectRepresentation.html" title="Представление данных об объекте для генерации его копий на локации в редакторе." alt="LDOE.Features.Mechanics.GameScene.EnvironmentGeneration.Data.EditorObjectRepresentation" shape="rect" coords="291,56,864,80"/>
+<area href="classLDOE_1_1Features_1_1Mechanics_1_1GameScene_1_1EnvironmentGeneration_1_1Data_1_1RuntimeObjectRepresentation.html" title="Представление объектов, содержащее в себе данные, необходимые для генерации окружения в рантайме из п..." alt="LDOE.Features.Mechanics.GameScene.EnvironmentGeneration.Data.RuntimeObjectRepresentation" shape="rect" coords="874,56,1447,80"/>
+<area href="classLDOE_1_1Features_1_1Mechanics_1_1GameScene_1_1EnvironmentGeneration_1_1Data_1_1FromDataConfig.html" title="Данные для генерации объектов на локации из ME.ECS.DataConfigs.DataConfig." alt="LDOE.Features.Mechanics.GameScene.EnvironmentGeneration.Data.FromDataConfig" shape="rect" coords="0,112,573,136"/>
+<area href="classLDOE_1_1Features_1_1Mechanics_1_1GameScene_1_1EnvironmentGeneration_1_1Data_1_1FromPrefab.html" title="Данные для генерации объектов на локации на основе префабов." alt="LDOE.Features.Mechanics.GameScene.EnvironmentGeneration.Data.FromPrefab" shape="rect" coords="583,112,1156,136"/>
   </map>
 </div></div>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-methods" name="pub-methods"></a>
 Public Member Functions</h2></td></tr>
 <tr class="memitem:a750eb9569e8a3ee15def2d877d93538e"><td class="memItemLeft" align="right" valign="top">NativeList&lt; float3 &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classLDOE_1_1Features_1_1Mechanics_1_1GameScene_1_1EnvironmentGeneration_1_1Data_1_1ObjectsRepresentation.html#a750eb9569e8a3ee15def2d877d93538e">InitPositions</a> (ref <a class="el" href="structTerrain_1_1PatchBased_1_1MapGeneration_1_1MapGenerator.html">MapGenerator</a> generator, <a class="el" href="structTerrain_1_1PatchBased_1_1PoissonQuadSampler.html">PoissonQuadSampler</a> poissonQuadSampler, <a class="el" href="structfloatTex.html">floatTex</a> mask, ref <a class="el" href="structfloatTex.html">floatTex</a> outMask, Allocator allocator=Allocator.TempJob)</td></tr>
-<tr class="memdesc:a750eb9569e8a3ee15def2d877d93538e"><td class="mdescLeft">&#160;</td><td class="mdescRight">Generates future objects positions list.  <a href="classLDOE_1_1Features_1_1Mechanics_1_1GameScene_1_1EnvironmentGeneration_1_1Data_1_1ObjectsRepresentation.html#a750eb9569e8a3ee15def2d877d93538e">More...</a><br /></td></tr>
+<tr class="memdesc:a750eb9569e8a3ee15def2d877d93538e"><td class="mdescLeft">&#160;</td><td class="mdescRight">Инициализирует список позиций для объектов данной категории.  <a href="classLDOE_1_1Features_1_1Mechanics_1_1GameScene_1_1EnvironmentGeneration_1_1Data_1_1ObjectsRepresentation.html#a750eb9569e8a3ee15def2d877d93538e">More...</a><br /></td></tr>
 <tr class="separator:a750eb9569e8a3ee15def2d877d93538e"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-attribs" name="pub-attribs"></a>
 Public Attributes</h2></td></tr>
 <tr class="memitem:a5498f80bfd16da1c56773f91a409cbfd"><td class="memItemLeft" align="right" valign="top">string&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classLDOE_1_1Features_1_1Mechanics_1_1GameScene_1_1EnvironmentGeneration_1_1Data_1_1ObjectsRepresentation.html#a5498f80bfd16da1c56773f91a409cbfd">title</a></td></tr>
+<tr class="memdesc:a5498f80bfd16da1c56773f91a409cbfd"><td class="mdescLeft">&#160;</td><td class="mdescRight">Название категории объектов.  <a href="classLDOE_1_1Features_1_1Mechanics_1_1GameScene_1_1EnvironmentGeneration_1_1Data_1_1ObjectsRepresentation.html#a5498f80bfd16da1c56773f91a409cbfd">More...</a><br /></td></tr>
 <tr class="separator:a5498f80bfd16da1c56773f91a409cbfd"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a584daf34345fc1c39b641ef5907e80d9"><td class="memItemLeft" align="right" valign="top"><a class="el" href="classTerrain_1_1PatchBased_1_1Data_1_1GroundTypeConfig.html">GroundTypeConfig</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classLDOE_1_1Features_1_1Mechanics_1_1GameScene_1_1EnvironmentGeneration_1_1Data_1_1ObjectsRepresentation.html#a584daf34345fc1c39b641ef5907e80d9">placementGroundType</a></td></tr>
+<tr class="memdesc:a584daf34345fc1c39b641ef5907e80d9"><td class="mdescLeft">&#160;</td><td class="mdescRight">На какой поверхности должны быть расставлены объекты данной категории (например: деревья - на траве).  <a href="classLDOE_1_1Features_1_1Mechanics_1_1GameScene_1_1EnvironmentGeneration_1_1Data_1_1ObjectsRepresentation.html#a584daf34345fc1c39b641ef5907e80d9">More...</a><br /></td></tr>
 <tr class="separator:a584daf34345fc1c39b641ef5907e80d9"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ae5f0f115c6204e3f5571c93f2cbb03bd"><td class="memItemLeft" align="right" valign="top">float&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classLDOE_1_1Features_1_1Mechanics_1_1GameScene_1_1EnvironmentGeneration_1_1Data_1_1ObjectsRepresentation.html#ae5f0f115c6204e3f5571c93f2cbb03bd">threshold</a></td></tr>
+<tr class="memdesc:ae5f0f115c6204e3f5571c93f2cbb03bd"><td class="mdescLeft">&#160;</td><td class="mdescRight">Так и не понял, что оно делает, к сожалению.  <a href="classLDOE_1_1Features_1_1Mechanics_1_1GameScene_1_1EnvironmentGeneration_1_1Data_1_1ObjectsRepresentation.html#ae5f0f115c6204e3f5571c93f2cbb03bd">More...</a><br /></td></tr>
 <tr class="separator:ae5f0f115c6204e3f5571c93f2cbb03bd"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a3785e265e06c783bc57c3045d7edeef5"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classLDOE_1_1Features_1_1Mechanics_1_1GameScene_1_1EnvironmentGeneration_1_1Data_1_1ObjectsRepresentation.html#a3785e265e06c783bc57c3045d7edeef5">ensureNumber</a></td></tr>
+<tr class="memdesc:a3785e265e06c783bc57c3045d7edeef5"><td class="mdescLeft">&#160;</td><td class="mdescRight">Обеспечить точное число объектов.  <a href="classLDOE_1_1Features_1_1Mechanics_1_1GameScene_1_1EnvironmentGeneration_1_1Data_1_1ObjectsRepresentation.html#a3785e265e06c783bc57c3045d7edeef5">More...</a><br /></td></tr>
 <tr class="separator:a3785e265e06c783bc57c3045d7edeef5"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a8805952e360519002bf7ed37175534aa"><td class="memItemLeft" align="right" valign="top">float&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classLDOE_1_1Features_1_1Mechanics_1_1GameScene_1_1EnvironmentGeneration_1_1Data_1_1ObjectsRepresentation.html#a8805952e360519002bf7ed37175534aa">influence</a></td></tr>
+<tr class="memdesc:a8805952e360519002bf7ed37175534aa"><td class="mdescLeft">&#160;</td><td class="mdescRight">Влияние на выталкивание соседних объектов.  <a href="classLDOE_1_1Features_1_1Mechanics_1_1GameScene_1_1EnvironmentGeneration_1_1Data_1_1ObjectsRepresentation.html#a8805952e360519002bf7ed37175534aa">More...</a><br /></td></tr>
 <tr class="separator:a8805952e360519002bf7ed37175534aa"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:af2bebccecce0d258311654d167873925"><td class="memItemLeft" align="right" valign="top">float&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classLDOE_1_1Features_1_1Mechanics_1_1GameScene_1_1EnvironmentGeneration_1_1Data_1_1ObjectsRepresentation.html#af2bebccecce0d258311654d167873925">radius</a></td></tr>
+<tr class="memdesc:af2bebccecce0d258311654d167873925"><td class="mdescLeft">&#160;</td><td class="mdescRight">Радиус выталкивания соседей.  <a href="classLDOE_1_1Features_1_1Mechanics_1_1GameScene_1_1EnvironmentGeneration_1_1Data_1_1ObjectsRepresentation.html#af2bebccecce0d258311654d167873925">More...</a><br /></td></tr>
 <tr class="separator:af2bebccecce0d258311654d167873925"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pro-methods" name="pro-methods"></a>
 Protected Member Functions</h2></td></tr>
 <tr class="memitem:afc1106d0c84d997dd7d9887220c39759"><td class="memItemLeft" align="right" valign="top">abstract int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classLDOE_1_1Features_1_1Mechanics_1_1GameScene_1_1EnvironmentGeneration_1_1Data_1_1ObjectsRepresentation.html#afc1106d0c84d997dd7d9887220c39759">GetObjectsCount</a> ()</td></tr>
-<tr class="memdesc:afc1106d0c84d997dd7d9887220c39759"><td class="mdescLeft">&#160;</td><td class="mdescRight">Returns count of objects that will be generated.  <a href="classLDOE_1_1Features_1_1Mechanics_1_1GameScene_1_1EnvironmentGeneration_1_1Data_1_1ObjectsRepresentation.html#afc1106d0c84d997dd7d9887220c39759">More...</a><br /></td></tr>
+<tr class="memdesc:afc1106d0c84d997dd7d9887220c39759"><td class="mdescLeft">&#160;</td><td class="mdescRight">Возвращает число объектов, которые необходимо заспавнить.  <a href="classLDOE_1_1Features_1_1Mechanics_1_1GameScene_1_1EnvironmentGeneration_1_1Data_1_1ObjectsRepresentation.html#afc1106d0c84d997dd7d9887220c39759">More...</a><br /></td></tr>
 <tr class="separator:afc1106d0c84d997dd7d9887220c39759"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
-<div class="textblock"><p >Objects set data holder for location objects generating. </p>
+<div class="textblock"><p >Представление категории объектов, содержащее в себе данные, необходимые для их спавна в одном из <a class="el" href="classLDOE_1_1Features_1_1Mechanics_1_1GameScene_1_1EnvironmentGeneration_1_1EnvironmentGeneratorBase.html" title="Расставляет объекты и декор на сцене.">EnvironmentGeneratorBase</a>. </p>
 </div><h2 class="groupheader">Member Function Documentation</h2>
 <a id="afc1106d0c84d997dd7d9887220c39759" name="afc1106d0c84d997dd7d9887220c39759"></a>
 <h2 class="memtitle"><span class="permalink"><a href="#afc1106d0c84d997dd7d9887220c39759">&#9670;&nbsp;</a></span>GetObjectsCount()</h2>
@@ -159,7 +165,7 @@ Protected Member Functions</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p>Returns count of objects that will be generated. </p>
+<p>Возвращает число объектов, которые необходимо заспавнить. </p>
 
 <p>Implemented in <a class="el" href="classLDOE_1_1Features_1_1Mechanics_1_1GameScene_1_1EnvironmentGeneration_1_1Data_1_1FromDataConfig.html#a92574852b38a80c9da555a81cebe3f12">LDOE.Features.Mechanics.GameScene.EnvironmentGeneration.Data.FromDataConfig</a>, <a class="el" href="classLDOE_1_1Features_1_1Mechanics_1_1GameScene_1_1EnvironmentGeneration_1_1Data_1_1FromPrefab.html#a59e35ede0b09119e88c62e33f2f6d72c">LDOE.Features.Mechanics.GameScene.EnvironmentGeneration.Data.FromPrefab</a>, and <a class="el" href="classLDOE_1_1Features_1_1Mechanics_1_1GameScene_1_1EnvironmentGeneration_1_1Data_1_1RuntimeObjectRepresentation.html#a7b9dc55d526aea643f2b0ae31cd14a31">LDOE.Features.Mechanics.GameScene.EnvironmentGeneration.Data.RuntimeObjectRepresentation</a>.</p>
 
@@ -217,7 +223,7 @@ Protected Member Functions</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p>Generates future objects positions list. </p>
+<p>Инициализирует список позиций для объектов данной категории. </p>
 
 </div>
 </div>
@@ -234,6 +240,9 @@ Protected Member Functions</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
+<p>Обеспечить точное число объектов. </p>
+<p >/summary&gt; </p>
+
 </div>
 </div>
 <a id="a8805952e360519002bf7ed37175534aa" name="a8805952e360519002bf7ed37175534aa"></a>
@@ -247,6 +256,10 @@ Protected Member Functions</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
+
+<p>Влияние на выталкивание соседних объектов. </p>
+<p >/summary&gt; </p>
+<p >Как я понял, чем выше, тем меньше других объектов останется в <a class="el" href="classLDOE_1_1Features_1_1Mechanics_1_1GameScene_1_1EnvironmentGeneration_1_1Data_1_1ObjectsRepresentation.html#af2bebccecce0d258311654d167873925" title="Радиус выталкивания соседей.">radius</a>.</p>
 
 </div>
 </div>
@@ -262,6 +275,9 @@ Protected Member Functions</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
+<p>На какой поверхности должны быть расставлены объекты данной категории (например: деревья - на траве). </p>
+<p >/summary&gt; </p>
+
 </div>
 </div>
 <a id="af2bebccecce0d258311654d167873925" name="af2bebccecce0d258311654d167873925"></a>
@@ -275,6 +291,9 @@ Protected Member Functions</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
+
+<p>Радиус выталкивания соседей. </p>
+<p >/summary&gt; </p>
 
 </div>
 </div>
@@ -290,6 +309,9 @@ Protected Member Functions</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
+<p>Так и не понял, что оно делает, к сожалению. </p>
+<p >/summary&gt; </p>
+
 </div>
 </div>
 <a id="a5498f80bfd16da1c56773f91a409cbfd" name="a5498f80bfd16da1c56773f91a409cbfd"></a>
@@ -304,6 +326,9 @@ Protected Member Functions</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
+<p>Название категории объектов. </p>
+<p >/summary&gt; </p>
+
 </div>
 </div>
 <hr/>The documentation for this class was generated from the following file:<ul>
@@ -315,7 +340,7 @@ Protected Member Functions</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="namespaceLDOE.html">LDOE</a></li><li class="navelem"><a class="el" href="namespaceLDOE_1_1Features.html">Features</a></li><li class="navelem"><a class="el" href="namespaceLDOE_1_1Features_1_1Mechanics.html">Mechanics</a></li><li class="navelem"><a class="el" href="namespaceLDOE_1_1Features_1_1Mechanics_1_1GameScene.html">GameScene</a></li><li class="navelem"><a class="el" href="namespaceLDOE_1_1Features_1_1Mechanics_1_1GameScene_1_1EnvironmentGeneration.html">EnvironmentGeneration</a></li><li class="navelem"><a class="el" href="namespaceLDOE_1_1Features_1_1Mechanics_1_1GameScene_1_1EnvironmentGeneration_1_1Data.html">Data</a></li><li class="navelem"><a class="el" href="classLDOE_1_1Features_1_1Mechanics_1_1GameScene_1_1EnvironmentGeneration_1_1Data_1_1ObjectsRepresentation.html">ObjectsRepresentation</a></li>
-    <li class="footer">Generated on Wed Jun 8 2022 16:37:32 for The Last Ark by <a href="https://www.doxygen.org/index.html"><img class="footer" src="doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.4 </li>
+    <li class="footer">Generated on Fri Jul 1 2022 12:55:00 for The Last Ark by <a href="https://www.doxygen.org/index.html"><img class="footer" src="doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.4 </li>
   </ul>
 </div>
 </body>

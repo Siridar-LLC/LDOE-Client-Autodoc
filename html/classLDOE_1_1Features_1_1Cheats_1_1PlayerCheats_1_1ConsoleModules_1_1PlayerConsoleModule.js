@@ -23,6 +23,7 @@ var classLDOE_1_1Features_1_1Cheats_1_1PlayerCheats_1_1ConsoleModules_1_1PlayerC
     [ "SetPlayerMoveDirection", "classLDOE_1_1Features_1_1Cheats_1_1PlayerCheats_1_1ConsoleModules_1_1PlayerConsoleModule.html#a0df4c63c94c1b8a7c004b65db6f1faf6", null ],
     [ "SetPlayerSpeed", "classLDOE_1_1Features_1_1Cheats_1_1PlayerCheats_1_1ConsoleModules_1_1PlayerConsoleModule.html#a21da37773606fa517013103e9ce72b0e", null ],
     [ "SetPlayerWater", "classLDOE_1_1Features_1_1Cheats_1_1PlayerCheats_1_1ConsoleModules_1_1PlayerConsoleModule.html#a01c9766b00f73b361f5ec1e2f759966a", null ],
+    [ "SkipFirstLocationTutorial", "classLDOE_1_1Features_1_1Cheats_1_1PlayerCheats_1_1ConsoleModules_1_1PlayerConsoleModule.html#a02f05142456e5d9ed67b8a3d82ee0983", null ],
     [ "SkipTutorial", "classLDOE_1_1Features_1_1Cheats_1_1PlayerCheats_1_1ConsoleModules_1_1PlayerConsoleModule.html#a790a08d02e1058f3a47027ca8ce9ebb2", null ],
     [ "Stats", "classLDOE_1_1Features_1_1Cheats_1_1PlayerCheats_1_1ConsoleModules_1_1PlayerConsoleModule.html#a0170f06418053e018528f44869201411", null ],
     [ "UnresearchMod", "classLDOE_1_1Features_1_1Cheats_1_1PlayerCheats_1_1ConsoleModules_1_1PlayerConsoleModule.html#a93d5f2b8296dd0ecf9b2b6dcef8aa1f2", null ]

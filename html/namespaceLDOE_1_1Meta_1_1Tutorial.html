@@ -113,6 +113,14 @@ Classes</h2></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classLDOE_1_1Meta_1_1Tutorial_1_1LDOETutorialSystem.html">LDOETutorialSystem</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classLDOE_1_1Meta_1_1Tutorial_1_1QuestCondition.html">QuestCondition</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classLDOE_1_1Meta_1_1Tutorial_1_1QuestConditionBase.html">QuestConditionBase</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structLDOE_1_1Meta_1_1Tutorial_1_1QuestConditionContext.html">QuestConditionContext</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classLDOE_1_1Meta_1_1Tutorial_1_1QuestTaskCondition.html">QuestTaskCondition</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classLDOE_1_1Meta_1_1Tutorial_1_1TutorialManager.html">TutorialManager</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
@@ -126,11 +134,36 @@ Enumerations</h2></td></tr>
 , <br />
 &#160;&#160;<a class="el" href="namespaceLDOE_1_1Meta_1_1Tutorial.html#ad690579ed79af0ac2c4ce4f920119d80a731975dc1c3773ee6350b1ae67a8aea9">OnHideBegin</a>
 , <a class="el" href="namespaceLDOE_1_1Meta_1_1Tutorial.html#ad690579ed79af0ac2c4ce4f920119d80a4a07ba29587eb482e1bb81fecdbd2b46">OnHideEnd</a>
+, <a class="el" href="namespaceLDOE_1_1Meta_1_1Tutorial.html#ad690579ed79af0ac2c4ce4f920119d80adc5828344381cc6e70b70cbd9c930089">ManualLaunch</a>
 <br />
  }</td></tr>
 <tr class="separator:ad690579ed79af0ac2c4ce4f920119d80"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ae5515242096fbcfeb25351429a6cc696"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespaceLDOE_1_1Meta_1_1Tutorial.html#ae5515242096fbcfeb25351429a6cc696">TutorialQuestEvent</a> { <a class="el" href="namespaceLDOE_1_1Meta_1_1Tutorial.html#ae5515242096fbcfeb25351429a6cc696a1f48d5be7b52277e7b3ad104fae33ad7">QuestUnlocked</a>
+, <a class="el" href="namespaceLDOE_1_1Meta_1_1Tutorial.html#ae5515242096fbcfeb25351429a6cc696a249d8536b8b448cccacb44aba22ecb7e">QuestCompleted</a>
+, <a class="el" href="namespaceLDOE_1_1Meta_1_1Tutorial.html#ae5515242096fbcfeb25351429a6cc696ac2a8409fd37d665cc89331d568bde968">QuestTaskCompleted</a>
+ }</td></tr>
+<tr class="separator:ae5515242096fbcfeb25351429a6cc696"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <h2 class="groupheader">Enumeration Type Documentation</h2>
+<a id="ae5515242096fbcfeb25351429a6cc696" name="ae5515242096fbcfeb25351429a6cc696"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ae5515242096fbcfeb25351429a6cc696">&#9670;&nbsp;</a></span>TutorialQuestEvent</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">enum <a class="el" href="namespaceLDOE_1_1Meta_1_1Tutorial.html#ae5515242096fbcfeb25351429a6cc696">LDOE.Meta.Tutorial.TutorialQuestEvent</a></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<table class="fieldtable">
+<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="ae5515242096fbcfeb25351429a6cc696a1f48d5be7b52277e7b3ad104fae33ad7" name="ae5515242096fbcfeb25351429a6cc696a1f48d5be7b52277e7b3ad104fae33ad7"></a>QuestUnlocked&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="ae5515242096fbcfeb25351429a6cc696a249d8536b8b448cccacb44aba22ecb7e" name="ae5515242096fbcfeb25351429a6cc696a249d8536b8b448cccacb44aba22ecb7e"></a>QuestCompleted&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="ae5515242096fbcfeb25351429a6cc696ac2a8409fd37d665cc89331d568bde968" name="ae5515242096fbcfeb25351429a6cc696ac2a8409fd37d665cc89331d568bde968"></a>QuestTaskCompleted&#160;</td><td class="fielddoc"></td></tr>
+</table>
+
+</div>
+</div>
 <a id="ad690579ed79af0ac2c4ce4f920119d80" name="ad690579ed79af0ac2c4ce4f920119d80"></a>
 <h2 class="memtitle"><span class="permalink"><a href="#ad690579ed79af0ac2c4ce4f920119d80">&#9670;&nbsp;</a></span>TutorialWindowEvent</h2>
 
@@ -149,6 +182,7 @@ Enumerations</h2></td></tr>
 <tr><td class="fieldname"><a id="ad690579ed79af0ac2c4ce4f920119d80a4d5e21e0ac1f402be50092fd6e5cd3fd" name="ad690579ed79af0ac2c4ce4f920119d80a4d5e21e0ac1f402be50092fd6e5cd3fd"></a>OnFocusTook&#160;</td><td class="fielddoc"></td></tr>
 <tr><td class="fieldname"><a id="ad690579ed79af0ac2c4ce4f920119d80a731975dc1c3773ee6350b1ae67a8aea9" name="ad690579ed79af0ac2c4ce4f920119d80a731975dc1c3773ee6350b1ae67a8aea9"></a>OnHideBegin&#160;</td><td class="fielddoc"></td></tr>
 <tr><td class="fieldname"><a id="ad690579ed79af0ac2c4ce4f920119d80a4a07ba29587eb482e1bb81fecdbd2b46" name="ad690579ed79af0ac2c4ce4f920119d80a4a07ba29587eb482e1bb81fecdbd2b46"></a>OnHideEnd&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="ad690579ed79af0ac2c4ce4f920119d80adc5828344381cc6e70b70cbd9c930089" name="ad690579ed79af0ac2c4ce4f920119d80adc5828344381cc6e70b70cbd9c930089"></a>ManualLaunch&#160;</td><td class="fielddoc"></td></tr>
 </table>
 
 </div>
@@ -159,7 +193,7 @@ Enumerations</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="namespaceLDOE.html">LDOE</a></li><li class="navelem"><a class="el" href="namespaceLDOE_1_1Meta.html">Meta</a></li><li class="navelem"><a class="el" href="namespaceLDOE_1_1Meta_1_1Tutorial.html">Tutorial</a></li>
-    <li class="footer">Generated on Wed Jun 8 2022 16:37:35 for The Last Ark by <a href="https://www.doxygen.org/index.html"><img class="footer" src="doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.4 </li>
+    <li class="footer">Generated on Fri Jul 1 2022 12:55:04 for The Last Ark by <a href="https://www.doxygen.org/index.html"><img class="footer" src="doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.4 </li>
   </ul>
 </div>
 </body>

@@ -1,11 +1,13 @@
 var namespaceLDOE_1_1Modules_1_1Serializer =
 [
     [ "LayerMaskSerializer", "classLDOE_1_1Modules_1_1Serializer_1_1LayerMaskSerializer.html", "classLDOE_1_1Modules_1_1Serializer_1_1LayerMaskSerializer" ],
+    [ "MissingMonoBehaviourRegistrationException", "classLDOE_1_1Modules_1_1Serializer_1_1MissingMonoBehaviourRegistrationException.html", "classLDOE_1_1Modules_1_1Serializer_1_1MissingMonoBehaviourRegistrationException" ],
     [ "MissingScriptableObjectRegistrationException", "classLDOE_1_1Modules_1_1Serializer_1_1MissingScriptableObjectRegistrationException.html", "classLDOE_1_1Modules_1_1Serializer_1_1MissingScriptableObjectRegistrationException" ],
     [ "ModifiableValueInRangeSerializer", "classLDOE_1_1Modules_1_1Serializer_1_1ModifiableValueInRangeSerializer.html", "classLDOE_1_1Modules_1_1Serializer_1_1ModifiableValueInRangeSerializer" ],
     [ "ModifiableValueSerializer", "classLDOE_1_1Modules_1_1Serializer_1_1ModifiableValueSerializer.html", "classLDOE_1_1Modules_1_1Serializer_1_1ModifiableValueSerializer" ],
     [ "ModifiableValueWithLimitSerializer", "classLDOE_1_1Modules_1_1Serializer_1_1ModifiableValueWithLimitSerializer.html", "classLDOE_1_1Modules_1_1Serializer_1_1ModifiableValueWithLimitSerializer" ],
     [ "ModifiableValueWithRangeLimitSerializer", "classLDOE_1_1Modules_1_1Serializer_1_1ModifiableValueWithRangeLimitSerializer.html", "classLDOE_1_1Modules_1_1Serializer_1_1ModifiableValueWithRangeLimitSerializer" ],
+    [ "MonoBehaviourSerializer", "classLDOE_1_1Modules_1_1Serializer_1_1MonoBehaviourSerializer.html", "classLDOE_1_1Modules_1_1Serializer_1_1MonoBehaviourSerializer" ],
     [ "NativeArrayContainerSerializer", "classLDOE_1_1Modules_1_1Serializer_1_1NativeArrayContainerSerializer.html", "classLDOE_1_1Modules_1_1Serializer_1_1NativeArrayContainerSerializer" ],
     [ "NativeListContainerSerializer", "classLDOE_1_1Modules_1_1Serializer_1_1NativeListContainerSerializer.html", "classLDOE_1_1Modules_1_1Serializer_1_1NativeListContainerSerializer" ],
     [ "ScriptableObjectSerializer", "classLDOE_1_1Modules_1_1Serializer_1_1ScriptableObjectSerializer.html", "classLDOE_1_1Modules_1_1Serializer_1_1ScriptableObjectSerializer" ],
@@ -22,6 +24,7 @@ var namespaceLDOE_1_1Modules_1_1Serializer =
       [ "NativeListContainer", "namespaceLDOE_1_1Modules_1_1Serializer.html#a545d3dcc37663469b434ee54eacef7fcaa3d8eb0b317f2c4ab04207364cd83a5c", null ],
       [ "ScriptableObject", "namespaceLDOE_1_1Modules_1_1Serializer.html#a545d3dcc37663469b434ee54eacef7fca91ebab5d94e259dfde45b7d4f052e0a6", null ],
       [ "ICancellingEffect", "namespaceLDOE_1_1Modules_1_1Serializer.html#a545d3dcc37663469b434ee54eacef7fca24b1b1d8ddeb23c76c62aef403fac5ac", null ],
-      [ "LocationTaskCondition", "namespaceLDOE_1_1Modules_1_1Serializer.html#a545d3dcc37663469b434ee54eacef7fcaaec43e89b716bc6fbaf40e4fbeb0c520", null ]
+      [ "LocationTaskCondition", "namespaceLDOE_1_1Modules_1_1Serializer.html#a545d3dcc37663469b434ee54eacef7fcaaec43e89b716bc6fbaf40e4fbeb0c520", null ],
+      [ "MonoBehaviour", "namespaceLDOE_1_1Modules_1_1Serializer.html#a545d3dcc37663469b434ee54eacef7fca67576dd5f60e68b080b16cb85549dca7", null ]
     ] ]
 ];

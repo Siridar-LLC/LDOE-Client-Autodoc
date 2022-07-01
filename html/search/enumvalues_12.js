@@ -37,6 +37,8 @@ var searchData=
   ['rockhit_34',['RockHit',['../namespaceLDOE_1_1Features_1_1Mechanics_1_1Fx_1_1Components.html#a3a5b7d5398662c5961cdc54256eb158aaabeaeed1f531adb0f5d10204776e63b8',1,'LDOE::Features::Mechanics::Fx::Components']]],
   ['rollaway_35',['RollAway',['../namespaceLDOE_1_1Features_1_1Input_1_1SimpleInput.html#a847ab1348e9a2ea77b3eb5b94be262e9a968207f316e077fd0b780a3700f66bdc',1,'LDOE::Features::Input::SimpleInput']]],
   ['rotation_36',['Rotation',['../structAnimations_1_1TransferRootMotion.html#a0b1cfec1591c49e4b0aba9600a5068b9af1a42bd417390fc63b030a519624607a',1,'Animations::TransferRootMotion']]],
-  ['rotationtranslation_37',['RotationTranslation',['../structAnimations_1_1TransferRootMotion.html#a0b1cfec1591c49e4b0aba9600a5068b9a8e53d451b52a7a7cca5bce53590fef93',1,'Animations::TransferRootMotion']]],
-  ['rotationtranslationscale_38',['RotationTranslationScale',['../structAnimations_1_1TransferRootMotion.html#a0b1cfec1591c49e4b0aba9600a5068b9a72937cf0b097e4bba7f14a378f4c81d0',1,'Animations::TransferRootMotion']]]
+  ['rotationspeed_37',['RotationSpeed',['../namespaceLDOE_1_1Features_1_1Mechanics_1_1Effects_1_1Base.html#ab452833b15f2b47755f072dd3d0b2ef6ad95ae32784db64f6db7bd4d9859ba7e7',1,'LDOE::Features::Mechanics::Effects::Base']]],
+  ['rotationspeedmultiplier_38',['RotationSpeedMultiplier',['../namespaceLDOE_1_1Features_1_1Mechanics_1_1Effects_1_1Base.html#ab452833b15f2b47755f072dd3d0b2ef6a8bf1fe7949646150f7489c6d571cd886',1,'LDOE::Features::Mechanics::Effects::Base']]],
+  ['rotationtranslation_39',['RotationTranslation',['../structAnimations_1_1TransferRootMotion.html#a0b1cfec1591c49e4b0aba9600a5068b9a8e53d451b52a7a7cca5bce53590fef93',1,'Animations::TransferRootMotion']]],
+  ['rotationtranslationscale_40',['RotationTranslationScale',['../structAnimations_1_1TransferRootMotion.html#a0b1cfec1591c49e4b0aba9600a5068b9a72937cf0b097e4bba7f14a378f4c81d0',1,'Animations::TransferRootMotion']]]
 ];

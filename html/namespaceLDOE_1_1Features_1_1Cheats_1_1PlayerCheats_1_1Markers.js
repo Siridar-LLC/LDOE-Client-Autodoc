@@ -4,6 +4,7 @@ var namespaceLDOE_1_1Features_1_1Cheats_1_1PlayerCheats_1_1Markers =
     [ "AddAllWeaponsCheatInput", "structLDOE_1_1Features_1_1Cheats_1_1PlayerCheats_1_1Markers_1_1AddAllWeaponsCheatInput.html", null ],
     [ "AddAllWorkbenchesCheatInput", "structLDOE_1_1Features_1_1Cheats_1_1PlayerCheats_1_1Markers_1_1AddAllWorkbenchesCheatInput.html", null ],
     [ "AddCraftResourcesCheatInput", "structLDOE_1_1Features_1_1Cheats_1_1PlayerCheats_1_1Markers_1_1AddCraftResourcesCheatInput.html", "structLDOE_1_1Features_1_1Cheats_1_1PlayerCheats_1_1Markers_1_1AddCraftResourcesCheatInput" ],
+    [ "AddItemsToInventoryCheatInput", "structLDOE_1_1Features_1_1Cheats_1_1PlayerCheats_1_1Markers_1_1AddItemsToInventoryCheatInput.html", "structLDOE_1_1Features_1_1Cheats_1_1PlayerCheats_1_1Markers_1_1AddItemsToInventoryCheatInput" ],
     [ "AddItemToInventoryCheatInput", "structLDOE_1_1Features_1_1Cheats_1_1PlayerCheats_1_1Markers_1_1AddItemToInventoryCheatInput.html", "structLDOE_1_1Features_1_1Cheats_1_1PlayerCheats_1_1Markers_1_1AddItemToInventoryCheatInput" ],
     [ "AllowMovementWhileInConsoleCheatInput", "structLDOE_1_1Features_1_1Cheats_1_1PlayerCheats_1_1Markers_1_1AllowMovementWhileInConsoleCheatInput.html", null ],
     [ "AttackConfederateCheatInput", "structLDOE_1_1Features_1_1Cheats_1_1PlayerCheats_1_1Markers_1_1AttackConfederateCheatInput.html", null ],

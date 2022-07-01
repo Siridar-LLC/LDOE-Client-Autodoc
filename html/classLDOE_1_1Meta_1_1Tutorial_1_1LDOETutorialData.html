@@ -102,6 +102,8 @@ Public Member Functions</h2></td></tr>
 <tr class="separator:a2292371457e36251ecd96b9d9897454d"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a73d8b894b8fb7547fda846b89cc9b86a"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classLDOE_1_1Meta_1_1Tutorial_1_1LDOETutorialData.html#a73d8b894b8fb7547fda846b89cc9b86a">CheckWindowCondition</a> (WindowBase window, <a class="el" href="namespaceLDOE_1_1Meta_1_1Tutorial.html#ad690579ed79af0ac2c4ce4f920119d80">TutorialWindowEvent</a> windowEvent)</td></tr>
 <tr class="separator:a73d8b894b8fb7547fda846b89cc9b86a"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a86ddf632b481440b26529bc3f1b76703"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classLDOE_1_1Meta_1_1Tutorial_1_1LDOETutorialData.html#a86ddf632b481440b26529bc3f1b76703">CheckQuestCondition</a> (<a class="el" href="structLDOE_1_1Meta_1_1Tutorial_1_1QuestConditionContext.html">QuestConditionContext</a> context)</td></tr>
+<tr class="separator:a86ddf632b481440b26529bc3f1b76703"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a8f86ff639f5cf3fd69c4e8d994e17cc9"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classLDOE_1_1Meta_1_1Tutorial_1_1LDOETutorialData.html#a8f86ff639f5cf3fd69c4e8d994e17cc9">IsValid</a> (in <a class="el" href="structLDOE_1_1Meta_1_1Tutorial_1_1LDOEContext.html">LDOEContext</a> context)</td></tr>
 <tr class="separator:a8f86ff639f5cf3fd69c4e8d994e17cc9"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a31720db25109f95d2acbe7b7f3718297"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classLDOE_1_1Meta_1_1Tutorial_1_1LDOETutorialData.html#a31720db25109f95d2acbe7b7f3718297">RunActions</a> (<a class="el" href="structLDOE_1_1Meta_1_1Tutorial_1_1LDOEContext.html">LDOEContext</a> context, int startIndex)</td></tr>
@@ -115,12 +117,40 @@ Public Attributes</h2></td></tr>
 <tr class="separator:ab8874310bc6944a6e194c12d1e5649f4"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a00831116efea2d35888bf6da553f12d6"><td class="memItemLeft" align="right" valign="top"><a class="el" href="namespaceLDOE_1_1Meta_1_1Tutorial.html#ad690579ed79af0ac2c4ce4f920119d80">TutorialWindowEvent</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classLDOE_1_1Meta_1_1Tutorial_1_1LDOETutorialData.html#a00831116efea2d35888bf6da553f12d6">startEvent</a></td></tr>
 <tr class="separator:a00831116efea2d35888bf6da553f12d6"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aa16c30588de552cd98823440aad46c3c"><td class="memItemLeft" align="right" valign="top"><a class="el" href="classLDOE_1_1Meta_1_1Tutorial_1_1QuestConditionBase.html">QuestConditionBase</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classLDOE_1_1Meta_1_1Tutorial_1_1LDOETutorialData.html#aa16c30588de552cd98823440aad46c3c">QuestCondition</a></td></tr>
+<tr class="separator:aa16c30588de552cd98823440aad46c3c"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a2f8754d0bbeff2351f23748854a07bb6"><td class="memItemLeft" align="right" valign="top"><a class="el" href="structLDOE_1_1Meta_1_1Tutorial_1_1LDOEConditions.html">LDOEConditions</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classLDOE_1_1Meta_1_1Tutorial_1_1LDOETutorialData.html#a2f8754d0bbeff2351f23748854a07bb6">conditions</a></td></tr>
 <tr class="separator:a2f8754d0bbeff2351f23748854a07bb6"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a96112da75a1e7865152b45317c0f79f6"><td class="memItemLeft" align="right" valign="top"><a class="el" href="structLDOE_1_1Meta_1_1Tutorial_1_1LDOEActions.html">LDOEActions</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classLDOE_1_1Meta_1_1Tutorial_1_1LDOETutorialData.html#a96112da75a1e7865152b45317c0f79f6">actions</a></td></tr>
 <tr class="separator:a96112da75a1e7865152b45317c0f79f6"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <h2 class="groupheader">Member Function Documentation</h2>
+<a id="a86ddf632b481440b26529bc3f1b76703" name="a86ddf632b481440b26529bc3f1b76703"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a86ddf632b481440b26529bc3f1b76703">&#9670;&nbsp;</a></span>CheckQuestCondition()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">bool LDOE.Meta.Tutorial.LDOETutorialData.CheckQuestCondition </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="structLDOE_1_1Meta_1_1Tutorial_1_1QuestConditionContext.html">QuestConditionContext</a>&#160;</td>
+          <td class="paramname"><em>context</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+</div>
+</div>
 <a id="a73d8b894b8fb7547fda846b89cc9b86a" name="a73d8b894b8fb7547fda846b89cc9b86a"></a>
 <h2 class="memtitle"><span class="permalink"><a href="#a73d8b894b8fb7547fda846b89cc9b86a">&#9670;&nbsp;</a></span>CheckWindowCondition()</h2>
 
@@ -300,6 +330,20 @@ Public Attributes</h2></td></tr>
 
 </div>
 </div>
+<a id="aa16c30588de552cd98823440aad46c3c" name="aa16c30588de552cd98823440aad46c3c"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aa16c30588de552cd98823440aad46c3c">&#9670;&nbsp;</a></span>QuestCondition</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="classLDOE_1_1Meta_1_1Tutorial_1_1QuestConditionBase.html">QuestConditionBase</a> LDOE.Meta.Tutorial.LDOETutorialData.QuestCondition</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
 <a id="a00831116efea2d35888bf6da553f12d6" name="a00831116efea2d35888bf6da553f12d6"></a>
 <h2 class="memtitle"><span class="permalink"><a href="#a00831116efea2d35888bf6da553f12d6">&#9670;&nbsp;</a></span>startEvent</h2>
 
@@ -337,7 +381,7 @@ Public Attributes</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="namespaceLDOE.html">LDOE</a></li><li class="navelem"><a class="el" href="namespaceLDOE_1_1Meta.html">Meta</a></li><li class="navelem"><a class="el" href="namespaceLDOE_1_1Meta_1_1Tutorial.html">Tutorial</a></li><li class="navelem"><a class="el" href="classLDOE_1_1Meta_1_1Tutorial_1_1LDOETutorialData.html">LDOETutorialData</a></li>
-    <li class="footer">Generated on Wed Jun 8 2022 16:37:35 for The Last Ark by <a href="https://www.doxygen.org/index.html"><img class="footer" src="doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.4 </li>
+    <li class="footer">Generated on Fri Jul 1 2022 12:55:04 for The Last Ark by <a href="https://www.doxygen.org/index.html"><img class="footer" src="doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.4 </li>
   </ul>
 </div>
 </body>

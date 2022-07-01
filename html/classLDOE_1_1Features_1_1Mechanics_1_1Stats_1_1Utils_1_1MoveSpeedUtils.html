@@ -89,23 +89,20 @@ $(document).ready(function(){initNavTree('classLDOE_1_1Features_1_1Mechanics_1_1
 </div><!--header-->
 <div class="contents">
 
-<p>Calculates total move speed for character (according to <a href="https://siridarllc.atlassian.net/wiki/spaces/SUR/pages/314966066">https://siridarllc.atlassian.net/wiki/spaces/SUR/pages/314966066</a>)  
+<p>///  
  <a href="classLDOE_1_1Features_1_1Mechanics_1_1Stats_1_1Utils_1_1MoveSpeedUtils.html#details">More...</a></p>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-static-methods" name="pub-static-methods"></a>
 Static Public Member Functions</h2></td></tr>
-<tr class="memitem:aa6e30ff5398202a12d23125dcef204a4"><td class="memItemLeft" align="right" valign="top">static float&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classLDOE_1_1Features_1_1Mechanics_1_1Stats_1_1Utils_1_1MoveSpeedUtils.html#aa6e30ff5398202a12d23125dcef204a4">CalculateMoveSpeed</a> (in Entity character)</td></tr>
-<tr class="separator:aa6e30ff5398202a12d23125dcef204a4"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a3e5555338bafa3b6cfbf4400f7922f04"><td class="memItemLeft" align="right" valign="top">static void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classLDOE_1_1Features_1_1Mechanics_1_1Stats_1_1Utils_1_1MoveSpeedUtils.html#a3e5555338bafa3b6cfbf4400f7922f04">ChangeSpeedValue</a> (in Entity character, float change)</td></tr>
-<tr class="separator:a3e5555338bafa3b6cfbf4400f7922f04"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:af737af0cddd037638ecab88ce9afcde5"><td class="memItemLeft" align="right" valign="top">static void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classLDOE_1_1Features_1_1Mechanics_1_1Stats_1_1Utils_1_1MoveSpeedUtils.html#af737af0cddd037638ecab88ce9afcde5">ChangeSpeedMultiplier</a> (in Entity character, float change)</td></tr>
-<tr class="separator:af737af0cddd037638ecab88ce9afcde5"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ab81c6edf2d3cd9713789e2b46da79ad8"><td class="memItemLeft" align="right" valign="top">static float&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classLDOE_1_1Features_1_1Mechanics_1_1Stats_1_1Utils_1_1MoveSpeedUtils.html#ab81c6edf2d3cd9713789e2b46da79ad8">GetCurrentValueAmount</a> (in Entity character)</td></tr>
+<tr class="separator:ab81c6edf2d3cd9713789e2b46da79ad8"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
-<div class="textblock"><p >Calculates total move speed for character (according to <a href="https://siridarllc.atlassian.net/wiki/spaces/SUR/pages/314966066">https://siridarllc.atlassian.net/wiki/spaces/SUR/pages/314966066</a>) </p>
+<div class="textblock"><p >/// </p>
+<p >TODO LA-690 Vlad Shvetsov: В будущем стоит написать единственны класс StatUtilsT where T: IStatComponent. И удалить все остальные утилиты, т.к. у них всех функционал идентичен (если я не путаю ничего). </p>
 </div><h2 class="groupheader">Member Function Documentation</h2>
-<a id="aa6e30ff5398202a12d23125dcef204a4" name="aa6e30ff5398202a12d23125dcef204a4"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aa6e30ff5398202a12d23125dcef204a4">&#9670;&nbsp;</a></span>CalculateMoveSpeed()</h2>
+<a id="ab81c6edf2d3cd9713789e2b46da79ad8" name="ab81c6edf2d3cd9713789e2b46da79ad8"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ab81c6edf2d3cd9713789e2b46da79ad8">&#9670;&nbsp;</a></span>GetCurrentValueAmount()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -114,83 +111,11 @@ Static Public Member Functions</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">static float LDOE.Features.Mechanics.Stats.Utils.MoveSpeedUtils.CalculateMoveSpeed </td>
+          <td class="memname">static float LDOE.Features.Mechanics.Stats.Utils.MoveSpeedUtils.GetCurrentValueAmount </td>
           <td>(</td>
           <td class="paramtype">in Entity&#160;</td>
           <td class="paramname"><em>character</em></td><td>)</td>
           <td></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">static</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<a id="af737af0cddd037638ecab88ce9afcde5" name="af737af0cddd037638ecab88ce9afcde5"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#af737af0cddd037638ecab88ce9afcde5">&#9670;&nbsp;</a></span>ChangeSpeedMultiplier()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">static void LDOE.Features.Mechanics.Stats.Utils.MoveSpeedUtils.ChangeSpeedMultiplier </td>
-          <td>(</td>
-          <td class="paramtype">in Entity&#160;</td>
-          <td class="paramname"><em>character</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">float&#160;</td>
-          <td class="paramname"><em>change</em>&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">static</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<a id="a3e5555338bafa3b6cfbf4400f7922f04" name="a3e5555338bafa3b6cfbf4400f7922f04"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a3e5555338bafa3b6cfbf4400f7922f04">&#9670;&nbsp;</a></span>ChangeSpeedValue()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">static void LDOE.Features.Mechanics.Stats.Utils.MoveSpeedUtils.ChangeSpeedValue </td>
-          <td>(</td>
-          <td class="paramtype">in Entity&#160;</td>
-          <td class="paramname"><em>character</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">float&#160;</td>
-          <td class="paramname"><em>change</em>&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
         </tr>
       </table>
   </td>
@@ -211,7 +136,7 @@ Static Public Member Functions</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="namespaceLDOE.html">LDOE</a></li><li class="navelem"><a class="el" href="namespaceLDOE_1_1Features.html">Features</a></li><li class="navelem"><a class="el" href="namespaceLDOE_1_1Features_1_1Mechanics.html">Mechanics</a></li><li class="navelem"><a class="el" href="namespaceLDOE_1_1Features_1_1Mechanics_1_1Stats.html">Stats</a></li><li class="navelem"><a class="el" href="namespaceLDOE_1_1Features_1_1Mechanics_1_1Stats_1_1Utils.html">Utils</a></li><li class="navelem"><a class="el" href="classLDOE_1_1Features_1_1Mechanics_1_1Stats_1_1Utils_1_1MoveSpeedUtils.html">MoveSpeedUtils</a></li>
-    <li class="footer">Generated on Wed Jun 8 2022 16:37:35 for The Last Ark by <a href="https://www.doxygen.org/index.html"><img class="footer" src="doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.4 </li>
+    <li class="footer">Generated on Fri Jul 1 2022 12:55:03 for The Last Ark by <a href="https://www.doxygen.org/index.html"><img class="footer" src="doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.4 </li>
   </ul>
 </div>
 </body>

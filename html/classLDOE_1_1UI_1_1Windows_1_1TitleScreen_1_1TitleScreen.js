@@ -6,5 +6,6 @@ var classLDOE_1_1UI_1_1Windows_1_1TitleScreen_1_1TitleScreen =
     [ "SetDebugButtonInteractable", "classLDOE_1_1UI_1_1Windows_1_1TitleScreen_1_1TitleScreen.html#ad978741795125a1dd7c0057ff885eeff", null ],
     [ "SetDebugButtonPressedAction", "classLDOE_1_1UI_1_1Windows_1_1TitleScreen_1_1TitleScreen.html#ae7d6f9fdb96603b60bf6c03cb31e6864", null ],
     [ "SetNetworkModeButtonAction", "classLDOE_1_1UI_1_1Windows_1_1TitleScreen_1_1TitleScreen.html#a8c9d23c5feaeb56212e8d32e505bf3bc", null ],
-    [ "SetPlayButtonPressedAction", "classLDOE_1_1UI_1_1Windows_1_1TitleScreen_1_1TitleScreen.html#afdc5d7b35cdf167cac7ce11700ccfcd2", null ]
+    [ "SetPlayButtonPressedAction", "classLDOE_1_1UI_1_1Windows_1_1TitleScreen_1_1TitleScreen.html#afdc5d7b35cdf167cac7ce11700ccfcd2", null ],
+    [ "showDebugButtons", "classLDOE_1_1UI_1_1Windows_1_1TitleScreen_1_1TitleScreen.html#a18c5b219c42746d41425b40939196ac1", null ]
 ];

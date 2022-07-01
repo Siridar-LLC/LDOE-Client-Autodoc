@@ -1,15 +1,50 @@
 var classLDOE_1_1Meta_1_1Tutorial_1_1TutorialManager =
 [
-    [ "Steps", "classLDOE_1_1Meta_1_1Tutorial_1_1TutorialManager.html#acd39d6da49012f4c7542543136b77eda", [
-      [ "Step_1_1", "classLDOE_1_1Meta_1_1Tutorial_1_1TutorialManager.html#acd39d6da49012f4c7542543136b77edaa8ca6c3468f13cb4e4d736050bc78d35b", null ],
-      [ "Step_20_1", "classLDOE_1_1Meta_1_1Tutorial_1_1TutorialManager.html#acd39d6da49012f4c7542543136b77edaadd7d2a63c51e4e7f588443c695c8b074", null ],
-      [ "Step_21_1", "classLDOE_1_1Meta_1_1Tutorial_1_1TutorialManager.html#acd39d6da49012f4c7542543136b77edaa90012a01c0005682a816731c7392d152", null ]
+    [ "TutorialQuest", "classLDOE_1_1Meta_1_1Tutorial_1_1TutorialManager.html#a53eff35123e66c9a8a1e6da0c142815d", [
+      [ "FirstMove", "classLDOE_1_1Meta_1_1Tutorial_1_1TutorialManager.html#a53eff35123e66c9a8a1e6da0c142815dab935d0b8f337ffb4cce94af33566d609", null ],
+      [ "Healing", "classLDOE_1_1Meta_1_1Tutorial_1_1TutorialManager.html#a53eff35123e66c9a8a1e6da0c142815da80dd330a5c08653498c49a219a124543", null ],
+      [ "SelfDefence", "classLDOE_1_1Meta_1_1Tutorial_1_1TutorialManager.html#a53eff35123e66c9a8a1e6da0c142815daeb4c58cd7303e041c7b4796753516a52", null ],
+      [ "LookAround", "classLDOE_1_1Meta_1_1Tutorial_1_1TutorialManager.html#a53eff35123e66c9a8a1e6da0c142815da39cc74ec8a536b038190bd3f1779a8fc", null ],
+      [ "LoudScream", "classLDOE_1_1Meta_1_1Tutorial_1_1TutorialManager.html#a53eff35123e66c9a8a1e6da0c142815daf2555dae1cc25e1d59945e6ebb3f2fdd", null ],
+      [ "TimelyHelp", "classLDOE_1_1Meta_1_1Tutorial_1_1TutorialManager.html#a53eff35123e66c9a8a1e6da0c142815da877da9df18a0cad0ec5651d56707b8be", null ],
+      [ "IntoTheTrap", "classLDOE_1_1Meta_1_1Tutorial_1_1TutorialManager.html#a53eff35123e66c9a8a1e6da0c142815da11c155faf96f43e1cd1c588da184ffd6", null ],
+      [ "FatherInATrouble", "classLDOE_1_1Meta_1_1Tutorial_1_1TutorialManager.html#a53eff35123e66c9a8a1e6da0c142815daa6afd782ee7621cc2b3fcf762790236e", null ],
+      [ "Psycho", "classLDOE_1_1Meta_1_1Tutorial_1_1TutorialManager.html#a53eff35123e66c9a8a1e6da0c142815dade8b2a2eecbbb2cf028be819d697ce4b", null ]
+    ] ],
+    [ "TutorialQuestTask", "classLDOE_1_1Meta_1_1Tutorial_1_1TutorialManager.html#a0669bb45ce3c7b9e50493c2a46f550e9", [
+      [ "GetToCar", "classLDOE_1_1Meta_1_1Tutorial_1_1TutorialManager.html#a0669bb45ce3c7b9e50493c2a46f550e9a2672e95bc8385be99c68fb228cc72fbe", null ],
+      [ "CorpseOpen", "classLDOE_1_1Meta_1_1Tutorial_1_1TutorialManager.html#a0669bb45ce3c7b9e50493c2a46f550e9afadb8cf88535cdaef33c1ce9f1113f27", null ],
+      [ "CorpseTakeMedKit", "classLDOE_1_1Meta_1_1Tutorial_1_1TutorialManager.html#a0669bb45ce3c7b9e50493c2a46f550e9a0450b0ebdf0b7e73cf77f860c988cbc7", null ],
+      [ "CorpseUseMedKit", "classLDOE_1_1Meta_1_1Tutorial_1_1TutorialManager.html#a0669bb45ce3c7b9e50493c2a46f550e9a6198ba52777f9e175160ecf90d10f3d3", null ],
+      [ "CarOpen", "classLDOE_1_1Meta_1_1Tutorial_1_1TutorialManager.html#a0669bb45ce3c7b9e50493c2a46f550e9a465f55d2530a2efcf3ac75e5142e13d3", null ],
+      [ "CarTakeWeapon", "classLDOE_1_1Meta_1_1Tutorial_1_1TutorialManager.html#a0669bb45ce3c7b9e50493c2a46f550e9a88ff3aaa4696ba527e58e9fbdd983ca0", null ],
+      [ "CarUseWeapon", "classLDOE_1_1Meta_1_1Tutorial_1_1TutorialManager.html#a0669bb45ce3c7b9e50493c2a46f550e9a8bf8122f30a051e9f887efeb013418bc", null ],
+      [ "GoToTriggerZone", "classLDOE_1_1Meta_1_1Tutorial_1_1TutorialManager.html#a0669bb45ce3c7b9e50493c2a46f550e9acbdbb049da3b1a435f59e405a4b10567", null ],
+      [ "GoToZombieZone", "classLDOE_1_1Meta_1_1Tutorial_1_1TutorialManager.html#a0669bb45ce3c7b9e50493c2a46f550e9a9c4a1775688590bf511df86838b06cab", null ],
+      [ "KillTheZombies", "classLDOE_1_1Meta_1_1Tutorial_1_1TutorialManager.html#a0669bb45ce3c7b9e50493c2a46f550e9aad28705736cbe6f9473e2e8c2826b78b", null ],
+      [ "HelpGetStones", "classLDOE_1_1Meta_1_1Tutorial_1_1TutorialManager.html#a0669bb45ce3c7b9e50493c2a46f550e9a84de2a42a02a8f052e56294f9e43aac3", null ],
+      [ "HelpGetBranches", "classLDOE_1_1Meta_1_1Tutorial_1_1TutorialManager.html#a0669bb45ce3c7b9e50493c2a46f550e9a95f67c52f83da012184fd03e69f45873", null ],
+      [ "HelpCraftPickAxe", "classLDOE_1_1Meta_1_1Tutorial_1_1TutorialManager.html#a0669bb45ce3c7b9e50493c2a46f550e9a6af7483efbb987819a1d947ada927069", null ],
+      [ "HelpMineStones", "classLDOE_1_1Meta_1_1Tutorial_1_1TutorialManager.html#a0669bb45ce3c7b9e50493c2a46f550e9a436d600ffeb987431d6125f365c28607", null ],
+      [ "HelpTalkToNpc", "classLDOE_1_1Meta_1_1Tutorial_1_1TutorialManager.html#a0669bb45ce3c7b9e50493c2a46f550e9af066a30cc12070b6b1a9e3c5c8445cbd", null ],
+      [ "FatherBase", "classLDOE_1_1Meta_1_1Tutorial_1_1TutorialManager.html#a0669bb45ce3c7b9e50493c2a46f550e9a9cca6fa3c3a4d9b83a8dd85b9319f9e2", null ],
+      [ "FatherFind", "classLDOE_1_1Meta_1_1Tutorial_1_1TutorialManager.html#a0669bb45ce3c7b9e50493c2a46f550e9aade2306adb594cef84c6e394b0c7b4d3", null ],
+      [ "FatherKillWatchman", "classLDOE_1_1Meta_1_1Tutorial_1_1TutorialManager.html#a0669bb45ce3c7b9e50493c2a46f550e9ad13875fcf706dfe876f55d3f3dbba3bb", null ],
+      [ "FatherTalk", "classLDOE_1_1Meta_1_1Tutorial_1_1TutorialManager.html#a0669bb45ce3c7b9e50493c2a46f550e9a116e34c456dec4bd878a37fdcad81468", null ],
+      [ "PsychoLootWeapon", "classLDOE_1_1Meta_1_1Tutorial_1_1TutorialManager.html#a0669bb45ce3c7b9e50493c2a46f550e9a5e650b0eade359a9da8a0a8fa0c967d1", null ],
+      [ "PsychoLootAmmo", "classLDOE_1_1Meta_1_1Tutorial_1_1TutorialManager.html#a0669bb45ce3c7b9e50493c2a46f550e9a9753b967658e2e0643a6ef4f98def2ab", null ],
+      [ "PsychoGoToBase", "classLDOE_1_1Meta_1_1Tutorial_1_1TutorialManager.html#a0669bb45ce3c7b9e50493c2a46f550e9a6dfef57d839d54134230aef7864023c2", null ],
+      [ "PsychoKill", "classLDOE_1_1Meta_1_1Tutorial_1_1TutorialManager.html#a0669bb45ce3c7b9e50493c2a46f550e9abfe87da4283493da6a3a44489279d78e", null ],
+      [ "PsychoLoot", "classLDOE_1_1Meta_1_1Tutorial_1_1TutorialManager.html#a0669bb45ce3c7b9e50493c2a46f550e9a5ad89650a4e834715908cd11d73b2686", null ]
     ] ],
     [ "TutorialManager", "classLDOE_1_1Meta_1_1Tutorial_1_1TutorialManager.html#a79758b4bf019451ae50f910d51c1c890", null ],
     [ "Destroy", "classLDOE_1_1Meta_1_1Tutorial_1_1TutorialManager.html#aed3bc82df1663b543ba6a51836804f82", null ],
     [ "DisposeTutorial", "classLDOE_1_1Meta_1_1Tutorial_1_1TutorialManager.html#a6473332c29a271f456fb929a3f714ee6", null ],
     [ "HandleConnect", "classLDOE_1_1Meta_1_1Tutorial_1_1TutorialManager.html#a9515520c852283b4fafb8c97d098ffc7", null ],
     [ "Initialize", "classLDOE_1_1Meta_1_1Tutorial_1_1TutorialManager.html#ab3b2b6e2f0204b20d46c0bb7a54432fa", null ],
-    [ "PlayerPrefsKey", "classLDOE_1_1Meta_1_1Tutorial_1_1TutorialManager.html#aed7d1c4813ad7ca2de13343c08db4dbc", null ],
+    [ "IsTutorialQuest", "classLDOE_1_1Meta_1_1Tutorial_1_1TutorialManager.html#a3a9fe230df9b4831d37fd8d2f5b0c5e1", null ],
+    [ "OnTaskCompletedByTutorialSystem", "classLDOE_1_1Meta_1_1Tutorial_1_1TutorialManager.html#ab89a9399b68adcca57e12e4b3b432089", null ],
+    [ "ShouldForceStartCurrentLocation", "classLDOE_1_1Meta_1_1Tutorial_1_1TutorialManager.html#a2059d43a5b4150f753d37a311c82b37a", null ],
+    [ "IsLoggingEnabled", "classLDOE_1_1Meta_1_1Tutorial_1_1TutorialManager.html#afa30fd1e3bf3d6801f5f8babb994c528", null ],
     [ "IsTutorialActive", "classLDOE_1_1Meta_1_1Tutorial_1_1TutorialManager.html#a340770b44b9b9660cbb3126fbf705c48", null ]
 ];

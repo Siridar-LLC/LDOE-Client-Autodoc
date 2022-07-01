@@ -133,7 +133,8 @@ var annotated_dup =
         [ "ConfigConverter", "namespaceLDOE_1_1Editor_1_1ConfigConverter.html", [
           [ "Processors", "namespaceLDOE_1_1Editor_1_1ConfigConverter_1_1Processors.html", [
             [ "SOConverters", "namespaceLDOE_1_1Editor_1_1ConfigConverter_1_1Processors_1_1SOConverters.html", [
-              [ "CharacterPartViewSettingsSourceConverter", "classLDOE_1_1Editor_1_1ConfigConverter_1_1Processors_1_1SOConverters_1_1CharacterPartViewSettingsSourceConverter.html", "classLDOE_1_1Editor_1_1ConfigConverter_1_1Processors_1_1SOConverters_1_1CharacterPartViewSettingsSourceConverter" ]
+              [ "CharacterPartViewSettingsSourceConverter", "classLDOE_1_1Editor_1_1ConfigConverter_1_1Processors_1_1SOConverters_1_1CharacterPartViewSettingsSourceConverter.html", "classLDOE_1_1Editor_1_1ConfigConverter_1_1Processors_1_1SOConverters_1_1CharacterPartViewSettingsSourceConverter" ],
+              [ "CharacterStatsProcessor", "classLDOE_1_1Editor_1_1ConfigConverter_1_1Processors_1_1SOConverters_1_1CharacterStatsProcessor.html", "classLDOE_1_1Editor_1_1ConfigConverter_1_1Processors_1_1SOConverters_1_1CharacterStatsProcessor" ]
             ] ]
           ] ]
         ] ],
@@ -228,6 +229,7 @@ var annotated_dup =
               [ "AddAllWeaponsCheatInput", "structLDOE_1_1Features_1_1Cheats_1_1PlayerCheats_1_1Markers_1_1AddAllWeaponsCheatInput.html", null ],
               [ "AddAllWorkbenchesCheatInput", "structLDOE_1_1Features_1_1Cheats_1_1PlayerCheats_1_1Markers_1_1AddAllWorkbenchesCheatInput.html", null ],
               [ "AddCraftResourcesCheatInput", "structLDOE_1_1Features_1_1Cheats_1_1PlayerCheats_1_1Markers_1_1AddCraftResourcesCheatInput.html", "structLDOE_1_1Features_1_1Cheats_1_1PlayerCheats_1_1Markers_1_1AddCraftResourcesCheatInput" ],
+              [ "AddItemsToInventoryCheatInput", "structLDOE_1_1Features_1_1Cheats_1_1PlayerCheats_1_1Markers_1_1AddItemsToInventoryCheatInput.html", "structLDOE_1_1Features_1_1Cheats_1_1PlayerCheats_1_1Markers_1_1AddItemsToInventoryCheatInput" ],
               [ "AddItemToInventoryCheatInput", "structLDOE_1_1Features_1_1Cheats_1_1PlayerCheats_1_1Markers_1_1AddItemToInventoryCheatInput.html", "structLDOE_1_1Features_1_1Cheats_1_1PlayerCheats_1_1Markers_1_1AddItemToInventoryCheatInput" ],
               [ "AllowMovementWhileInConsoleCheatInput", "structLDOE_1_1Features_1_1Cheats_1_1PlayerCheats_1_1Markers_1_1AllowMovementWhileInConsoleCheatInput.html", null ],
               [ "AttackConfederateCheatInput", "structLDOE_1_1Features_1_1Cheats_1_1PlayerCheats_1_1Markers_1_1AttackConfederateCheatInput.html", null ],
@@ -256,6 +258,9 @@ var annotated_dup =
               [ "SetEquippedItemDurabilityInput", "structLDOE_1_1Features_1_1Cheats_1_1PlayerCheats_1_1Markers_1_1SetEquippedItemDurabilityInput.html", "structLDOE_1_1Features_1_1Cheats_1_1PlayerCheats_1_1Markers_1_1SetEquippedItemDurabilityInput" ],
               [ "SetKillEnemyWithOneHitCheatInput", "structLDOE_1_1Features_1_1Cheats_1_1PlayerCheats_1_1Markers_1_1SetKillEnemyWithOneHitCheatInput.html", null ],
               [ "UnresearchModCheatInput", "structLDOE_1_1Features_1_1Cheats_1_1PlayerCheats_1_1Markers_1_1UnresearchModCheatInput.html", "structLDOE_1_1Features_1_1Cheats_1_1PlayerCheats_1_1Markers_1_1UnresearchModCheatInput" ]
+            ] ],
+            [ "Structs", "namespaceLDOE_1_1Features_1_1Cheats_1_1PlayerCheats_1_1Structs.html", [
+              [ "Item", "structLDOE_1_1Features_1_1Cheats_1_1PlayerCheats_1_1Structs_1_1Item.html", "structLDOE_1_1Features_1_1Cheats_1_1PlayerCheats_1_1Structs_1_1Item" ]
             ] ],
             [ "Systems", "namespaceLDOE_1_1Features_1_1Cheats_1_1PlayerCheats_1_1Systems.html", [
               [ "ConsoleInputMovementSystem", "classLDOE_1_1Features_1_1Cheats_1_1PlayerCheats_1_1Systems_1_1ConsoleInputMovementSystem.html", "classLDOE_1_1Features_1_1Cheats_1_1PlayerCheats_1_1Systems_1_1ConsoleInputMovementSystem" ],
@@ -454,7 +459,6 @@ var annotated_dup =
             [ "Utils", "namespaceLDOE_1_1Features_1_1Core_1_1Random_1_1Utils.html", [
               [ "PseudoRandomUtils", "classLDOE_1_1Features_1_1Core_1_1Random_1_1Utils_1_1PseudoRandomUtils.html", "classLDOE_1_1Features_1_1Core_1_1Random_1_1Utils_1_1PseudoRandomUtils" ]
             ] ],
-            [ "ARandomFeature", "classLDOE_1_1Features_1_1Core_1_1Random_1_1ARandomFeature.html", "classLDOE_1_1Features_1_1Core_1_1Random_1_1ARandomFeature" ],
             [ "RandomInitializationFeature", "classLDOE_1_1Features_1_1Core_1_1Random_1_1RandomInitializationFeature.html", "classLDOE_1_1Features_1_1Core_1_1Random_1_1RandomInitializationFeature" ]
           ] ],
           [ "Requests", "namespaceLDOE_1_1Features_1_1Core_1_1Requests.html", [
@@ -550,12 +554,15 @@ var annotated_dup =
             [ "Components", "namespaceLDOE_1_1Features_1_1Mechanics_1_1ActorInteraction_1_1Components.html", [
               [ "ActorInteractionTarget", "structLDOE_1_1Features_1_1Mechanics_1_1ActorInteraction_1_1Components_1_1ActorInteractionTarget.html", "structLDOE_1_1Features_1_1Mechanics_1_1ActorInteraction_1_1Components_1_1ActorInteractionTarget" ],
               [ "ClosestActorInteractionTarget", "structLDOE_1_1Features_1_1Mechanics_1_1ActorInteraction_1_1Components_1_1ClosestActorInteractionTarget.html", "structLDOE_1_1Features_1_1Mechanics_1_1ActorInteraction_1_1Components_1_1ClosestActorInteractionTarget" ],
+              [ "DialogAnswerComponent", "structLDOE_1_1Features_1_1Mechanics_1_1ActorInteraction_1_1Components_1_1DialogAnswerComponent.html", "structLDOE_1_1Features_1_1Mechanics_1_1ActorInteraction_1_1Components_1_1DialogAnswerComponent" ],
               [ "DialogLink", "structLDOE_1_1Features_1_1Mechanics_1_1ActorInteraction_1_1Components_1_1DialogLink.html", "structLDOE_1_1Features_1_1Mechanics_1_1ActorInteraction_1_1Components_1_1DialogLink" ],
               [ "ExclusiveAccessActor", "structLDOE_1_1Features_1_1Mechanics_1_1ActorInteraction_1_1Components_1_1ExclusiveAccessActor.html", "structLDOE_1_1Features_1_1Mechanics_1_1ActorInteraction_1_1Components_1_1ExclusiveAccessActor" ],
               [ "ExclusiveAccessTarget", "structLDOE_1_1Features_1_1Mechanics_1_1ActorInteraction_1_1Components_1_1ExclusiveAccessTarget.html", null ],
               [ "Interacting", "structLDOE_1_1Features_1_1Mechanics_1_1ActorInteraction_1_1Components_1_1Interacting.html", "structLDOE_1_1Features_1_1Mechanics_1_1ActorInteraction_1_1Components_1_1Interacting" ],
               [ "InteractionHighlightViewSizeComponent", "structLDOE_1_1Features_1_1Mechanics_1_1ActorInteraction_1_1Components_1_1InteractionHighlightViewSizeComponent.html", "structLDOE_1_1Features_1_1Mechanics_1_1ActorInteraction_1_1Components_1_1InteractionHighlightViewSizeComponent" ],
               [ "IsInteractableActor", "structLDOE_1_1Features_1_1Mechanics_1_1ActorInteraction_1_1Components_1_1IsInteractableActor.html", null ],
+              [ "IsUnlocking", "structLDOE_1_1Features_1_1Mechanics_1_1ActorInteraction_1_1Components_1_1IsUnlocking.html", "structLDOE_1_1Features_1_1Mechanics_1_1ActorInteraction_1_1Components_1_1IsUnlocking" ],
+              [ "LockedInteraction", "structLDOE_1_1Features_1_1Mechanics_1_1ActorInteraction_1_1Components_1_1LockedInteraction.html", "structLDOE_1_1Features_1_1Mechanics_1_1ActorInteraction_1_1Components_1_1LockedInteraction" ],
               [ "OpenWindow", "structLDOE_1_1Features_1_1Mechanics_1_1ActorInteraction_1_1Components_1_1OpenWindow.html", "structLDOE_1_1Features_1_1Mechanics_1_1ActorInteraction_1_1Components_1_1OpenWindow" ]
             ] ],
             [ "Interactions", "namespaceLDOE_1_1Features_1_1Mechanics_1_1ActorInteraction_1_1Interactions.html", [
@@ -575,17 +582,22 @@ var annotated_dup =
               [ "TakeItemActorInteraction", "classLDOE_1_1Features_1_1Mechanics_1_1ActorInteraction_1_1Interactions_1_1TakeItemActorInteraction.html", "classLDOE_1_1Features_1_1Mechanics_1_1ActorInteraction_1_1Interactions_1_1TakeItemActorInteraction" ]
             ] ],
             [ "Markers", "namespaceLDOE_1_1Features_1_1Mechanics_1_1ActorInteraction_1_1Markers.html", [
-              [ "CompleteInteractionWithTargetMarker", "structLDOE_1_1Features_1_1Mechanics_1_1ActorInteraction_1_1Markers_1_1CompleteInteractionWithTargetMarker.html", null ]
+              [ "CompleteInteractionWithTargetMarker", "structLDOE_1_1Features_1_1Mechanics_1_1ActorInteraction_1_1Markers_1_1CompleteInteractionWithTargetMarker.html", null ],
+              [ "SetDialogAnswerMarker", "structLDOE_1_1Features_1_1Mechanics_1_1ActorInteraction_1_1Markers_1_1SetDialogAnswerMarker.html", "structLDOE_1_1Features_1_1Mechanics_1_1ActorInteraction_1_1Markers_1_1SetDialogAnswerMarker" ]
             ] ],
             [ "Models", "namespaceLDOE_1_1Features_1_1Mechanics_1_1ActorInteraction_1_1Models.html", [
               [ "ActionRejectReason", "structLDOE_1_1Features_1_1Mechanics_1_1ActorInteraction_1_1Models_1_1ActionRejectReason.html", "structLDOE_1_1Features_1_1Mechanics_1_1ActorInteraction_1_1Models_1_1ActionRejectReason" ]
+            ] ],
+            [ "Systems", "namespaceLDOE_1_1Features_1_1Mechanics_1_1ActorInteraction_1_1Systems.html", [
+              [ "DialogInputSystem", "classLDOE_1_1Features_1_1Mechanics_1_1ActorInteraction_1_1Systems_1_1DialogInputSystem.html", "classLDOE_1_1Features_1_1Mechanics_1_1ActorInteraction_1_1Systems_1_1DialogInputSystem" ]
             ] ],
             [ "Utils", "namespaceLDOE_1_1Features_1_1Mechanics_1_1ActorInteraction_1_1Utils.html", [
               [ "ActorAccessUtils", "classLDOE_1_1Features_1_1Mechanics_1_1ActorInteraction_1_1Utils_1_1ActorAccessUtils.html", "classLDOE_1_1Features_1_1Mechanics_1_1ActorInteraction_1_1Utils_1_1ActorAccessUtils" ],
               [ "ActorInteractionUtils", "classLDOE_1_1Features_1_1Mechanics_1_1ActorInteraction_1_1Utils_1_1ActorInteractionUtils.html", "classLDOE_1_1Features_1_1Mechanics_1_1ActorInteraction_1_1Utils_1_1ActorInteractionUtils" ]
             ] ],
             [ "ActorInteractionBase", "classLDOE_1_1Features_1_1Mechanics_1_1ActorInteraction_1_1ActorInteractionBase.html", "classLDOE_1_1Features_1_1Mechanics_1_1ActorInteraction_1_1ActorInteractionBase" ],
-            [ "OpenWorkbenchActorEvent", "classLDOE_1_1Features_1_1Mechanics_1_1ActorInteraction_1_1OpenWorkbenchActorEvent.html", "classLDOE_1_1Features_1_1Mechanics_1_1ActorInteraction_1_1OpenWorkbenchActorEvent" ]
+            [ "OpenWorkbenchActorEvent", "classLDOE_1_1Features_1_1Mechanics_1_1ActorInteraction_1_1OpenWorkbenchActorEvent.html", "classLDOE_1_1Features_1_1Mechanics_1_1ActorInteraction_1_1OpenWorkbenchActorEvent" ],
+            [ "UnlockingActorEvent", "classLDOE_1_1Features_1_1Mechanics_1_1ActorInteraction_1_1UnlockingActorEvent.html", "classLDOE_1_1Features_1_1Mechanics_1_1ActorInteraction_1_1UnlockingActorEvent" ]
           ] ],
           [ "Aspects", "namespaceLDOE_1_1Features_1_1Mechanics_1_1Aspects.html", [
             [ "Components", "namespaceLDOE_1_1Features_1_1Mechanics_1_1Aspects_1_1Components.html", [
@@ -650,9 +662,11 @@ var annotated_dup =
               [ "IsMeleeAttackActive", "structLDOE_1_1Features_1_1Mechanics_1_1Attack_1_1Components_1_1IsMeleeAttackActive.html", null ],
               [ "IsRangeAttackActive", "structLDOE_1_1Features_1_1Mechanics_1_1Attack_1_1Components_1_1IsRangeAttackActive.html", null ],
               [ "LastHit", "structLDOE_1_1Features_1_1Mechanics_1_1Attack_1_1Components_1_1LastHit.html", "structLDOE_1_1Features_1_1Mechanics_1_1Attack_1_1Components_1_1LastHit" ],
+              [ "MeleeAttackPerformedComponent", "structLDOE_1_1Features_1_1Mechanics_1_1Attack_1_1Components_1_1MeleeAttackPerformedComponent.html", "structLDOE_1_1Features_1_1Mechanics_1_1Attack_1_1Components_1_1MeleeAttackPerformedComponent" ],
               [ "MeleeAttackPerformingComponent", "structLDOE_1_1Features_1_1Mechanics_1_1Attack_1_1Components_1_1MeleeAttackPerformingComponent.html", "structLDOE_1_1Features_1_1Mechanics_1_1Attack_1_1Components_1_1MeleeAttackPerformingComponent" ],
               [ "MeleeAttackRequest", "structLDOE_1_1Features_1_1Mechanics_1_1Attack_1_1Components_1_1MeleeAttackRequest.html", "structLDOE_1_1Features_1_1Mechanics_1_1Attack_1_1Components_1_1MeleeAttackRequest" ],
               [ "MeleeWeaponConfig", "structLDOE_1_1Features_1_1Mechanics_1_1Attack_1_1Components_1_1MeleeWeaponConfig.html", "structLDOE_1_1Features_1_1Mechanics_1_1Attack_1_1Components_1_1MeleeWeaponConfig" ],
+              [ "RangeAttackPerformedComponent", "structLDOE_1_1Features_1_1Mechanics_1_1Attack_1_1Components_1_1RangeAttackPerformedComponent.html", "structLDOE_1_1Features_1_1Mechanics_1_1Attack_1_1Components_1_1RangeAttackPerformedComponent" ],
               [ "RangeAttackPerformingComponent", "structLDOE_1_1Features_1_1Mechanics_1_1Attack_1_1Components_1_1RangeAttackPerformingComponent.html", "structLDOE_1_1Features_1_1Mechanics_1_1Attack_1_1Components_1_1RangeAttackPerformingComponent" ],
               [ "RangeAttackRequest", "structLDOE_1_1Features_1_1Mechanics_1_1Attack_1_1Components_1_1RangeAttackRequest.html", "structLDOE_1_1Features_1_1Mechanics_1_1Attack_1_1Components_1_1RangeAttackRequest" ],
               [ "RangeWeaponConfig", "structLDOE_1_1Features_1_1Mechanics_1_1Attack_1_1Components_1_1RangeWeaponConfig.html", "structLDOE_1_1Features_1_1Mechanics_1_1Attack_1_1Components_1_1RangeWeaponConfig" ],
@@ -666,7 +680,7 @@ var annotated_dup =
             ] ],
             [ "Handlers", "namespaceLDOE_1_1Features_1_1Mechanics_1_1Attack_1_1Handlers.html", [
               [ "AfterDamage", "namespaceLDOE_1_1Features_1_1Mechanics_1_1Attack_1_1Handlers_1_1AfterDamage.html", [
-                [ "ApplyBuffOnMeleeHitHandler", "classLDOE_1_1Features_1_1Mechanics_1_1Attack_1_1Handlers_1_1AfterDamage_1_1ApplyBuffOnMeleeHitHandler.html", null ],
+                [ "ApplyBuffOnMeleeHitHandler", "classLDOE_1_1Features_1_1Mechanics_1_1Attack_1_1Handlers_1_1AfterDamage_1_1ApplyBuffOnMeleeHitHandler.html", "classLDOE_1_1Features_1_1Mechanics_1_1Attack_1_1Handlers_1_1AfterDamage_1_1ApplyBuffOnMeleeHitHandler" ],
                 [ "DecreaseItemsDurabilityHandler", "classLDOE_1_1Features_1_1Mechanics_1_1Attack_1_1Handlers_1_1AfterDamage_1_1DecreaseItemsDurabilityHandler.html", null ],
                 [ "MeleeVampirismHandler", "classLDOE_1_1Features_1_1Mechanics_1_1Attack_1_1Handlers_1_1AfterDamage_1_1MeleeVampirismHandler.html", null ]
               ] ],
@@ -716,14 +730,20 @@ var annotated_dup =
           [ "Buffs", "namespaceLDOE_1_1Features_1_1Mechanics_1_1Buffs.html", [
             [ "Base", "namespaceLDOE_1_1Features_1_1Mechanics_1_1Buffs_1_1Base.html", [
               [ "BuffConfig", "classLDOE_1_1Features_1_1Mechanics_1_1Buffs_1_1Base_1_1BuffConfig.html", "classLDOE_1_1Features_1_1Mechanics_1_1Buffs_1_1Base_1_1BuffConfig" ],
+              [ "BuffExpirationMeleeAutoAttackCondition", "classLDOE_1_1Features_1_1Mechanics_1_1Buffs_1_1Base_1_1BuffExpirationMeleeAutoAttackCondition.html", "classLDOE_1_1Features_1_1Mechanics_1_1Buffs_1_1Base_1_1BuffExpirationMeleeAutoAttackCondition" ],
+              [ "BuffExpirationRangeAutoAttackCondition", "classLDOE_1_1Features_1_1Mechanics_1_1Buffs_1_1Base_1_1BuffExpirationRangeAutoAttackCondition.html", "classLDOE_1_1Features_1_1Mechanics_1_1Buffs_1_1Base_1_1BuffExpirationRangeAutoAttackCondition" ],
+              [ "BuffExpirationTimeCondition", "classLDOE_1_1Features_1_1Mechanics_1_1Buffs_1_1Base_1_1BuffExpirationTimeCondition.html", "classLDOE_1_1Features_1_1Mechanics_1_1Buffs_1_1Base_1_1BuffExpirationTimeCondition" ],
               [ "BuffUIData", "classLDOE_1_1Features_1_1Mechanics_1_1Buffs_1_1Base_1_1BuffUIData.html", "classLDOE_1_1Features_1_1Mechanics_1_1Buffs_1_1Base_1_1BuffUIData" ],
               [ "BuffViewModel", "classLDOE_1_1Features_1_1Mechanics_1_1Buffs_1_1Base_1_1BuffViewModel.html", "classLDOE_1_1Features_1_1Mechanics_1_1Buffs_1_1Base_1_1BuffViewModel" ],
+              [ "IBuffExpirationCondition", "interfaceLDOE_1_1Features_1_1Mechanics_1_1Buffs_1_1Base_1_1IBuffExpirationCondition.html", "interfaceLDOE_1_1Features_1_1Mechanics_1_1Buffs_1_1Base_1_1IBuffExpirationCondition" ],
               [ "UpdatableBuffModule", "classLDOE_1_1Features_1_1Mechanics_1_1Buffs_1_1Base_1_1UpdatableBuffModule.html", "classLDOE_1_1Features_1_1Mechanics_1_1Buffs_1_1Base_1_1UpdatableBuffModule" ]
             ] ],
             [ "Components", "namespaceLDOE_1_1Features_1_1Mechanics_1_1Buffs_1_1Components.html", [
               [ "BuffCollectionComponent", "structLDOE_1_1Features_1_1Mechanics_1_1Buffs_1_1Components_1_1BuffCollectionComponent.html", "structLDOE_1_1Features_1_1Mechanics_1_1Buffs_1_1Components_1_1BuffCollectionComponent" ],
               [ "BuffComponent", "structLDOE_1_1Features_1_1Mechanics_1_1Buffs_1_1Components_1_1BuffComponent.html", "structLDOE_1_1Features_1_1Mechanics_1_1Buffs_1_1Components_1_1BuffComponent" ],
-              [ "BuffExpirationComponent", "structLDOE_1_1Features_1_1Mechanics_1_1Buffs_1_1Components_1_1BuffExpirationComponent.html", "structLDOE_1_1Features_1_1Mechanics_1_1Buffs_1_1Components_1_1BuffExpirationComponent" ],
+              [ "BuffExpirationMeleeAttackComponent", "structLDOE_1_1Features_1_1Mechanics_1_1Buffs_1_1Components_1_1BuffExpirationMeleeAttackComponent.html", "structLDOE_1_1Features_1_1Mechanics_1_1Buffs_1_1Components_1_1BuffExpirationMeleeAttackComponent" ],
+              [ "BuffExpirationRangeAttackComponent", "structLDOE_1_1Features_1_1Mechanics_1_1Buffs_1_1Components_1_1BuffExpirationRangeAttackComponent.html", "structLDOE_1_1Features_1_1Mechanics_1_1Buffs_1_1Components_1_1BuffExpirationRangeAttackComponent" ],
+              [ "BuffExpirationTimeComponent", "structLDOE_1_1Features_1_1Mechanics_1_1Buffs_1_1Components_1_1BuffExpirationTimeComponent.html", "structLDOE_1_1Features_1_1Mechanics_1_1Buffs_1_1Components_1_1BuffExpirationTimeComponent" ],
               [ "BuffsInitialization", "structLDOE_1_1Features_1_1Mechanics_1_1Buffs_1_1Components_1_1BuffsInitialization.html", "structLDOE_1_1Features_1_1Mechanics_1_1Buffs_1_1Components_1_1BuffsInitialization" ],
               [ "BuffUpdateComponent", "structLDOE_1_1Features_1_1Mechanics_1_1Buffs_1_1Components_1_1BuffUpdateComponent.html", "structLDOE_1_1Features_1_1Mechanics_1_1Buffs_1_1Components_1_1BuffUpdateComponent" ]
             ] ],
@@ -734,7 +754,8 @@ var annotated_dup =
               [ "BuffListUpdatedGlobalEvent", "classLDOE_1_1Features_1_1Mechanics_1_1Buffs_1_1Events_1_1BuffListUpdatedGlobalEvent.html", null ]
             ] ],
             [ "Systems", "namespaceLDOE_1_1Features_1_1Mechanics_1_1Buffs_1_1Systems.html", [
-              [ "BuffExpirationSystem", "classLDOE_1_1Features_1_1Mechanics_1_1Buffs_1_1Systems_1_1BuffExpirationSystem.html", "classLDOE_1_1Features_1_1Mechanics_1_1Buffs_1_1Systems_1_1BuffExpirationSystem" ],
+              [ "BuffExpirationAttackSystem", "classLDOE_1_1Features_1_1Mechanics_1_1Buffs_1_1Systems_1_1BuffExpirationAttackSystem.html", "classLDOE_1_1Features_1_1Mechanics_1_1Buffs_1_1Systems_1_1BuffExpirationAttackSystem" ],
+              [ "BuffExpirationTimeSystem", "classLDOE_1_1Features_1_1Mechanics_1_1Buffs_1_1Systems_1_1BuffExpirationTimeSystem.html", "classLDOE_1_1Features_1_1Mechanics_1_1Buffs_1_1Systems_1_1BuffExpirationTimeSystem" ],
               [ "BuffUpdateSystem", "classLDOE_1_1Features_1_1Mechanics_1_1Buffs_1_1Systems_1_1BuffUpdateSystem.html", "classLDOE_1_1Features_1_1Mechanics_1_1Buffs_1_1Systems_1_1BuffUpdateSystem" ]
             ] ],
             [ "Utils", "namespaceLDOE_1_1Features_1_1Mechanics_1_1Buffs_1_1Utils.html", [
@@ -845,6 +866,8 @@ var annotated_dup =
           ] ],
           [ "Character", "namespaceLDOE_1_1Features_1_1Mechanics_1_1Character.html", [
             [ "Configs", "namespaceLDOE_1_1Features_1_1Mechanics_1_1Character_1_1Configs.html", [
+              [ "CharacterDataConfig", "classLDOE_1_1Features_1_1Mechanics_1_1Character_1_1Configs_1_1CharacterDataConfig.html", "classLDOE_1_1Features_1_1Mechanics_1_1Character_1_1Configs_1_1CharacterDataConfig" ],
+              [ "CharacterStats", "structLDOE_1_1Features_1_1Mechanics_1_1Character_1_1Configs_1_1CharacterStats.html", "structLDOE_1_1Features_1_1Mechanics_1_1Character_1_1Configs_1_1CharacterStats" ],
               [ "PlayerCharacterDataConfig", "classLDOE_1_1Features_1_1Mechanics_1_1Character_1_1Configs_1_1PlayerCharacterDataConfig.html", "classLDOE_1_1Features_1_1Mechanics_1_1Character_1_1Configs_1_1PlayerCharacterDataConfig" ]
             ] ]
           ] ],
@@ -943,8 +966,7 @@ var annotated_dup =
             ] ],
             [ "Utils", "namespaceLDOE_1_1Features_1_1Mechanics_1_1Drop_1_1Utils.html", [
               [ "DropGenerationUtils", "classLDOE_1_1Features_1_1Mechanics_1_1Drop_1_1Utils_1_1DropGenerationUtils.html", "classLDOE_1_1Features_1_1Mechanics_1_1Drop_1_1Utils_1_1DropGenerationUtils" ],
-              [ "DropUtils", "classLDOE_1_1Features_1_1Mechanics_1_1Drop_1_1Utils_1_1DropUtils.html", "classLDOE_1_1Features_1_1Mechanics_1_1Drop_1_1Utils_1_1DropUtils" ],
-              [ "FeatureDeterministicRandom", "classLDOE_1_1Features_1_1Mechanics_1_1Drop_1_1Utils_1_1FeatureDeterministicRandom.html", "classLDOE_1_1Features_1_1Mechanics_1_1Drop_1_1Utils_1_1FeatureDeterministicRandom" ]
+              [ "DropUtils", "classLDOE_1_1Features_1_1Mechanics_1_1Drop_1_1Utils_1_1DropUtils.html", "classLDOE_1_1Features_1_1Mechanics_1_1Drop_1_1Utils_1_1DropUtils" ]
             ] ],
             [ "DropBase", "classLDOE_1_1Features_1_1Mechanics_1_1Drop_1_1DropBase.html", "classLDOE_1_1Features_1_1Mechanics_1_1Drop_1_1DropBase" ],
             [ "DropFeature", "classLDOE_1_1Features_1_1Mechanics_1_1Drop_1_1DropFeature.html", "classLDOE_1_1Features_1_1Mechanics_1_1Drop_1_1DropFeature" ]
@@ -1244,6 +1266,7 @@ var annotated_dup =
             [ "BushHarvestedHandler", "classLDOE_1_1Features_1_1Mechanics_1_1Handlers_1_1BushHarvestedHandler.html", "classLDOE_1_1Features_1_1Mechanics_1_1Handlers_1_1BushHarvestedHandler" ],
             [ "DelayDestroyHandler", "classLDOE_1_1Features_1_1Mechanics_1_1Handlers_1_1DelayDestroyHandler.html", "classLDOE_1_1Features_1_1Mechanics_1_1Handlers_1_1DelayDestroyHandler" ],
             [ "DestroyAuraHandler", "classLDOE_1_1Features_1_1Mechanics_1_1Handlers_1_1DestroyAuraHandler.html", "classLDOE_1_1Features_1_1Mechanics_1_1Handlers_1_1DestroyAuraHandler" ],
+            [ "DestroyColliderHandler", "classLDOE_1_1Features_1_1Mechanics_1_1Handlers_1_1DestroyColliderHandler.html", "classLDOE_1_1Features_1_1Mechanics_1_1Handlers_1_1DestroyColliderHandler" ],
             [ "HandlersUtils", "classLDOE_1_1Features_1_1Mechanics_1_1Handlers_1_1HandlersUtils.html", "classLDOE_1_1Features_1_1Mechanics_1_1Handlers_1_1HandlersUtils" ],
             [ "IHandler", "interfaceLDOE_1_1Features_1_1Mechanics_1_1Handlers_1_1IHandler.html", "interfaceLDOE_1_1Features_1_1Mechanics_1_1Handlers_1_1IHandler" ],
             [ "IHandlerBase", "interfaceLDOE_1_1Features_1_1Mechanics_1_1Handlers_1_1IHandlerBase.html", "interfaceLDOE_1_1Features_1_1Mechanics_1_1Handlers_1_1IHandlerBase" ],
@@ -1544,6 +1567,8 @@ var annotated_dup =
                   [ "RunTask", "classLDOE_1_1Features_1_1Mechanics_1_1LocationTasks_1_1SceneComponents_1_1Actions_1_1Specific_1_1RunTask.html", "classLDOE_1_1Features_1_1Mechanics_1_1LocationTasks_1_1SceneComponents_1_1Actions_1_1Specific_1_1RunTask" ],
                   [ "SetMovementPassForAll", "classLDOE_1_1Features_1_1Mechanics_1_1LocationTasks_1_1SceneComponents_1_1Actions_1_1Specific_1_1SetMovementPassForAll.html", "classLDOE_1_1Features_1_1Mechanics_1_1LocationTasks_1_1SceneComponents_1_1Actions_1_1Specific_1_1SetMovementPassForAll" ],
                   [ "SetMovementPassForCharacter", "classLDOE_1_1Features_1_1Mechanics_1_1LocationTasks_1_1SceneComponents_1_1Actions_1_1Specific_1_1SetMovementPassForCharacter.html", "classLDOE_1_1Features_1_1Mechanics_1_1LocationTasks_1_1SceneComponents_1_1Actions_1_1Specific_1_1SetMovementPassForCharacter" ],
+                  [ "SetPathTargetByConfig", "classLDOE_1_1Features_1_1Mechanics_1_1LocationTasks_1_1SceneComponents_1_1Actions_1_1Specific_1_1SetPathTargetByConfig.html", "classLDOE_1_1Features_1_1Mechanics_1_1LocationTasks_1_1SceneComponents_1_1Actions_1_1Specific_1_1SetPathTargetByConfig" ],
+                  [ "SetPathTargetsByMultipleConfigs", "classLDOE_1_1Features_1_1Mechanics_1_1LocationTasks_1_1SceneComponents_1_1Actions_1_1Specific_1_ff3b40f1c524031dcb122ab9d872627c.html", "classLDOE_1_1Features_1_1Mechanics_1_1LocationTasks_1_1SceneComponents_1_1Actions_1_1Specific_1_ff3b40f1c524031dcb122ab9d872627c" ],
                   [ "SetScanTarget", "classLDOE_1_1Features_1_1Mechanics_1_1LocationTasks_1_1SceneComponents_1_1Actions_1_1Specific_1_1SetScanTarget.html", "classLDOE_1_1Features_1_1Mechanics_1_1LocationTasks_1_1SceneComponents_1_1Actions_1_1Specific_1_1SetScanTarget" ],
                   [ "SetScanTargetByConfig", "classLDOE_1_1Features_1_1Mechanics_1_1LocationTasks_1_1SceneComponents_1_1Actions_1_1Specific_1_1SetScanTargetByConfig.html", "classLDOE_1_1Features_1_1Mechanics_1_1LocationTasks_1_1SceneComponents_1_1Actions_1_1Specific_1_1SetScanTargetByConfig" ],
                   [ "SetScanTargetByMultipleConfigs", "classLDOE_1_1Features_1_1Mechanics_1_1LocationTasks_1_1SceneComponents_1_1Actions_1_1Specific_1_1SetScanTargetByMultipleConfigs.html", "classLDOE_1_1Features_1_1Mechanics_1_1LocationTasks_1_1SceneComponents_1_1Actions_1_1Specific_1_1SetScanTargetByMultipleConfigs" ],
@@ -1640,6 +1665,7 @@ var annotated_dup =
               [ "ChangeManaRequest", "structLDOE_1_1Features_1_1Mechanics_1_1Mana_1_1Components_1_1ChangeManaRequest.html", "structLDOE_1_1Features_1_1Mechanics_1_1Mana_1_1Components_1_1ChangeManaRequest" ],
               [ "ManaComponent", "structLDOE_1_1Features_1_1Mechanics_1_1Mana_1_1Components_1_1ManaComponent.html", "structLDOE_1_1Features_1_1Mechanics_1_1Mana_1_1Components_1_1ManaComponent" ],
               [ "ManaInitialization", "structLDOE_1_1Features_1_1Mechanics_1_1Mana_1_1Components_1_1ManaInitialization.html", "structLDOE_1_1Features_1_1Mechanics_1_1Mana_1_1Components_1_1ManaInitialization" ],
+              [ "ManaRegen", "structLDOE_1_1Features_1_1Mechanics_1_1Mana_1_1Components_1_1ManaRegen.html", "structLDOE_1_1Features_1_1Mechanics_1_1Mana_1_1Components_1_1ManaRegen" ],
               [ "ManaRegenComponent", "structLDOE_1_1Features_1_1Mechanics_1_1Mana_1_1Components_1_1ManaRegenComponent.html", "structLDOE_1_1Features_1_1Mechanics_1_1Mana_1_1Components_1_1ManaRegenComponent" ]
             ] ],
             [ "Systems", "namespaceLDOE_1_1Features_1_1Mechanics_1_1Mana_1_1Systems.html", [
@@ -1683,7 +1709,8 @@ var annotated_dup =
             ] ],
             [ "Utils", "namespaceLDOE_1_1Features_1_1Mechanics_1_1Manufacturing_1_1Utils.html", [
               [ "Editor", "namespaceLDOE_1_1Features_1_1Mechanics_1_1Manufacturing_1_1Utils_1_1Editor.html", [
-                [ "ManufacturingEditorUtils", "classLDOE_1_1Features_1_1Mechanics_1_1Manufacturing_1_1Utils_1_1Editor_1_1ManufacturingEditorUtils.html", "classLDOE_1_1Features_1_1Mechanics_1_1Manufacturing_1_1Utils_1_1Editor_1_1ManufacturingEditorUtils" ]
+                [ "ManufacturingEditorUtils", "classLDOE_1_1Features_1_1Mechanics_1_1Manufacturing_1_1Utils_1_1Editor_1_1ManufacturingEditorUtils.html", "classLDOE_1_1Features_1_1Mechanics_1_1Manufacturing_1_1Utils_1_1Editor_1_1ManufacturingEditorUtils" ],
+                [ "WorkbenchesEditorUtils", "classLDOE_1_1Features_1_1Mechanics_1_1Manufacturing_1_1Utils_1_1Editor_1_1WorkbenchesEditorUtils.html", "classLDOE_1_1Features_1_1Mechanics_1_1Manufacturing_1_1Utils_1_1Editor_1_1WorkbenchesEditorUtils" ]
               ] ],
               [ "ManufacturingUtils", "classLDOE_1_1Features_1_1Mechanics_1_1Manufacturing_1_1Utils_1_1ManufacturingUtils.html", "classLDOE_1_1Features_1_1Mechanics_1_1Manufacturing_1_1Utils_1_1ManufacturingUtils" ]
             ] ],
@@ -1749,8 +1776,7 @@ var annotated_dup =
             ] ],
             [ "Configs", "namespaceLDOE_1_1Features_1_1Mechanics_1_1Mobs_1_1Configs.html", [
               [ "MobDataConfig", "classLDOE_1_1Features_1_1Mechanics_1_1Mobs_1_1Configs_1_1MobDataConfig.html", "classLDOE_1_1Features_1_1Mechanics_1_1Mobs_1_1Configs_1_1MobDataConfig" ],
-              [ "MobSkillData", "structLDOE_1_1Features_1_1Mechanics_1_1Mobs_1_1Configs_1_1MobSkillData.html", "structLDOE_1_1Features_1_1Mechanics_1_1Mobs_1_1Configs_1_1MobSkillData" ],
-              [ "MobStatsDataConfig", "classLDOE_1_1Features_1_1Mechanics_1_1Mobs_1_1Configs_1_1MobStatsDataConfig.html", null ]
+              [ "MobSkillData", "structLDOE_1_1Features_1_1Mechanics_1_1Mobs_1_1Configs_1_1MobSkillData.html", "structLDOE_1_1Features_1_1Mechanics_1_1Mobs_1_1Configs_1_1MobSkillData" ]
             ] ],
             [ "Modules", "namespaceLDOE_1_1Features_1_1Mechanics_1_1Mobs_1_1Modules.html", [
               [ "MobsConsoleModule", "classLDOE_1_1Features_1_1Mechanics_1_1Mobs_1_1Modules_1_1MobsConsoleModule.html", "classLDOE_1_1Features_1_1Mechanics_1_1Mobs_1_1Modules_1_1MobsConsoleModule" ]
@@ -1952,6 +1978,7 @@ var annotated_dup =
           [ "Scan", "namespaceLDOE_1_1Features_1_1Mechanics_1_1Scan.html", [
             [ "Components", "namespaceLDOE_1_1Features_1_1Mechanics_1_1Scan_1_1Components.html", [
               [ "Alliance", "structLDOE_1_1Features_1_1Mechanics_1_1Scan_1_1Components_1_1Alliance.html", "structLDOE_1_1Features_1_1Mechanics_1_1Scan_1_1Components_1_1Alliance" ],
+              [ "PathTargets", "structLDOE_1_1Features_1_1Mechanics_1_1Scan_1_1Components_1_1PathTargets.html", "structLDOE_1_1Features_1_1Mechanics_1_1Scan_1_1Components_1_1PathTargets" ],
               [ "ScanTargets", "structLDOE_1_1Features_1_1Mechanics_1_1Scan_1_1Components_1_1ScanTargets.html", "structLDOE_1_1Features_1_1Mechanics_1_1Scan_1_1Components_1_1ScanTargets" ]
             ] ],
             [ "Configs", "namespaceLDOE_1_1Features_1_1Mechanics_1_1Scan_1_1Configs.html", [
@@ -2160,6 +2187,9 @@ var annotated_dup =
               [ "RaidFeature", "classLDOE_1_1Features_1_1Mechanics_1_1Social_1_1Raid_1_1RaidFeature.html", "classLDOE_1_1Features_1_1Mechanics_1_1Social_1_1Raid_1_1RaidFeature" ]
             ] ]
           ] ],
+          [ "Sounds", "namespaceLDOE_1_1Features_1_1Mechanics_1_1Sounds.html", [
+            [ "CameraListenerAttenuator", "classLDOE_1_1Features_1_1Mechanics_1_1Sounds_1_1CameraListenerAttenuator.html", null ]
+          ] ],
           [ "Spawn", "namespaceLDOE_1_1Features_1_1Mechanics_1_1Spawn.html", [
             [ "Components", "namespaceLDOE_1_1Features_1_1Mechanics_1_1Spawn_1_1Components.html", [
               [ "SpawnDataComponent", "structLDOE_1_1Features_1_1Mechanics_1_1Spawn_1_1Components_1_1SpawnDataComponent.html", "structLDOE_1_1Features_1_1Mechanics_1_1Spawn_1_1Components_1_1SpawnDataComponent" ],
@@ -2174,6 +2204,7 @@ var annotated_dup =
               [ "TopAnimationConfig", "classLDOE_1_1Features_1_1Mechanics_1_1SpawnCharacters_1_1Utils_1_1TopAnimationConfig.html", null ]
             ] ],
             [ "Views", "namespaceLDOE_1_1Features_1_1Mechanics_1_1SpawnCharacters_1_1Views.html", [
+              [ "TaskTargetEntityPathVisualComponent", "classLDOE_1_1Features_1_1Mechanics_1_1SpawnCharacters_1_1Views_1_1TaskTargetEntityPathVisualComponent.html", "classLDOE_1_1Features_1_1Mechanics_1_1SpawnCharacters_1_1Views_1_1TaskTargetEntityPathVisualComponent" ],
               [ "TaskTargetEntitySelectionVisualComponent", "classLDOE_1_1Features_1_1Mechanics_1_1SpawnCharacters_1_1Views_1_1TaskTargetEntitySelectionVisualComponent.html", "classLDOE_1_1Features_1_1Mechanics_1_1SpawnCharacters_1_1Views_1_1TaskTargetEntitySelectionVisualComponent" ]
             ] ]
           ] ],
@@ -2230,6 +2261,13 @@ var annotated_dup =
                 [ "PlayPostForceCharacterAnimationFullBodyState", "classLDOE_1_1Features_1_1Mechanics_1_1StateMachine_1_1States_1_1Common_1_1PlayPostForceCharacterAnimationFullBodyState.html", "classLDOE_1_1Features_1_1Mechanics_1_1StateMachine_1_1States_1_1Common_1_1PlayPostForceCharacterAnimationFullBodyState" ],
                 [ "PlayPreForceCharacterAnimationFullBodyState", "classLDOE_1_1Features_1_1Mechanics_1_1StateMachine_1_1States_1_1Common_1_1PlayPreForceCharacterAnimationFullBodyState.html", "classLDOE_1_1Features_1_1Mechanics_1_1StateMachine_1_1States_1_1Common_1_1PlayPreForceCharacterAnimationFullBodyState" ]
               ] ],
+              [ "Dialog", "namespaceLDOE_1_1Features_1_1Mechanics_1_1StateMachine_1_1States_1_1Dialog.html", [
+                [ "CompleteQuestAction", "classLDOE_1_1Features_1_1Mechanics_1_1StateMachine_1_1States_1_1Dialog_1_1CompleteQuestAction.html", "classLDOE_1_1Features_1_1Mechanics_1_1StateMachine_1_1States_1_1Dialog_1_1CompleteQuestAction" ],
+                [ "DoMultiActionState", "classLDOE_1_1Features_1_1Mechanics_1_1StateMachine_1_1States_1_1Dialog_1_1DoMultiActionState.html", "classLDOE_1_1Features_1_1Mechanics_1_1StateMachine_1_1States_1_1Dialog_1_1DoMultiActionState" ],
+                [ "IDialogAnswerAction", "interfaceLDOE_1_1Features_1_1Mechanics_1_1StateMachine_1_1States_1_1Dialog_1_1IDialogAnswerAction.html", "interfaceLDOE_1_1Features_1_1Mechanics_1_1StateMachine_1_1States_1_1Dialog_1_1IDialogAnswerAction" ],
+                [ "LocationTaskSignalAction", "classLDOE_1_1Features_1_1Mechanics_1_1StateMachine_1_1States_1_1Dialog_1_1LocationTaskSignalAction.html", "classLDOE_1_1Features_1_1Mechanics_1_1StateMachine_1_1States_1_1Dialog_1_1LocationTaskSignalAction" ],
+                [ "StartQuestAction", "classLDOE_1_1Features_1_1Mechanics_1_1StateMachine_1_1States_1_1Dialog_1_1StartQuestAction.html", "classLDOE_1_1Features_1_1Mechanics_1_1StateMachine_1_1States_1_1Dialog_1_1StartQuestAction" ]
+              ] ],
               [ "FullBodyStates", "namespaceLDOE_1_1Features_1_1Mechanics_1_1StateMachine_1_1States_1_1FullBodyStates.html", [
                 [ "PlayDeadAnimationState", "classLDOE_1_1Features_1_1Mechanics_1_1StateMachine_1_1States_1_1FullBodyStates_1_1PlayDeadAnimationState.html", "classLDOE_1_1Features_1_1Mechanics_1_1StateMachine_1_1States_1_1FullBodyStates_1_1PlayDeadAnimationState" ],
                 [ "PlayRollAwayAnimationState", "classLDOE_1_1Features_1_1Mechanics_1_1StateMachine_1_1States_1_1FullBodyStates_1_1PlayRollAwayAnimationState.html", "classLDOE_1_1Features_1_1Mechanics_1_1StateMachine_1_1States_1_1FullBodyStates_1_1PlayRollAwayAnimationState" ]
@@ -2242,7 +2280,8 @@ var annotated_dup =
                 [ "InteractionThinkState", "classLDOE_1_1Features_1_1Mechanics_1_1StateMachine_1_1States_1_1Interaction_1_1InteractionThinkState.html", "classLDOE_1_1Features_1_1Mechanics_1_1StateMachine_1_1States_1_1Interaction_1_1InteractionThinkState" ],
                 [ "PlayPreInteractionAnimationState", "classLDOE_1_1Features_1_1Mechanics_1_1StateMachine_1_1States_1_1Interaction_1_1PlayPreInteractionAnimationState.html", "classLDOE_1_1Features_1_1Mechanics_1_1StateMachine_1_1States_1_1Interaction_1_1PlayPreInteractionAnimationState" ],
                 [ "RotateToInteractionTargetState", "classLDOE_1_1Features_1_1Mechanics_1_1StateMachine_1_1States_1_1Interaction_1_1RotateToInteractionTargetState.html", "classLDOE_1_1Features_1_1Mechanics_1_1StateMachine_1_1States_1_1Interaction_1_1RotateToInteractionTargetState" ],
-                [ "ShowInteractionErrorState", "classLDOE_1_1Features_1_1Mechanics_1_1StateMachine_1_1States_1_1Interaction_1_1ShowInteractionErrorState.html", "classLDOE_1_1Features_1_1Mechanics_1_1StateMachine_1_1States_1_1Interaction_1_1ShowInteractionErrorState" ]
+                [ "ShowInteractionErrorState", "classLDOE_1_1Features_1_1Mechanics_1_1StateMachine_1_1States_1_1Interaction_1_1ShowInteractionErrorState.html", "classLDOE_1_1Features_1_1Mechanics_1_1StateMachine_1_1States_1_1Interaction_1_1ShowInteractionErrorState" ],
+                [ "UnlockInteractionState", "classLDOE_1_1Features_1_1Mechanics_1_1StateMachine_1_1States_1_1Interaction_1_1UnlockInteractionState.html", "classLDOE_1_1Features_1_1Mechanics_1_1StateMachine_1_1States_1_1Interaction_1_1UnlockInteractionState" ]
               ] ],
               [ "Scriptable", "namespaceLDOE_1_1Features_1_1Mechanics_1_1StateMachine_1_1States_1_1Scriptable.html", [
                 [ "ComeToSpecificPointState", "classLDOE_1_1Features_1_1Mechanics_1_1StateMachine_1_1States_1_1Scriptable_1_1ComeToSpecificPointState.html", "classLDOE_1_1Features_1_1Mechanics_1_1StateMachine_1_1States_1_1Scriptable_1_1ComeToSpecificPointState" ]
@@ -2273,8 +2312,12 @@ var annotated_dup =
                 [ "TargetHealthCompareTrigger", "classLDOE_1_1Features_1_1Mechanics_1_1StateMachine_1_1Triggers_1_1Stats_1_1TargetHealthCompareTrigger.html", "classLDOE_1_1Features_1_1Mechanics_1_1StateMachine_1_1Triggers_1_1Stats_1_1TargetHealthCompareTrigger" ]
               ] ],
               [ "AttackTargetDeadTrigger", "classLDOE_1_1Features_1_1Mechanics_1_1StateMachine_1_1Triggers_1_1AttackTargetDeadTrigger.html", "classLDOE_1_1Features_1_1Mechanics_1_1StateMachine_1_1Triggers_1_1AttackTargetDeadTrigger" ],
+              [ "CheckDialogQuestCompletedTrigger", "classLDOE_1_1Features_1_1Mechanics_1_1StateMachine_1_1Triggers_1_1CheckDialogQuestCompletedTrigger.html", "classLDOE_1_1Features_1_1Mechanics_1_1StateMachine_1_1Triggers_1_1CheckDialogQuestCompletedTrigger" ],
+              [ "CheckQuestCompletedTrigger", "classLDOE_1_1Features_1_1Mechanics_1_1StateMachine_1_1Triggers_1_1CheckQuestCompletedTrigger.html", "classLDOE_1_1Features_1_1Mechanics_1_1StateMachine_1_1Triggers_1_1CheckQuestCompletedTrigger" ],
+              [ "CheckQuestTaskCompletedTrigger", "classLDOE_1_1Features_1_1Mechanics_1_1StateMachine_1_1Triggers_1_1CheckQuestTaskCompletedTrigger.html", "classLDOE_1_1Features_1_1Mechanics_1_1StateMachine_1_1Triggers_1_1CheckQuestTaskCompletedTrigger" ],
               [ "ClosestAttackTargetAliveTrigger", "classLDOE_1_1Features_1_1Mechanics_1_1StateMachine_1_1Triggers_1_1ClosestAttackTargetAliveTrigger.html", "classLDOE_1_1Features_1_1Mechanics_1_1StateMachine_1_1Triggers_1_1ClosestAttackTargetAliveTrigger" ],
               [ "ClosestTargetChangedTrigger", "classLDOE_1_1Features_1_1Mechanics_1_1StateMachine_1_1Triggers_1_1ClosestTargetChangedTrigger.html", "classLDOE_1_1Features_1_1Mechanics_1_1StateMachine_1_1Triggers_1_1ClosestTargetChangedTrigger" ],
+              [ "CompareDialogAnswerTrigger", "classLDOE_1_1Features_1_1Mechanics_1_1StateMachine_1_1Triggers_1_1CompareDialogAnswerTrigger.html", "classLDOE_1_1Features_1_1Mechanics_1_1StateMachine_1_1Triggers_1_1CompareDialogAnswerTrigger" ],
               [ "CompareVariableTrigger", "classLDOE_1_1Features_1_1Mechanics_1_1StateMachine_1_1Triggers_1_1CompareVariableTrigger.html", "classLDOE_1_1Features_1_1Mechanics_1_1StateMachine_1_1Triggers_1_1CompareVariableTrigger" ],
               [ "FarFromPatrolPoint", "classLDOE_1_1Features_1_1Mechanics_1_1StateMachine_1_1Triggers_1_1FarFromPatrolPoint.html", "classLDOE_1_1Features_1_1Mechanics_1_1StateMachine_1_1Triggers_1_1FarFromPatrolPoint" ],
               [ "Has_ClosestActorAttackTarget", "classLDOE_1_1Features_1_1Mechanics_1_1StateMachine_1_1Triggers_1_1Has__ClosestActorAttackTarget.html", null ],
@@ -2288,6 +2331,7 @@ var annotated_dup =
               [ "HasOneShot_PerformUseSkillRequest", "classLDOE_1_1Features_1_1Mechanics_1_1StateMachine_1_1Triggers_1_1HasOneShot__PerformUseSkillRequest.html", null ],
               [ "HasOneShot_ProcessUseSkillRequest", "classLDOE_1_1Features_1_1Mechanics_1_1StateMachine_1_1Triggers_1_1HasOneShot__ProcessUseSkillRequest.html", null ],
               [ "HasRangeAttackTrigger", "classLDOE_1_1Features_1_1Mechanics_1_1StateMachine_1_1Triggers_1_1HasRangeAttackTrigger.html", "classLDOE_1_1Features_1_1Mechanics_1_1StateMachine_1_1Triggers_1_1HasRangeAttackTrigger" ],
+              [ "InteractionTargetHasComponentTrigger", "classLDOE_1_1Features_1_1Mechanics_1_1StateMachine_1_1Triggers_1_1InteractionTargetHasComponentTrigger.html", "classLDOE_1_1Features_1_1Mechanics_1_1StateMachine_1_1Triggers_1_1InteractionTargetHasComponentTrigger" ],
               [ "IsDeadTrigger", "classLDOE_1_1Features_1_1Mechanics_1_1StateMachine_1_1Triggers_1_1IsDeadTrigger.html", "classLDOE_1_1Features_1_1Mechanics_1_1StateMachine_1_1Triggers_1_1IsDeadTrigger" ],
               [ "IsInteractableTarget", "classLDOE_1_1Features_1_1Mechanics_1_1StateMachine_1_1Triggers_1_1IsInteractableTarget.html", "classLDOE_1_1Features_1_1Mechanics_1_1StateMachine_1_1Triggers_1_1IsInteractableTarget" ],
               [ "IsNotActiveTrigger", "classLDOE_1_1Features_1_1Mechanics_1_1StateMachine_1_1Triggers_1_1IsNotActiveTrigger.html", "classLDOE_1_1Features_1_1Mechanics_1_1StateMachine_1_1Triggers_1_1IsNotActiveTrigger" ],
@@ -2318,11 +2362,20 @@ var annotated_dup =
           ] ],
           [ "Stats", "namespaceLDOE_1_1Features_1_1Mechanics_1_1Stats.html", [
             [ "Components", "namespaceLDOE_1_1Features_1_1Mechanics_1_1Stats_1_1Components.html", [
+              [ "DefenseComponent", "structLDOE_1_1Features_1_1Mechanics_1_1Stats_1_1Components_1_1DefenseComponent.html", "structLDOE_1_1Features_1_1Mechanics_1_1Stats_1_1Components_1_1DefenseComponent" ],
+              [ "DefenseInitialization", "structLDOE_1_1Features_1_1Mechanics_1_1Stats_1_1Components_1_1DefenseInitialization.html", "structLDOE_1_1Features_1_1Mechanics_1_1Stats_1_1Components_1_1DefenseInitialization" ],
               [ "ExperienceKillRewardMultiplierComponent", "structLDOE_1_1Features_1_1Mechanics_1_1Stats_1_1Components_1_1ExperienceKillRewardMultiplierComponent.html", "structLDOE_1_1Features_1_1Mechanics_1_1Stats_1_1Components_1_1ExperienceKillRewardMultiplierComponent" ],
               [ "ExperienceKillRewardMultiplierInitialization", "structLDOE_1_1Features_1_1Mechanics_1_1Stats_1_1Components_1_1ExperienceKillRewardMultiplierInitialization.html", "structLDOE_1_1Features_1_1Mechanics_1_1Stats_1_1Components_1_1ExperienceKillRewardMultiplierInitialization" ],
               [ "ExperienceLootRewardMultiplierComponent", "structLDOE_1_1Features_1_1Mechanics_1_1Stats_1_1Components_1_1ExperienceLootRewardMultiplierComponent.html", "structLDOE_1_1Features_1_1Mechanics_1_1Stats_1_1Components_1_1ExperienceLootRewardMultiplierComponent" ],
               [ "ExperienceLootRewardMultiplierInitialization", "structLDOE_1_1Features_1_1Mechanics_1_1Stats_1_1Components_1_1ExperienceLootRewardMultiplierInitialization.html", "structLDOE_1_1Features_1_1Mechanics_1_1Stats_1_1Components_1_1ExperienceLootRewardMultiplierInitialization" ],
-              [ "StatsInitialization", "structLDOE_1_1Features_1_1Mechanics_1_1Stats_1_1Components_1_1StatsInitialization.html", "structLDOE_1_1Features_1_1Mechanics_1_1Stats_1_1Components_1_1StatsInitialization" ]
+              [ "IComponentStat", "interfaceLDOE_1_1Features_1_1Mechanics_1_1Stats_1_1Components_1_1IComponentStat.html", "interfaceLDOE_1_1Features_1_1Mechanics_1_1Stats_1_1Components_1_1IComponentStat" ],
+              [ "MovementSpeedComponent", "structLDOE_1_1Features_1_1Mechanics_1_1Stats_1_1Components_1_1MovementSpeedComponent.html", "structLDOE_1_1Features_1_1Mechanics_1_1Stats_1_1Components_1_1MovementSpeedComponent" ],
+              [ "MovementSpeedInitialization", "structLDOE_1_1Features_1_1Mechanics_1_1Stats_1_1Components_1_1MovementSpeedInitialization.html", "structLDOE_1_1Features_1_1Mechanics_1_1Stats_1_1Components_1_1MovementSpeedInitialization" ],
+              [ "RotationSpeedComponent", "structLDOE_1_1Features_1_1Mechanics_1_1Stats_1_1Components_1_1RotationSpeedComponent.html", "structLDOE_1_1Features_1_1Mechanics_1_1Stats_1_1Components_1_1RotationSpeedComponent" ],
+              [ "RotationSpeedInitialization", "structLDOE_1_1Features_1_1Mechanics_1_1Stats_1_1Components_1_1RotationSpeedInitialization.html", "structLDOE_1_1Features_1_1Mechanics_1_1Stats_1_1Components_1_1RotationSpeedInitialization" ],
+              [ "StatsInitialization", "structLDOE_1_1Features_1_1Mechanics_1_1Stats_1_1Components_1_1StatsInitialization.html", "structLDOE_1_1Features_1_1Mechanics_1_1Stats_1_1Components_1_1StatsInitialization" ],
+              [ "WeightCapacityComponent", "structLDOE_1_1Features_1_1Mechanics_1_1Stats_1_1Components_1_1WeightCapacityComponent.html", "structLDOE_1_1Features_1_1Mechanics_1_1Stats_1_1Components_1_1WeightCapacityComponent" ],
+              [ "WeightCapacityInitialization", "structLDOE_1_1Features_1_1Mechanics_1_1Stats_1_1Components_1_1WeightCapacityInitialization.html", "structLDOE_1_1Features_1_1Mechanics_1_1Stats_1_1Components_1_1WeightCapacityInitialization" ]
             ] ],
             [ "Utils", "namespaceLDOE_1_1Features_1_1Mechanics_1_1Stats_1_1Utils.html", [
               [ "DefenseUtils", "classLDOE_1_1Features_1_1Mechanics_1_1Stats_1_1Utils_1_1DefenseUtils.html", "classLDOE_1_1Features_1_1Mechanics_1_1Stats_1_1Utils_1_1DefenseUtils" ],
@@ -2611,6 +2664,10 @@ var annotated_dup =
         [ "Aspects", "namespaceLDOE_1_1Meta_1_1Aspects.html", [
           [ "AspectsManager", "classLDOE_1_1Meta_1_1Aspects_1_1AspectsManager.html", "classLDOE_1_1Meta_1_1Aspects_1_1AspectsManager" ]
         ] ],
+        [ "Audio", "namespaceLDOE_1_1Meta_1_1Audio.html", [
+          [ "AudioManager", "classLDOE_1_1Meta_1_1Audio_1_1AudioManager.html", "classLDOE_1_1Meta_1_1Audio_1_1AudioManager" ],
+          [ "AudioUtils", "classLDOE_1_1Meta_1_1Audio_1_1AudioUtils.html", "classLDOE_1_1Meta_1_1Audio_1_1AudioUtils" ]
+        ] ],
         [ "Chat", "namespaceLDOE_1_1Meta_1_1Chat.html", [
           [ "ChannelId", "structLDOE_1_1Meta_1_1Chat_1_1ChannelId.html", "structLDOE_1_1Meta_1_1Chat_1_1ChannelId" ],
           [ "ChatChannel", "structLDOE_1_1Meta_1_1Chat_1_1ChatChannel.html", "structLDOE_1_1Meta_1_1Chat_1_1ChatChannel" ],
@@ -2730,6 +2787,7 @@ var annotated_dup =
             [ "PlayerView", "classLDOE_1_1Meta_1_1GlobalMap_1_1Players_1_1PlayerView.html", "classLDOE_1_1Meta_1_1GlobalMap_1_1Players_1_1PlayerView" ]
           ] ],
           [ "Utils", "namespaceLDOE_1_1Meta_1_1GlobalMap_1_1Utils.html", [
+            [ "AvailabilityCheckUtils", "classLDOE_1_1Meta_1_1GlobalMap_1_1Utils_1_1AvailabilityCheckUtils.html", "classLDOE_1_1Meta_1_1GlobalMap_1_1Utils_1_1AvailabilityCheckUtils" ],
             [ "EventLocationPointPrototypeDtoUtility", "classLDOE_1_1Meta_1_1GlobalMap_1_1Utils_1_1EventLocationPointPrototypeDtoUtility.html", "classLDOE_1_1Meta_1_1GlobalMap_1_1Utils_1_1EventLocationPointPrototypeDtoUtility" ],
             [ "PathDtoUtility", "classLDOE_1_1Meta_1_1GlobalMap_1_1Utils_1_1PathDtoUtility.html", "classLDOE_1_1Meta_1_1GlobalMap_1_1Utils_1_1PathDtoUtility" ],
             [ "StartedPathDtoUtility", "classLDOE_1_1Meta_1_1GlobalMap_1_1Utils_1_1StartedPathDtoUtility.html", "classLDOE_1_1Meta_1_1GlobalMap_1_1Utils_1_1StartedPathDtoUtility" ]
@@ -2742,9 +2800,14 @@ var annotated_dup =
           [ "GlobalMapRaycastController", "classLDOE_1_1Meta_1_1GlobalMap_1_1GlobalMapRaycastController.html", "classLDOE_1_1Meta_1_1GlobalMap_1_1GlobalMapRaycastController" ],
           [ "VectorsUtility", "classLDOE_1_1Meta_1_1GlobalMap_1_1VectorsUtility.html", "classLDOE_1_1Meta_1_1GlobalMap_1_1VectorsUtility" ]
         ] ],
+        [ "GraphicsQuality", "namespaceLDOE_1_1Meta_1_1GraphicsQuality.html", [
+          [ "GraphicsQualityManager", "classLDOE_1_1Meta_1_1GraphicsQuality_1_1GraphicsQualityManager.html", "classLDOE_1_1Meta_1_1GraphicsQuality_1_1GraphicsQualityManager" ],
+          [ "GraphicsQualityUtils", "classLDOE_1_1Meta_1_1GraphicsQuality_1_1GraphicsQualityUtils.html", "classLDOE_1_1Meta_1_1GraphicsQuality_1_1GraphicsQualityUtils" ]
+        ] ],
         [ "Localization", "namespaceLDOE_1_1Meta_1_1Localization.html", [
           [ "LocalizationManager", "classLDOE_1_1Meta_1_1Localization_1_1LocalizationManager.html", "classLDOE_1_1Meta_1_1Localization_1_1LocalizationManager" ],
-          [ "LocalizationMeta", "classLDOE_1_1Meta_1_1Localization_1_1LocalizationMeta.html", "classLDOE_1_1Meta_1_1Localization_1_1LocalizationMeta" ]
+          [ "LocalizationMeta", "classLDOE_1_1Meta_1_1Localization_1_1LocalizationMeta.html", "classLDOE_1_1Meta_1_1Localization_1_1LocalizationMeta" ],
+          [ "LocalizationUtils", "classLDOE_1_1Meta_1_1Localization_1_1LocalizationUtils.html", "classLDOE_1_1Meta_1_1Localization_1_1LocalizationUtils" ]
         ] ],
         [ "Parties", "namespaceLDOE_1_1Meta_1_1Parties.html", [
           [ "Interfaces", "namespaceLDOE_1_1Meta_1_1Parties_1_1Interfaces.html", [
@@ -2770,7 +2833,11 @@ var annotated_dup =
               [ "AchievementsGroup", "classLDOE_1_1Meta_1_1Quests_1_1Implementations_1_1Achievements_1_1AchievementsGroup.html", "classLDOE_1_1Meta_1_1Quests_1_1Implementations_1_1Achievements_1_1AchievementsGroup" ],
               [ "AchievementsQuestsCategory", "classLDOE_1_1Meta_1_1Quests_1_1Implementations_1_1Achievements_1_1AchievementsQuestsCategory.html", "classLDOE_1_1Meta_1_1Quests_1_1Implementations_1_1Achievements_1_1AchievementsQuestsCategory" ]
             ] ],
+            [ "Dialogs", "namespaceLDOE_1_1Meta_1_1Quests_1_1Implementations_1_1Dialogs.html", [
+              [ "DialogQuest", "classLDOE_1_1Meta_1_1Quests_1_1Implementations_1_1Dialogs_1_1DialogQuest.html", "classLDOE_1_1Meta_1_1Quests_1_1Implementations_1_1Dialogs_1_1DialogQuest" ]
+            ] ],
             [ "AchievementQuestsProvider", "classLDOE_1_1Meta_1_1Quests_1_1Implementations_1_1AchievementQuestsProvider.html", "classLDOE_1_1Meta_1_1Quests_1_1Implementations_1_1AchievementQuestsProvider" ],
+            [ "DialogQuestsProvider", "classLDOE_1_1Meta_1_1Quests_1_1Implementations_1_1DialogQuestsProvider.html", "classLDOE_1_1Meta_1_1Quests_1_1Implementations_1_1DialogQuestsProvider" ],
             [ "Quest", "classLDOE_1_1Meta_1_1Quests_1_1Implementations_1_1Quest.html", "classLDOE_1_1Meta_1_1Quests_1_1Implementations_1_1Quest" ],
             [ "QuestBuilder", "classLDOE_1_1Meta_1_1Quests_1_1Implementations_1_1QuestBuilder.html", "classLDOE_1_1Meta_1_1Quests_1_1Implementations_1_1QuestBuilder" ],
             [ "QuestsProvider", "classLDOE_1_1Meta_1_1Quests_1_1Implementations_1_1QuestsProvider.html", "classLDOE_1_1Meta_1_1Quests_1_1Implementations_1_1QuestsProvider" ]
@@ -2782,6 +2849,7 @@ var annotated_dup =
             [ "QuestTaskProgressModel", "classLDOE_1_1Meta_1_1Quests_1_1Model_1_1QuestTaskProgressModel.html", "classLDOE_1_1Meta_1_1Quests_1_1Model_1_1QuestTaskProgressModel" ]
           ] ],
           [ "AchievementsManager", "classLDOE_1_1Meta_1_1Quests_1_1AchievementsManager.html", "classLDOE_1_1Meta_1_1Quests_1_1AchievementsManager" ],
+          [ "DialogQuestsManager", "classLDOE_1_1Meta_1_1Quests_1_1DialogQuestsManager.html", "classLDOE_1_1Meta_1_1Quests_1_1DialogQuestsManager" ],
           [ "QuestCategoryMeta", "classLDOE_1_1Meta_1_1Quests_1_1QuestCategoryMeta.html", "classLDOE_1_1Meta_1_1Quests_1_1QuestCategoryMeta" ],
           [ "QuestManager", "classLDOE_1_1Meta_1_1Quests_1_1QuestManager.html", "classLDOE_1_1Meta_1_1Quests_1_1QuestManager" ],
           [ "QuestsMetaConfig", "classLDOE_1_1Meta_1_1Quests_1_1QuestsMetaConfig.html", "classLDOE_1_1Meta_1_1Quests_1_1QuestsMetaConfig" ]
@@ -2827,7 +2895,9 @@ var annotated_dup =
             [ "StoreManagerBuilder", "classLDOE_1_1Meta_1_1Store_1_1Builder_1_1StoreManagerBuilder.html", "classLDOE_1_1Meta_1_1Store_1_1Builder_1_1StoreManagerBuilder" ]
           ] ],
           [ "Configs", "namespaceLDOE_1_1Meta_1_1Store_1_1Configs.html", [
-            [ "StoreProductViewConfig", "structLDOE_1_1Meta_1_1Store_1_1Configs_1_1StoreProductViewConfig.html", "structLDOE_1_1Meta_1_1Store_1_1Configs_1_1StoreProductViewConfig" ],
+            [ "StoreProductViewConfigBase", "classLDOE_1_1Meta_1_1Store_1_1Configs_1_1StoreProductViewConfigBase.html", "classLDOE_1_1Meta_1_1Store_1_1Configs_1_1StoreProductViewConfigBase" ],
+            [ "StoreProductViewConfigById", "classLDOE_1_1Meta_1_1Store_1_1Configs_1_1StoreProductViewConfigById.html", "classLDOE_1_1Meta_1_1Store_1_1Configs_1_1StoreProductViewConfigById" ],
+            [ "StoreProductViewConfigBySize", "classLDOE_1_1Meta_1_1Store_1_1Configs_1_1StoreProductViewConfigBySize.html", "classLDOE_1_1Meta_1_1Store_1_1Configs_1_1StoreProductViewConfigBySize" ],
             [ "StoreProductViewConfigsHolder", "classLDOE_1_1Meta_1_1Store_1_1Configs_1_1StoreProductViewConfigsHolder.html", "classLDOE_1_1Meta_1_1Store_1_1Configs_1_1StoreProductViewConfigsHolder" ]
           ] ],
           [ "InAppPurchases", "namespaceLDOE_1_1Meta_1_1Store_1_1InAppPurchases.html", [
@@ -2869,6 +2939,10 @@ var annotated_dup =
           [ "LDOEContext", "structLDOE_1_1Meta_1_1Tutorial_1_1LDOEContext.html", "structLDOE_1_1Meta_1_1Tutorial_1_1LDOEContext" ],
           [ "LDOETutorialData", "classLDOE_1_1Meta_1_1Tutorial_1_1LDOETutorialData.html", "classLDOE_1_1Meta_1_1Tutorial_1_1LDOETutorialData" ],
           [ "LDOETutorialSystem", "classLDOE_1_1Meta_1_1Tutorial_1_1LDOETutorialSystem.html", "classLDOE_1_1Meta_1_1Tutorial_1_1LDOETutorialSystem" ],
+          [ "QuestCondition", "classLDOE_1_1Meta_1_1Tutorial_1_1QuestCondition.html", "classLDOE_1_1Meta_1_1Tutorial_1_1QuestCondition" ],
+          [ "QuestConditionBase", "classLDOE_1_1Meta_1_1Tutorial_1_1QuestConditionBase.html", "classLDOE_1_1Meta_1_1Tutorial_1_1QuestConditionBase" ],
+          [ "QuestConditionContext", "structLDOE_1_1Meta_1_1Tutorial_1_1QuestConditionContext.html", "structLDOE_1_1Meta_1_1Tutorial_1_1QuestConditionContext" ],
+          [ "QuestTaskCondition", "classLDOE_1_1Meta_1_1Tutorial_1_1QuestTaskCondition.html", "classLDOE_1_1Meta_1_1Tutorial_1_1QuestTaskCondition" ],
           [ "TutorialManager", "classLDOE_1_1Meta_1_1Tutorial_1_1TutorialManager.html", "classLDOE_1_1Meta_1_1Tutorial_1_1TutorialManager" ]
         ] ]
       ] ],
@@ -2891,11 +2965,13 @@ var annotated_dup =
         ] ],
         [ "Serializer", "namespaceLDOE_1_1Modules_1_1Serializer.html", [
           [ "LayerMaskSerializer", "classLDOE_1_1Modules_1_1Serializer_1_1LayerMaskSerializer.html", "classLDOE_1_1Modules_1_1Serializer_1_1LayerMaskSerializer" ],
+          [ "MissingMonoBehaviourRegistrationException", "classLDOE_1_1Modules_1_1Serializer_1_1MissingMonoBehaviourRegistrationException.html", "classLDOE_1_1Modules_1_1Serializer_1_1MissingMonoBehaviourRegistrationException" ],
           [ "MissingScriptableObjectRegistrationException", "classLDOE_1_1Modules_1_1Serializer_1_1MissingScriptableObjectRegistrationException.html", "classLDOE_1_1Modules_1_1Serializer_1_1MissingScriptableObjectRegistrationException" ],
           [ "ModifiableValueInRangeSerializer", "classLDOE_1_1Modules_1_1Serializer_1_1ModifiableValueInRangeSerializer.html", "classLDOE_1_1Modules_1_1Serializer_1_1ModifiableValueInRangeSerializer" ],
           [ "ModifiableValueSerializer", "classLDOE_1_1Modules_1_1Serializer_1_1ModifiableValueSerializer.html", "classLDOE_1_1Modules_1_1Serializer_1_1ModifiableValueSerializer" ],
           [ "ModifiableValueWithLimitSerializer", "classLDOE_1_1Modules_1_1Serializer_1_1ModifiableValueWithLimitSerializer.html", "classLDOE_1_1Modules_1_1Serializer_1_1ModifiableValueWithLimitSerializer" ],
           [ "ModifiableValueWithRangeLimitSerializer", "classLDOE_1_1Modules_1_1Serializer_1_1ModifiableValueWithRangeLimitSerializer.html", "classLDOE_1_1Modules_1_1Serializer_1_1ModifiableValueWithRangeLimitSerializer" ],
+          [ "MonoBehaviourSerializer", "classLDOE_1_1Modules_1_1Serializer_1_1MonoBehaviourSerializer.html", "classLDOE_1_1Modules_1_1Serializer_1_1MonoBehaviourSerializer" ],
           [ "NativeArrayContainerSerializer", "classLDOE_1_1Modules_1_1Serializer_1_1NativeArrayContainerSerializer.html", "classLDOE_1_1Modules_1_1Serializer_1_1NativeArrayContainerSerializer" ],
           [ "NativeListContainerSerializer", "classLDOE_1_1Modules_1_1Serializer_1_1NativeListContainerSerializer.html", "classLDOE_1_1Modules_1_1Serializer_1_1NativeListContainerSerializer" ],
           [ "ScriptableObjectSerializer", "classLDOE_1_1Modules_1_1Serializer_1_1ScriptableObjectSerializer.html", "classLDOE_1_1Modules_1_1Serializer_1_1ScriptableObjectSerializer" ],
@@ -3195,6 +3271,8 @@ var annotated_dup =
           [ "Editor", "namespaceLDOE_1_1Shared_1_1Storage_1_1Editor.html", [
             [ "ScriptableObjectStorageGenerator", "classLDOE_1_1Shared_1_1Storage_1_1Editor_1_1ScriptableObjectStorageGenerator.html", "classLDOE_1_1Shared_1_1Storage_1_1Editor_1_1ScriptableObjectStorageGenerator" ]
           ] ],
+          [ "MonoBehaviourStorage", "classLDOE_1_1Shared_1_1Storage_1_1MonoBehaviourStorage.html", "classLDOE_1_1Shared_1_1Storage_1_1MonoBehaviourStorage" ],
+          [ "MonoBehaviourStorageManager", "classLDOE_1_1Shared_1_1Storage_1_1MonoBehaviourStorageManager.html", "classLDOE_1_1Shared_1_1Storage_1_1MonoBehaviourStorageManager" ],
           [ "ScriptableObjectStorage", "classLDOE_1_1Shared_1_1Storage_1_1ScriptableObjectStorage.html", "classLDOE_1_1Shared_1_1Storage_1_1ScriptableObjectStorage" ],
           [ "ScriptableObjectStorageManager", "classLDOE_1_1Shared_1_1Storage_1_1ScriptableObjectStorageManager.html", "classLDOE_1_1Shared_1_1Storage_1_1ScriptableObjectStorageManager" ]
         ] ],
@@ -3422,12 +3500,31 @@ var annotated_dup =
         [ "Tutorial", "namespaceLDOE_1_1UI_1_1Tutorial.html", [
           [ "Scripts", "namespaceLDOE_1_1UI_1_1Tutorial_1_1Scripts.html", [
             [ "Actions", "namespaceLDOE_1_1UI_1_1Tutorial_1_1Scripts_1_1Actions.html", [
+              [ "HighlightRestrictions", "namespaceLDOE_1_1UI_1_1Tutorial_1_1Scripts_1_1Actions_1_1HighlightRestrictions.html", [
+                [ "EnemyNearRestriction", "classLDOE_1_1UI_1_1Tutorial_1_1Scripts_1_1Actions_1_1HighlightRestrictions_1_1EnemyNearRestriction.html", "classLDOE_1_1UI_1_1Tutorial_1_1Scripts_1_1Actions_1_1HighlightRestrictions_1_1EnemyNearRestriction" ],
+                [ "IHighlightRestriction", "interfaceLDOE_1_1UI_1_1Tutorial_1_1Scripts_1_1Actions_1_1HighlightRestrictions_1_1IHighlightRestriction.html", "interfaceLDOE_1_1UI_1_1Tutorial_1_1Scripts_1_1Actions_1_1HighlightRestrictions_1_1IHighlightRestriction" ],
+                [ "InteractableNearRestriction", "classLDOE_1_1UI_1_1Tutorial_1_1Scripts_1_1Actions_1_1HighlightRestrictions_1_1InteractableNearRestriction.html", "classLDOE_1_1UI_1_1Tutorial_1_1Scripts_1_1Actions_1_1HighlightRestrictions_1_1InteractableNearRestriction" ]
+              ] ],
+              [ "ChangeButtonInteractionStatus", "structLDOE_1_1UI_1_1Tutorial_1_1Scripts_1_1Actions_1_1ChangeButtonInteractionStatus.html", "structLDOE_1_1UI_1_1Tutorial_1_1Scripts_1_1Actions_1_1ChangeButtonInteractionStatus" ],
+              [ "ClearPlayerInteractions", "structLDOE_1_1UI_1_1Tutorial_1_1Scripts_1_1Actions_1_1ClearPlayerInteractions.html", "structLDOE_1_1UI_1_1Tutorial_1_1Scripts_1_1Actions_1_1ClearPlayerInteractions" ],
               [ "DisposeTutorial", "classLDOE_1_1UI_1_1Tutorial_1_1Scripts_1_1Actions_1_1DisposeTutorial.html", "classLDOE_1_1UI_1_1Tutorial_1_1Scripts_1_1Actions_1_1DisposeTutorial" ],
-              [ "LogCurrentStep", "classLDOE_1_1UI_1_1Tutorial_1_1Scripts_1_1Actions_1_1LogCurrentStep.html", "classLDOE_1_1UI_1_1Tutorial_1_1Scripts_1_1Actions_1_1LogCurrentStep" ]
+              [ "EnableInventory", "structLDOE_1_1UI_1_1Tutorial_1_1Scripts_1_1Actions_1_1EnableInventory.html", "structLDOE_1_1UI_1_1Tutorial_1_1Scripts_1_1Actions_1_1EnableInventory" ],
+              [ "LogCurrentStep", "classLDOE_1_1UI_1_1Tutorial_1_1Scripts_1_1Actions_1_1LogCurrentStep.html", "classLDOE_1_1UI_1_1Tutorial_1_1Scripts_1_1Actions_1_1LogCurrentStep" ],
+              [ "TryCompleteQuests", "structLDOE_1_1UI_1_1Tutorial_1_1Scripts_1_1Actions_1_1TryCompleteQuests.html", "structLDOE_1_1UI_1_1Tutorial_1_1Scripts_1_1Actions_1_1TryCompleteQuests" ],
+              [ "TryCompleteQuestTasks", "structLDOE_1_1UI_1_1Tutorial_1_1Scripts_1_1Actions_1_1TryCompleteQuestTasks.html", "structLDOE_1_1UI_1_1Tutorial_1_1Scripts_1_1Actions_1_1TryCompleteQuestTasks" ],
+              [ "WaitGlobalMapMovingStateChanged", "structLDOE_1_1UI_1_1Tutorial_1_1Scripts_1_1Actions_1_1WaitGlobalMapMovingStateChanged.html", "structLDOE_1_1UI_1_1Tutorial_1_1Scripts_1_1Actions_1_1WaitGlobalMapMovingStateChanged" ],
+              [ "WaitInput", "structLDOE_1_1UI_1_1Tutorial_1_1Scripts_1_1Actions_1_1WaitInput.html", "structLDOE_1_1UI_1_1Tutorial_1_1Scripts_1_1Actions_1_1WaitInput" ],
+              [ "WaitLocationChanged", "structLDOE_1_1UI_1_1Tutorial_1_1Scripts_1_1Actions_1_1WaitLocationChanged.html", "structLDOE_1_1UI_1_1Tutorial_1_1Scripts_1_1Actions_1_1WaitLocationChanged" ]
             ] ],
             [ "Conditions", "namespaceLDOE_1_1UI_1_1Tutorial_1_1Scripts_1_1Conditions.html", [
+              [ "OnPointGlobalMap", "structLDOE_1_1UI_1_1Tutorial_1_1Scripts_1_1Conditions_1_1OnPointGlobalMap.html", "structLDOE_1_1UI_1_1Tutorial_1_1Scripts_1_1Conditions_1_1OnPointGlobalMap" ],
               [ "TutorialLocalProgress", "structLDOE_1_1UI_1_1Tutorial_1_1Scripts_1_1Conditions_1_1TutorialLocalProgress.html", "structLDOE_1_1UI_1_1Tutorial_1_1Scripts_1_1Conditions_1_1TutorialLocalProgress" ],
-              [ "WaitManualLaunch", "structLDOE_1_1UI_1_1Tutorial_1_1Scripts_1_1Conditions_1_1WaitManualLaunch.html", "structLDOE_1_1UI_1_1Tutorial_1_1Scripts_1_1Conditions_1_1WaitManualLaunch" ]
+              [ "TutorialMultipleTasksCompleted", "structLDOE_1_1UI_1_1Tutorial_1_1Scripts_1_1Conditions_1_1TutorialMultipleTasksCompleted.html", "structLDOE_1_1UI_1_1Tutorial_1_1Scripts_1_1Conditions_1_1TutorialMultipleTasksCompleted" ],
+              [ "TutorialPlayerHasItem", "structLDOE_1_1UI_1_1Tutorial_1_1Scripts_1_1Conditions_1_1TutorialPlayerHasItem.html", "structLDOE_1_1UI_1_1Tutorial_1_1Scripts_1_1Conditions_1_1TutorialPlayerHasItem" ],
+              [ "TutorialQuestTaskCompleted", "structLDOE_1_1UI_1_1Tutorial_1_1Scripts_1_1Conditions_1_1TutorialQuestTaskCompleted.html", "structLDOE_1_1UI_1_1Tutorial_1_1Scripts_1_1Conditions_1_1TutorialQuestTaskCompleted" ],
+              [ "TutorialQuestUnlocked", "structLDOE_1_1UI_1_1Tutorial_1_1Scripts_1_1Conditions_1_1TutorialQuestUnlocked.html", "structLDOE_1_1UI_1_1Tutorial_1_1Scripts_1_1Conditions_1_1TutorialQuestUnlocked" ],
+              [ "WaitManualLaunch", "classLDOE_1_1UI_1_1Tutorial_1_1Scripts_1_1Conditions_1_1WaitManualLaunch.html", "classLDOE_1_1UI_1_1Tutorial_1_1Scripts_1_1Conditions_1_1WaitManualLaunch" ],
+              [ "WaitManualOrQuestLaunch", "classLDOE_1_1UI_1_1Tutorial_1_1Scripts_1_1Conditions_1_1WaitManualOrQuestLaunch.html", "classLDOE_1_1UI_1_1Tutorial_1_1Scripts_1_1Conditions_1_1WaitManualOrQuestLaunch" ]
             ] ],
             [ "AddPlayerAspectsPoints", "structLDOE_1_1UI_1_1Tutorial_1_1Scripts_1_1AddPlayerAspectsPoints.html", "structLDOE_1_1UI_1_1Tutorial_1_1Scripts_1_1AddPlayerAspectsPoints" ],
             [ "BlockLocationExit", "structLDOE_1_1UI_1_1Tutorial_1_1Scripts_1_1BlockLocationExit.html", "structLDOE_1_1UI_1_1Tutorial_1_1Scripts_1_1BlockLocationExit" ],
@@ -3479,10 +3576,10 @@ var annotated_dup =
         ] ],
         [ "Utils", "namespaceLDOE_1_1UI_1_1Utils.html", [
           [ "LoaderScreenEventListener", "classLDOE_1_1UI_1_1Utils_1_1LoaderScreenEventListener.html", "classLDOE_1_1UI_1_1Utils_1_1LoaderScreenEventListener" ],
-          [ "LocalizationUtils", "classLDOE_1_1UI_1_1Utils_1_1LocalizationUtils.html", "classLDOE_1_1UI_1_1Utils_1_1LocalizationUtils" ],
+          [ "LocalizationUiUtils", "classLDOE_1_1UI_1_1Utils_1_1LocalizationUiUtils.html", "classLDOE_1_1UI_1_1Utils_1_1LocalizationUiUtils" ],
           [ "PlayerStatsUtils", "classLDOE_1_1UI_1_1Utils_1_1PlayerStatsUtils.html", "classLDOE_1_1UI_1_1Utils_1_1PlayerStatsUtils" ],
           [ "QuestsUiEventListener", "classLDOE_1_1UI_1_1Utils_1_1QuestsUiEventListener.html", "classLDOE_1_1UI_1_1Utils_1_1QuestsUiEventListener" ],
-          [ "TutorialUIUtils", "classLDOE_1_1UI_1_1Utils_1_1TutorialUIUtils.html", "classLDOE_1_1UI_1_1Utils_1_1TutorialUIUtils" ],
+          [ "TutorialUtils", "classLDOE_1_1UI_1_1Utils_1_1TutorialUtils.html", "classLDOE_1_1UI_1_1Utils_1_1TutorialUtils" ],
           [ "WindowUtils", "classLDOE_1_1UI_1_1Utils_1_1WindowUtils.html", "classLDOE_1_1UI_1_1Utils_1_1WindowUtils" ]
         ] ],
         [ "Windows", "namespaceLDOE_1_1UI_1_1Windows.html", [
@@ -3570,22 +3667,29 @@ var annotated_dup =
             [ "AspectItemNextBonusComponent", "classLDOE_1_1UI_1_1Windows_1_1Components_1_1AspectItemNextBonusComponent.html", "classLDOE_1_1UI_1_1Windows_1_1Components_1_1AspectItemNextBonusComponent" ],
             [ "AspectItemStatComponent", "classLDOE_1_1UI_1_1Windows_1_1Components_1_1AspectItemStatComponent.html", "classLDOE_1_1UI_1_1Windows_1_1Components_1_1AspectItemStatComponent" ],
             [ "AspectsPanelComponent", "classLDOE_1_1UI_1_1Windows_1_1Components_1_1AspectsPanelComponent.html", "classLDOE_1_1UI_1_1Windows_1_1Components_1_1AspectsPanelComponent" ],
+            [ "GraphicsQualityButtonComponent", "classLDOE_1_1UI_1_1Windows_1_1Components_1_1GraphicsQualityButtonComponent.html", "classLDOE_1_1UI_1_1Windows_1_1Components_1_1GraphicsQualityButtonComponent" ],
             [ "GunsmithBenchPanelComponent", "classLDOE_1_1UI_1_1Windows_1_1Components_1_1GunsmithBenchPanelComponent.html", "classLDOE_1_1UI_1_1Windows_1_1Components_1_1GunsmithBenchPanelComponent" ],
             [ "GunsmithInventoryPanelComponent", "classLDOE_1_1UI_1_1Windows_1_1Components_1_1GunsmithInventoryPanelComponent.html", "classLDOE_1_1UI_1_1Windows_1_1Components_1_1GunsmithInventoryPanelComponent" ],
             [ "GunsmithItemPanelComponent", "classLDOE_1_1UI_1_1Windows_1_1Components_1_1GunsmithItemPanelComponent.html", "classLDOE_1_1UI_1_1Windows_1_1Components_1_1GunsmithItemPanelComponent" ],
             [ "GunsmithMenuComponent", "classLDOE_1_1UI_1_1Windows_1_1Components_1_1GunsmithMenuComponent.html", "classLDOE_1_1UI_1_1Windows_1_1Components_1_1GunsmithMenuComponent" ],
             [ "GunsmithMenuItemComponent", "classLDOE_1_1UI_1_1Windows_1_1Components_1_1GunsmithMenuItemComponent.html", "classLDOE_1_1UI_1_1Windows_1_1Components_1_1GunsmithMenuItemComponent" ],
+            [ "LanguageButtonComponent", "classLDOE_1_1UI_1_1Windows_1_1Components_1_1LanguageButtonComponent.html", "classLDOE_1_1UI_1_1Windows_1_1Components_1_1LanguageButtonComponent" ],
             [ "LootInventoryPanelComponent", "classLDOE_1_1UI_1_1Windows_1_1Components_1_1LootInventoryPanelComponent.html", "classLDOE_1_1UI_1_1Windows_1_1Components_1_1LootInventoryPanelComponent" ],
             [ "ModificationCraftWindowComponent", "classLDOE_1_1UI_1_1Windows_1_1Components_1_1ModificationCraftWindowComponent.html", "classLDOE_1_1UI_1_1Windows_1_1Components_1_1ModificationCraftWindowComponent" ],
             [ "ModificationRecipeCraftPanelComponent", "classLDOE_1_1UI_1_1Windows_1_1Components_1_1ModificationRecipeCraftPanelComponent.html", "classLDOE_1_1UI_1_1Windows_1_1Components_1_1ModificationRecipeCraftPanelComponent" ],
             [ "ModificationRecipeItemComponent", "classLDOE_1_1UI_1_1Windows_1_1Components_1_1ModificationRecipeItemComponent.html", "classLDOE_1_1UI_1_1Windows_1_1Components_1_1ModificationRecipeItemComponent" ],
             [ "ModificationRecipeListComponent", "classLDOE_1_1UI_1_1Windows_1_1Components_1_1ModificationRecipeListComponent.html", "classLDOE_1_1UI_1_1Windows_1_1Components_1_1ModificationRecipeListComponent" ],
             [ "NetworkModeSettingsComponent", "classLDOE_1_1UI_1_1Windows_1_1Components_1_1NetworkModeSettingsComponent.html", "classLDOE_1_1UI_1_1Windows_1_1Components_1_1NetworkModeSettingsComponent" ],
+            [ "PlayerIdComponent", "classLDOE_1_1UI_1_1Windows_1_1Components_1_1PlayerIdComponent.html", "classLDOE_1_1UI_1_1Windows_1_1Components_1_1PlayerIdComponent" ],
+            [ "SettingsPanelComponent", "classLDOE_1_1UI_1_1Windows_1_1Components_1_1SettingsPanelComponent.html", "classLDOE_1_1UI_1_1Windows_1_1Components_1_1SettingsPanelComponent" ],
             [ "SpecializationResearchButtonComponent", "classLDOE_1_1UI_1_1Windows_1_1Components_1_1SpecializationResearchButtonComponent.html", "classLDOE_1_1UI_1_1Windows_1_1Components_1_1SpecializationResearchButtonComponent" ],
             [ "SpecializationResearchButtonPanelComponent", "classLDOE_1_1UI_1_1Windows_1_1Components_1_1SpecializationResearchButtonPanelComponent.html", "classLDOE_1_1UI_1_1Windows_1_1Components_1_1SpecializationResearchButtonPanelComponent" ],
             [ "SpecializationSelectionComponent", "classLDOE_1_1UI_1_1Windows_1_1Components_1_1SpecializationSelectionComponent.html", "classLDOE_1_1UI_1_1Windows_1_1Components_1_1SpecializationSelectionComponent" ],
             [ "StorePageIndicatorComponent", "classLDOE_1_1UI_1_1Windows_1_1Components_1_1StorePageIndicatorComponent.html", "classLDOE_1_1UI_1_1Windows_1_1Components_1_1StorePageIndicatorComponent" ],
             [ "TutorialMessage", "classLDOE_1_1UI_1_1Windows_1_1Components_1_1TutorialMessage.html", "classLDOE_1_1UI_1_1Windows_1_1Components_1_1TutorialMessage" ]
+          ] ],
+          [ "Core", "namespaceLDOE_1_1UI_1_1Windows_1_1Core.html", [
+            [ "GameStartLoaderScreen", "classLDOE_1_1UI_1_1Windows_1_1Core_1_1GameStartLoaderScreen.html", "classLDOE_1_1UI_1_1Windows_1_1Core_1_1GameStartLoaderScreen" ]
           ] ],
           [ "DebugView", "namespaceLDOE_1_1UI_1_1Windows_1_1DebugView.html", [
             [ "Components", "namespaceLDOE_1_1UI_1_1Windows_1_1DebugView_1_1Components.html", [
@@ -3711,7 +3815,8 @@ var annotated_dup =
                   [ "InventoryPopupComponent", "classLDOE_1_1UI_1_1Windows_1_1HUD_1_1Windows_1_1InventoryPopup_1_1Components_1_1InventoryPopupComponent.html", "classLDOE_1_1UI_1_1Windows_1_1HUD_1_1Windows_1_1InventoryPopup_1_1Components_1_1InventoryPopupComponent" ]
                 ] ]
               ] ],
-              [ "InventoryPopupScreen", "classLDOE_1_1UI_1_1Windows_1_1HUD_1_1Windows_1_1InventoryPopupScreen.html", "classLDOE_1_1UI_1_1Windows_1_1HUD_1_1Windows_1_1InventoryPopupScreen" ]
+              [ "InventoryPopupScreen", "classLDOE_1_1UI_1_1Windows_1_1HUD_1_1Windows_1_1InventoryPopupScreen.html", "classLDOE_1_1UI_1_1Windows_1_1HUD_1_1Windows_1_1InventoryPopupScreen" ],
+              [ "OpeningProgressScreen", "classLDOE_1_1UI_1_1Windows_1_1HUD_1_1Windows_1_1OpeningProgressScreen.html", "classLDOE_1_1UI_1_1Windows_1_1HUD_1_1Windows_1_1OpeningProgressScreen" ]
             ] ]
           ] ],
           [ "Inventory", "namespaceLDOE_1_1UI_1_1Windows_1_1Inventory.html", [
@@ -3816,6 +3921,10 @@ var annotated_dup =
             ] ]
           ] ],
           [ "Popups", "namespaceLDOE_1_1UI_1_1Windows_1_1Popups.html", [
+            [ "Components", "namespaceLDOE_1_1UI_1_1Windows_1_1Popups_1_1Components.html", [
+              [ "CheckboxGroupDialogItemComponent", "classLDOE_1_1UI_1_1Windows_1_1Popups_1_1Components_1_1CheckboxGroupDialogItemComponent.html", "classLDOE_1_1UI_1_1Windows_1_1Popups_1_1Components_1_1CheckboxGroupDialogItemComponent" ],
+              [ "CheckboxGroupDialogWindowComponent", "classLDOE_1_1UI_1_1Windows_1_1Popups_1_1Components_1_1CheckboxGroupDialogWindowComponent.html", "classLDOE_1_1UI_1_1Windows_1_1Popups_1_1Components_1_1CheckboxGroupDialogWindowComponent" ]
+            ] ],
             [ "DialogWindow", "namespaceLDOE_1_1UI_1_1Windows_1_1Popups_1_1DialogWindow.html", [
               [ "Components", "namespaceLDOE_1_1UI_1_1Windows_1_1Popups_1_1DialogWindow_1_1Components.html", [
                 [ "DialogWindowComponent", "classLDOE_1_1UI_1_1Windows_1_1Popups_1_1DialogWindow_1_1Components_1_1DialogWindowComponent.html", "classLDOE_1_1UI_1_1Windows_1_1Popups_1_1DialogWindow_1_1Components_1_1DialogWindowComponent" ]
@@ -3829,7 +3938,8 @@ var annotated_dup =
               ] ],
               [ "PartyInvitePopupInfo", "structLDOE_1_1UI_1_1Windows_1_1Popups_1_1PartyInvitePopup_1_1PartyInvitePopupInfo.html", "structLDOE_1_1UI_1_1Windows_1_1Popups_1_1PartyInvitePopup_1_1PartyInvitePopupInfo" ],
               [ "PartyInvitePopupScreen", "classLDOE_1_1UI_1_1Windows_1_1Popups_1_1PartyInvitePopup_1_1PartyInvitePopupScreen.html", "classLDOE_1_1UI_1_1Windows_1_1Popups_1_1PartyInvitePopup_1_1PartyInvitePopupScreen" ]
-            ] ]
+            ] ],
+            [ "CheckboxGroupDialogWindowScreen", "classLDOE_1_1UI_1_1Windows_1_1Popups_1_1CheckboxGroupDialogWindowScreen.html", "classLDOE_1_1UI_1_1Windows_1_1Popups_1_1CheckboxGroupDialogWindowScreen" ]
           ] ],
           [ "Postbox", "namespaceLDOE_1_1UI_1_1Windows_1_1Postbox.html", [
             [ "Components", "namespaceLDOE_1_1UI_1_1Windows_1_1Postbox_1_1Components.html", [
@@ -3869,6 +3979,14 @@ var annotated_dup =
               [ "RaidRewardsPanelComponent", "classLDOE_1_1UI_1_1Windows_1_1Raid_1_1Components_1_1RaidRewardsPanelComponent.html", "classLDOE_1_1UI_1_1Windows_1_1Raid_1_1Components_1_1RaidRewardsPanelComponent" ]
             ] ],
             [ "RaidScreen", "classLDOE_1_1UI_1_1Windows_1_1Raid_1_1RaidScreen.html", "classLDOE_1_1UI_1_1Windows_1_1Raid_1_1RaidScreen" ]
+          ] ],
+          [ "Settings", "namespaceLDOE_1_1UI_1_1Windows_1_1Settings.html", [
+            [ "Windows", "namespaceLDOE_1_1UI_1_1Windows_1_1Settings_1_1Windows.html", [
+              [ "Components", "namespaceLDOE_1_1UI_1_1Windows_1_1Settings_1_1Windows_1_1Components.html", [
+                [ "SupportMessagePanelComponent", "classLDOE_1_1UI_1_1Windows_1_1Settings_1_1Windows_1_1Components_1_1SupportMessagePanelComponent.html", "classLDOE_1_1UI_1_1Windows_1_1Settings_1_1Windows_1_1Components_1_1SupportMessagePanelComponent" ]
+              ] ],
+              [ "SupportMessageScreen", "classLDOE_1_1UI_1_1Windows_1_1Settings_1_1Windows_1_1SupportMessageScreen.html", "classLDOE_1_1UI_1_1Windows_1_1Settings_1_1Windows_1_1SupportMessageScreen" ]
+            ] ]
           ] ],
           [ "Specializations", "namespaceLDOE_1_1UI_1_1Windows_1_1Specializations.html", [
             [ "Components", "namespaceLDOE_1_1UI_1_1Windows_1_1Specializations_1_1Components.html", [
@@ -4044,6 +4162,7 @@ var annotated_dup =
           [ "NetworkModeSettingsScreen", "classLDOE_1_1UI_1_1Windows_1_1NetworkModeSettingsScreen.html", "classLDOE_1_1UI_1_1Windows_1_1NetworkModeSettingsScreen" ],
           [ "PlayerDeathScreen", "classLDOE_1_1UI_1_1Windows_1_1PlayerDeathScreen.html", "classLDOE_1_1UI_1_1Windows_1_1PlayerDeathScreen" ],
           [ "QuestsScreen", "classLDOE_1_1UI_1_1Windows_1_1QuestsScreen.html", "classLDOE_1_1UI_1_1Windows_1_1QuestsScreen" ],
+          [ "SettingsScreen", "classLDOE_1_1UI_1_1Windows_1_1SettingsScreen.html", "classLDOE_1_1UI_1_1Windows_1_1SettingsScreen" ],
           [ "SpecializationScreen", "classLDOE_1_1UI_1_1Windows_1_1SpecializationScreen.html", "classLDOE_1_1UI_1_1Windows_1_1SpecializationScreen" ],
           [ "StoreScreen", "classLDOE_1_1UI_1_1Windows_1_1StoreScreen.html", "classLDOE_1_1UI_1_1Windows_1_1StoreScreen" ],
           [ "TutorialScreen", "classLDOE_1_1UI_1_1Windows_1_1TutorialScreen.html", "classLDOE_1_1UI_1_1Windows_1_1TutorialScreen" ],
@@ -4183,17 +4302,25 @@ var annotated_dup =
     ] ],
     [ "Terrain", "namespaceTerrain.html", [
       [ "PatchBased", "namespaceTerrain_1_1PatchBased.html", [
+        [ "Brushes", "namespaceTerrain_1_1PatchBased_1_1Brushes.html", [
+          [ "TerrainOverrideData", "structTerrain_1_1PatchBased_1_1Brushes_1_1TerrainOverrideData.html", "structTerrain_1_1PatchBased_1_1Brushes_1_1TerrainOverrideData" ],
+          [ "TerrainPainter", "classTerrain_1_1PatchBased_1_1Brushes_1_1TerrainPainter.html", "classTerrain_1_1PatchBased_1_1Brushes_1_1TerrainPainter" ]
+        ] ],
         [ "Data", "namespaceTerrain_1_1PatchBased_1_1Data.html", [
           [ "EntityCollection", "structTerrain_1_1PatchBased_1_1Data_1_1EntityCollection.html", "structTerrain_1_1PatchBased_1_1Data_1_1EntityCollection" ],
           [ "GroundEdgeConfig", "structTerrain_1_1PatchBased_1_1Data_1_1GroundEdgeConfig.html", "structTerrain_1_1PatchBased_1_1Data_1_1GroundEdgeConfig" ],
           [ "GroundTypeConfig", "classTerrain_1_1PatchBased_1_1Data_1_1GroundTypeConfig.html", "classTerrain_1_1PatchBased_1_1Data_1_1GroundTypeConfig" ],
+          [ "PatchGenerationSettings", "structTerrain_1_1PatchBased_1_1Data_1_1PatchGenerationSettings.html", "structTerrain_1_1PatchBased_1_1Data_1_1PatchGenerationSettings" ],
           [ "TransformData", "structTerrain_1_1PatchBased_1_1Data_1_1TransformData.html", "structTerrain_1_1PatchBased_1_1Data_1_1TransformData" ]
         ] ],
         [ "EdgeGenerator", "namespaceTerrain_1_1PatchBased_1_1EdgeGenerator.html", [
           [ "EdgeConfig", "structTerrain_1_1PatchBased_1_1EdgeGenerator_1_1EdgeConfig.html", "structTerrain_1_1PatchBased_1_1EdgeGenerator_1_1EdgeConfig" ]
         ] ],
         [ "Editor", "namespaceTerrain_1_1PatchBased_1_1Editor.html", [
-          [ "LocationGeneratorSettingsEditor", "classTerrain_1_1PatchBased_1_1Editor_1_1LocationGeneratorSettingsEditor.html", "classTerrain_1_1PatchBased_1_1Editor_1_1LocationGeneratorSettingsEditor" ]
+          [ "DebugTexDrawer", "classTerrain_1_1PatchBased_1_1Editor_1_1DebugTexDrawer.html", "classTerrain_1_1PatchBased_1_1Editor_1_1DebugTexDrawer" ],
+          [ "GroundTypeConfigEditor", "classTerrain_1_1PatchBased_1_1Editor_1_1GroundTypeConfigEditor.html", "classTerrain_1_1PatchBased_1_1Editor_1_1GroundTypeConfigEditor" ],
+          [ "LocationGeneratorSettingsEditor", "classTerrain_1_1PatchBased_1_1Editor_1_1LocationGeneratorSettingsEditor.html", "classTerrain_1_1PatchBased_1_1Editor_1_1LocationGeneratorSettingsEditor" ],
+          [ "TerrainPainterTool", "classTerrain_1_1PatchBased_1_1Editor_1_1TerrainPainterTool.html", "classTerrain_1_1PatchBased_1_1Editor_1_1TerrainPainterTool" ]
         ] ],
         [ "Interfaces", "namespaceTerrain_1_1PatchBased_1_1Interfaces.html", [
           [ "IEditorLocationGenerator", "interfaceTerrain_1_1PatchBased_1_1Interfaces_1_1IEditorLocationGenerator.html", "interfaceTerrain_1_1PatchBased_1_1Interfaces_1_1IEditorLocationGenerator" ],
@@ -4223,6 +4350,7 @@ var annotated_dup =
           [ "Warp", "classTerrain_1_1PatchBased_1_1Processors_1_1Warp.html", "classTerrain_1_1PatchBased_1_1Processors_1_1Warp" ]
         ] ],
         [ "AddPerlin", "structTerrain_1_1PatchBased_1_1AddPerlin.html", "structTerrain_1_1PatchBased_1_1AddPerlin" ],
+        [ "AddUserData", "structTerrain_1_1PatchBased_1_1AddUserData.html", "structTerrain_1_1PatchBased_1_1AddUserData" ],
         [ "DebugTex", "structTerrain_1_1PatchBased_1_1DebugTex.html", "structTerrain_1_1PatchBased_1_1DebugTex" ],
         [ "EditorTerrainGenerator", "classTerrain_1_1PatchBased_1_1EditorTerrainGenerator.html", "classTerrain_1_1PatchBased_1_1EditorTerrainGenerator" ],
         [ "FastRND", "structTerrain_1_1PatchBased_1_1FastRND.html", "structTerrain_1_1PatchBased_1_1FastRND" ],
@@ -4238,7 +4366,6 @@ var annotated_dup =
         [ "IVertex", "interfaceTerrain_1_1PatchBased_1_1IVertex.html", "interfaceTerrain_1_1PatchBased_1_1IVertex" ],
         [ "LocationGeneratorSettings", "classTerrain_1_1PatchBased_1_1LocationGeneratorSettings.html", "classTerrain_1_1PatchBased_1_1LocationGeneratorSettings" ],
         [ "MixTexture", "structTerrain_1_1PatchBased_1_1MixTexture.html", "structTerrain_1_1PatchBased_1_1MixTexture" ],
-        [ "PatchGenerationSettings", "structTerrain_1_1PatchBased_1_1PatchGenerationSettings.html", "structTerrain_1_1PatchBased_1_1PatchGenerationSettings" ],
         [ "PerlinTable", "structTerrain_1_1PatchBased_1_1PerlinTable.html", "structTerrain_1_1PatchBased_1_1PerlinTable" ],
         [ "PointDebug", "classTerrain_1_1PatchBased_1_1PointDebug.html", "classTerrain_1_1PatchBased_1_1PointDebug" ],
         [ "PoissonQuadAsset", "classTerrain_1_1PatchBased_1_1PoissonQuadAsset.html", "classTerrain_1_1PatchBased_1_1PoissonQuadAsset" ],
@@ -4318,6 +4445,7 @@ var annotated_dup =
       [ "VertexLightWindow", "classVertexLight_1_1VertexLightWindow.html", "classVertexLight_1_1VertexLightWindow" ]
     ] ],
     [ "AppLifetimeResourceManager", "classAppLifetimeResourceManager.html", "classAppLifetimeResourceManager" ],
+    [ "AudioSliderComponent", "classAudioSliderComponent.html", "classAudioSliderComponent" ],
     [ "AutoMaterial", "structAutoMaterial.html", "structAutoMaterial" ],
     [ "AutoMaterialDrawer", "classAutoMaterialDrawer.html", "classAutoMaterialDrawer" ],
     [ "AvatarController", "classAvatarController.html", "classAvatarController" ],
@@ -4356,6 +4484,7 @@ var annotated_dup =
     [ "HighlightButton", "classHighlightButton.html", "classHighlightButton" ],
     [ "ImmutableEcsFieldAttribute", "classImmutableEcsFieldAttribute.html", null ],
     [ "InjectEditorAttribute", "classInjectEditorAttribute.html", "classInjectEditorAttribute" ],
+    [ "InputFieldWithCounterComponent", "classInputFieldWithCounterComponent.html", "classInputFieldWithCounterComponent" ],
     [ "InspectorLog", "classInspectorLog.html", "classInspectorLog" ],
     [ "InventoryHelper", "classInventoryHelper.html", "classInventoryHelper" ],
     [ "InventoryTest", "classInventoryTest.html", "classInventoryTest" ],
@@ -4385,5 +4514,6 @@ var annotated_dup =
     [ "Timer", "structTimer.html", "structTimer" ],
     [ "Transit", "classTransit.html", "classTransit" ],
     [ "VertexBufferAccessor", "structVertexBufferAccessor.html", "structVertexBufferAccessor" ],
+    [ "VideoPlayerComponent", "classVideoPlayerComponent.html", "classVideoPlayerComponent" ],
     [ "WorkbenchCraft", "classWorkbenchCraft.html", "classWorkbenchCraft" ]
 ];

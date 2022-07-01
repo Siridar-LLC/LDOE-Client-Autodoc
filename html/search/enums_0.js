@@ -8,5 +8,6 @@ var searchData=
   ['appstartupstate_5',['AppStartupState',['../namespaceLDOE_1_1Startup.html#ade563445003af11b561ff1f1f743caa4',1,'LDOE::Startup']]],
   ['armortype_6',['ArmorType',['../namespaceLDOE_1_1Meta_1_1Inventory.html#a1971cc9dcea927f947e450f121c38b07',1,'LDOE::Meta::Inventory']]],
   ['aspectrewardtype_7',['AspectRewardType',['../namespaceLDOE_1_1Features_1_1Mechanics_1_1Aspects_1_1Configs.html#a34c23db9e608527a67c093859a6c5ed3',1,'LDOE::Features::Mechanics::Aspects::Configs']]],
-  ['attackmode_8',['AttackMode',['../namespaceLDOE_1_1Common_1_1Components.html#a018b13370587fe5544133e885ee07478',1,'LDOE::Common::Components']]]
+  ['attackmode_8',['AttackMode',['../namespaceLDOE_1_1Common_1_1Components.html#a018b13370587fe5544133e885ee07478',1,'LDOE::Common::Components']]],
+  ['audiotype_9',['AudioType',['../namespaceLDOE_1_1Meta_1_1Audio.html#ac922ef24ceb3e29195c7b53bb949f24f',1,'LDOE::Meta::Audio']]]
 ];

@@ -1,0 +1,5 @@
+var structLDOE_1_1UI_1_1Windows_1_1Popups_1_1Components_1_1CheckboxGroupDialogWindowComponent_1_1CheckboxGroupListClosure =
+[
+    [ "nameList", "structLDOE_1_1UI_1_1Windows_1_1Popups_1_1Components_1_1CheckboxGroupDialogWindowComponent_1_1CheckboxGroupListClosure.html#a84178b248686044a2f984842979e8488", null ],
+    [ "index", "structLDOE_1_1UI_1_1Windows_1_1Popups_1_1Components_1_1CheckboxGroupDialogWindowComponent_1_1CheckboxGroupListClosure.html#a6d55670987ca0ac75c42a1261f683374", null ]
+];

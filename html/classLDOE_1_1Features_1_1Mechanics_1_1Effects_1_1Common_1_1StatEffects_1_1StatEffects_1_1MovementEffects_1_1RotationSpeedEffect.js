@@ -1,0 +1,7 @@
+var classLDOE_1_1Features_1_1Mechanics_1_1Effects_1_1Common_1_1StatEffects_1_1StatEffects_1_1MovementEffects_1_1RotationSpeedEffect =
+[
+    [ "Apply", "classLDOE_1_1Features_1_1Mechanics_1_1Effects_1_1Common_1_1StatEffects_1_1StatEffects_1_1MovementEffects_1_1RotationSpeedEffect.html#af92a64c7bd3264c191bc423b38e5b542", null ],
+    [ "Cancel", "classLDOE_1_1Features_1_1Mechanics_1_1Effects_1_1Common_1_1StatEffects_1_1StatEffects_1_1MovementEffects_1_1RotationSpeedEffect.html#a8707cc75602a5af5264202a6f2c7560a", null ],
+    [ "GetAffectedParameterDelta", "classLDOE_1_1Features_1_1Mechanics_1_1Effects_1_1Common_1_1StatEffects_1_1StatEffects_1_1MovementEffects_1_1RotationSpeedEffect.html#a518b4c68cc70dd472e121b8793295511", null ],
+    [ "changeValue", "classLDOE_1_1Features_1_1Mechanics_1_1Effects_1_1Common_1_1StatEffects_1_1StatEffects_1_1MovementEffects_1_1RotationSpeedEffect.html#ae71745875ccf1f0d222b2ecf3bd9e724", null ]
+];

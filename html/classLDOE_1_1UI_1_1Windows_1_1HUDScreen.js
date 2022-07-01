@@ -13,5 +13,6 @@ var classLDOE_1_1UI_1_1Windows_1_1HUDScreen =
     [ "characterInventoryUpdated", "classLDOE_1_1UI_1_1Windows_1_1HUDScreen.html#abd3ff2fab26414559534a261ed7de8e4", null ],
     [ "inventoryUpdated", "classLDOE_1_1UI_1_1Windows_1_1HUDScreen.html#abb9be7610443cb26c5827a2e9c09c23a", null ],
     [ "skillsUpdated", "classLDOE_1_1UI_1_1Windows_1_1HUDScreen.html#a4d0668dcfa618f201bb6fffbce02790e", null ],
+    [ "unlockInteractionEvent", "classLDOE_1_1UI_1_1Windows_1_1HUDScreen.html#a62fa5390d48913d88e5ad825734aac07", null ],
     [ "workbenchOpened", "classLDOE_1_1UI_1_1Windows_1_1HUDScreen.html#ab456d6edb1c87aa8bf6ebca22470d66b", null ]
 ];

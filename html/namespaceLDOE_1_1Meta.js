@@ -2,6 +2,7 @@ var namespaceLDOE_1_1Meta =
 [
     [ "Admin", "namespaceLDOE_1_1Meta_1_1Admin.html", "namespaceLDOE_1_1Meta_1_1Admin" ],
     [ "Aspects", "namespaceLDOE_1_1Meta_1_1Aspects.html", "namespaceLDOE_1_1Meta_1_1Aspects" ],
+    [ "Audio", "namespaceLDOE_1_1Meta_1_1Audio.html", "namespaceLDOE_1_1Meta_1_1Audio" ],
     [ "Buffs", "namespaceLDOE_1_1Meta_1_1Buffs.html", [
       [ "BuffCategory", "namespaceLDOE_1_1Meta_1_1Buffs.html#ae254da00b9848dbc241a14b40dd35afa", [
         [ "Attack", "namespaceLDOE_1_1Meta_1_1Buffs.html#ae254da00b9848dbc241a14b40dd35afaadcfafcb4323b102c7e204555d313ba0a", null ],
@@ -17,6 +18,7 @@ var namespaceLDOE_1_1Meta =
     [ "Dialogs", "namespaceLDOE_1_1Meta_1_1Dialogs.html", "namespaceLDOE_1_1Meta_1_1Dialogs" ],
     [ "Friends", "namespaceLDOE_1_1Meta_1_1Friends.html", "namespaceLDOE_1_1Meta_1_1Friends" ],
     [ "GlobalMap", "namespaceLDOE_1_1Meta_1_1GlobalMap.html", "namespaceLDOE_1_1Meta_1_1GlobalMap" ],
+    [ "GraphicsQuality", "namespaceLDOE_1_1Meta_1_1GraphicsQuality.html", "namespaceLDOE_1_1Meta_1_1GraphicsQuality" ],
     [ "Inventory", "namespaceLDOE_1_1Meta_1_1Inventory.html", [
       [ "ArmorType", "namespaceLDOE_1_1Meta_1_1Inventory.html#a1971cc9dcea927f947e450f121c38b07", [
         [ "Body", "namespaceLDOE_1_1Meta_1_1Inventory.html#a1971cc9dcea927f947e450f121c38b07aac101b32dda4448cf13a93fe283dddd8", null ]

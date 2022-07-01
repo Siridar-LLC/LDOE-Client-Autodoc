@@ -11,8 +11,7 @@ var searchData=
   ['jump_8',['Jump',['../structAnimations_1_1CharacterAnimationController.html#a6fe8fca8d0c2c14a85bb1d441a3eb4daa101f693f72287a2819a364f64ca1c0ed',1,'Animations::CharacterAnimationController']]],
   ['jumpdistancemode_9',['JumpDistanceMode',['../classGIRenderFeature.html#a026f8d58f203b24316c9121328fe58ed',1,'GIRenderFeature']]],
   ['jumpin_10',['JumpIn',['../structAnimations_1_1CharacterAnimationController.html#a6fe8fca8d0c2c14a85bb1d441a3eb4daa1c95d9e6df6547d00d985a2b3eff8561',1,'Animations::CharacterAnimationController']]],
-  ['jwt_11',['Jwt',['../classLDOE_1_1Network_1_1Rest_1_1API_1_1Jwt.html#ac0f3597b140681e755368048e69136aa',1,'LDOE::Network::Rest::API::Jwt']]],
-  ['jwt_12',['jwt',['../classLDOE_1_1Network_1_1Rest_1_1API_1_1AuthenticationResult.html#a6b2320d53c16987e76e32bd78bae3e73',1,'LDOE::Network::Rest::API::AuthenticationResult']]],
-  ['jwt_13',['Jwt',['../classLDOE_1_1Network_1_1Rest_1_1API_1_1Jwt.html',1,'LDOE::Network::Rest::API']]],
-  ['jwt_2ecs_14',['Jwt.cs',['../Jwt_8cs.html',1,'']]]
+  ['jwt_11',['jwt',['../classLDOE_1_1Network_1_1Rest_1_1API_1_1AuthenticationResult.html#a6b2320d53c16987e76e32bd78bae3e73',1,'LDOE::Network::Rest::API::AuthenticationResult']]],
+  ['jwt_12',['Jwt',['../classLDOE_1_1Network_1_1Rest_1_1API_1_1Jwt.html#ac0f3597b140681e755368048e69136aa',1,'LDOE.Network.Rest.API.Jwt.Jwt()'],['../classLDOE_1_1Network_1_1Rest_1_1API_1_1Jwt.html',1,'LDOE.Network.Rest.API.Jwt']]],
+  ['jwt_2ecs_13',['Jwt.cs',['../Jwt_8cs.html',1,'']]]
 ];

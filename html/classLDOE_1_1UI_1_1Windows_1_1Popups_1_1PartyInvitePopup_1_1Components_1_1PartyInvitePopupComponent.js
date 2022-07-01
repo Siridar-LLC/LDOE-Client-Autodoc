@@ -7,6 +7,5 @@ var classLDOE_1_1UI_1_1Windows_1_1Popups_1_1PartyInvitePopup_1_1Components_1_1Pa
     [ "caption", "classLDOE_1_1UI_1_1Windows_1_1Popups_1_1PartyInvitePopup_1_1Components_1_1PartyInvitePopupComponent.html#a7dec07238734b46ab6dbbdbca1ad8959", null ],
     [ "description", "classLDOE_1_1UI_1_1Windows_1_1Popups_1_1PartyInvitePopup_1_1Components_1_1PartyInvitePopupComponent.html#a22dd2e73da9d164d775700be064a3472", null ],
     [ "okButton", "classLDOE_1_1UI_1_1Windows_1_1Popups_1_1PartyInvitePopup_1_1Components_1_1PartyInvitePopupComponent.html#ac9d8828d35880cfb9654c074403f97f0", null ],
-    [ "timer", "classLDOE_1_1UI_1_1Windows_1_1Popups_1_1PartyInvitePopup_1_1Components_1_1PartyInvitePopupComponent.html#a9d8d1a96af2daa5acd17b7076b1a38a6", null ],
-    [ "IsAnswered", "classLDOE_1_1UI_1_1Windows_1_1Popups_1_1PartyInvitePopup_1_1Components_1_1PartyInvitePopupComponent.html#a6645c60118fda57518a40438235dda82", null ]
+    [ "timer", "classLDOE_1_1UI_1_1Windows_1_1Popups_1_1PartyInvitePopup_1_1Components_1_1PartyInvitePopupComponent.html#a9d8d1a96af2daa5acd17b7076b1a38a6", null ]
 ];

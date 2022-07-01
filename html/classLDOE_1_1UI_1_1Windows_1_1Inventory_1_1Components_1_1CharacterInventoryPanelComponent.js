@@ -2,6 +2,7 @@ var classLDOE_1_1UI_1_1Windows_1_1Inventory_1_1Components_1_1CharacterInventoryP
 [
     [ "OnHideEnd", "classLDOE_1_1UI_1_1Windows_1_1Inventory_1_1Components_1_1CharacterInventoryPanelComponent.html#ad8b72d5de69d9db8bb402f1ad4ba3e36", null ],
     [ "OnItemBeginDrag", "classLDOE_1_1UI_1_1Windows_1_1Inventory_1_1Components_1_1CharacterInventoryPanelComponent.html#a1486adbfeb0d523a76a8c18b5972eeb9", null ],
+    [ "OnItemEndDrag", "classLDOE_1_1UI_1_1Windows_1_1Inventory_1_1Components_1_1CharacterInventoryPanelComponent.html#a2e8b5c7d0f2ff6986aa2890f41e4cc1a", null ],
     [ "OnItemSelected", "classLDOE_1_1UI_1_1Windows_1_1Inventory_1_1Components_1_1CharacterInventoryPanelComponent.html#a1031d570f381dceddf1c84271d1be305", null ],
     [ "OnShowBegin", "classLDOE_1_1UI_1_1Windows_1_1Inventory_1_1Components_1_1CharacterInventoryPanelComponent.html#af35b21db2aca00d4153b14a3af2ab40c", null ],
     [ "OnShowEnd", "classLDOE_1_1UI_1_1Windows_1_1Inventory_1_1Components_1_1CharacterInventoryPanelComponent.html#a4ff3cd04d53095b09167442a71ceb26d", null ],

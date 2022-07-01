@@ -1,0 +1,4 @@
+var structLDOE_1_1Features_1_1Mechanics_1_1Buffs_1_1Components_1_1BuffExpirationRangeAttackComponent =
+[
+    [ "autoAttacksAmount", "structLDOE_1_1Features_1_1Mechanics_1_1Buffs_1_1Components_1_1BuffExpirationRangeAttackComponent.html#a9819c61b76f053ff3e2a710d07b509d4", null ]
+];

@@ -10,5 +10,6 @@ var classLDOE_1_1UI_1_1Modules_1_1AudioButtonComponentModule =
     [ "OnPointerDown", "classLDOE_1_1UI_1_1Modules_1_1AudioButtonComponentModule.html#a86ad2e296e74aaef9a39a3b8d544c7c3", null ],
     [ "OnPointerUp", "classLDOE_1_1UI_1_1Modules_1_1AudioButtonComponentModule.html#a0780bc30d56cbc00822e13482d52c2bc", null ],
     [ "data", "classLDOE_1_1UI_1_1Modules_1_1AudioButtonComponentModule.html#a206bbf862a5221a466c9acbaa981adc0", null ],
-    [ "eventType", "classLDOE_1_1UI_1_1Modules_1_1AudioButtonComponentModule.html#af37ae28d1daad24e6b9e21747b468afe", null ]
+    [ "eventType", "classLDOE_1_1UI_1_1Modules_1_1AudioButtonComponentModule.html#af37ae28d1daad24e6b9e21747b468afe", null ],
+    [ "playOneShot", "classLDOE_1_1UI_1_1Modules_1_1AudioButtonComponentModule.html#a442aa2047621750eb7eeaaf06d81fe42", null ]
 ];

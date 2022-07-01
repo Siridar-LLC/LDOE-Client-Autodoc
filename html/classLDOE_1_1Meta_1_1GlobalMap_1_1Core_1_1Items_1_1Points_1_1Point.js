@@ -11,5 +11,6 @@ var classLDOE_1_1Meta_1_1GlobalMap_1_1Core_1_1Items_1_1Points_1_1Point =
     [ "selectionView", "classLDOE_1_1Meta_1_1GlobalMap_1_1Core_1_1Items_1_1Points_1_1Point.html#ae0629d0560c608df75ba298ea43197fe", null ],
     [ "Id", "classLDOE_1_1Meta_1_1GlobalMap_1_1Core_1_1Items_1_1Points_1_1Point.html#a46c1b29ee42f936dfe44f0186bc6679f", null ],
     [ "Prototype", "classLDOE_1_1Meta_1_1GlobalMap_1_1Core_1_1Items_1_1Points_1_1Point.html#a5620ea4cae28acfe7628c30531d9cb05", null ],
-    [ "RemoteData", "classLDOE_1_1Meta_1_1GlobalMap_1_1Core_1_1Items_1_1Points_1_1Point.html#a22666259006826ecf053a3488e2c3f03", null ]
+    [ "RemoteData", "classLDOE_1_1Meta_1_1GlobalMap_1_1Core_1_1Items_1_1Points_1_1Point.html#a22666259006826ecf053a3488e2c3f03", null ],
+    [ "View", "classLDOE_1_1Meta_1_1GlobalMap_1_1Core_1_1Items_1_1Points_1_1Point.html#a0e233bde133d510f95e47c6b2fe0b004", null ]
 ];
